@@ -1,0 +1,24 @@
+{
+  "name": "Chess AI",
+  "description": "A chess engine written in Rust",
+  "sort": -5,
+  "color": "#66ff66",
+  "links": {
+    "repo": {
+      "provider": "github",
+      "path": "MaddyGuthridge/chs"
+    }
+  },
+  "associations": {
+    "languages": [
+      "rust"
+    ],
+    "skills": [
+      "type-safety",
+      "algorithms"
+    ],
+    "status": [
+      "incomplete"
+    ]
+  }
+}

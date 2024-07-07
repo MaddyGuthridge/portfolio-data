@@ -1,0 +1,13 @@
+{
+  "name": "Languages",
+  "description": "Programming languages that I have experience with",
+  "color": "#FFCB06",
+  "sort": 80,
+  "associations": {
+    "projects": {
+      "title": "Projects written in this language",
+      "display": "card",
+      "reverseLookup": true
+    }
+  }
+}

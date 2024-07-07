@@ -1,0 +1,34 @@
+{
+  "name": "Waydriver",
+  "description": "A task management system to help people prioritise their lives",
+  "color": "#009999",
+  "sort": -2,
+  "links": {
+    "repo": {
+      "provider": "github",
+      "path": "Waydriver"
+    }
+  },
+  "associations": {
+    "languages": [
+      "typescript",
+      "javascript",
+      "html"
+    ],
+    "frameworks": [
+      "express",
+      "next",
+      "jest",
+      "react"
+    ],
+    "skills": [
+      "full-stack",
+      "frontend",
+      "backend",
+      "algorithms"
+    ],
+    "status": [
+      "in-progress"
+    ]
+  }
+}
