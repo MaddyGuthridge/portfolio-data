@@ -2,16 +2,44 @@
   "name": "OS/161",
   "description": "A teaching operating system, developed by Harvard University",
   "color": "#70CB89",
-  "sort": 1,
-  "associations": {
-    "languages": [
-      "c"
+  "icon": null,
+  "banner": null,
+  "links": [
+    [
+      {
+        "groupId": "languages",
+        "title": "Languages",
+        "style": "chip"
+      },
+      [
+        "c"
+      ]
     ],
-    "skills": [
-      "os"
+    [
+      {
+        "groupId": "skills",
+        "title": "Skills",
+        "style": "chip"
+      },
+      [
+        "os"
+      ]
     ],
-    "status": [
-      "complete"
+    [
+      {
+        "groupId": "status",
+        "title": "Status",
+        "style": "chip"
+      },
+      [
+        "complete"
+      ]
     ]
-  }
+  ],
+  "urls": {
+    "repo": null,
+    "site": null,
+    "docs": null
+  },
+  "package": null
 }

@@ -2,12 +2,58 @@
   "name": "Backend",
   "description": "Backend development focuses on implementing business logic for applications",
   "color": "#DE4517",
-  "sort": 4,
-  "associations": {
-    "skills": [
-      "frontend",
-      "full-stack",
-      "sql"
+  "icon": null,
+  "banner": null,
+  "links": [
+    [
+      {
+        "groupId": "skills",
+        "title": "Skills",
+        "style": "chip"
+      },
+      [
+        "frontend",
+        "full-stack",
+        "sql"
+      ]
+    ],
+    [
+      {
+        "groupId": "projects",
+        "title": "Projects demonstrating this skill",
+        "style": "card"
+      },
+      [
+        "ensemble-forum",
+        "waydriver"
+      ]
+    ],
+    [
+      {
+        "groupId": "frameworks",
+        "title": "Related frameworks",
+        "style": "chip"
+      },
+      [
+        "express",
+        "flask"
+      ]
+    ],
+    [
+      {
+        "groupId": "languages",
+        "title": "Related languages",
+        "style": "chip"
+      },
+      [
+        "python"
+      ]
     ]
-  }
+  ],
+  "urls": {
+    "repo": null,
+    "site": null,
+    "docs": null
+  },
+  "package": null
 }

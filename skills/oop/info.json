@@ -2,10 +2,53 @@
   "name": "Object oriented programming",
   "description": "Object oriented programming is a data-centric design paradigm that represents software in terms of interactions between objects",
   "color": "#EA2026",
-  "visibility": "filtered",
-  "associations": {
-    "skills": [
-      "design-patterns"
+  "icon": null,
+  "banner": null,
+  "links": [
+    [
+      {
+        "groupId": "skills",
+        "title": "Skills",
+        "style": "chip"
+      },
+      [
+        "design-patterns"
+      ]
+    ],
+    [
+      {
+        "groupId": "projects",
+        "title": "Projects demonstrating this skill",
+        "style": "card"
+      },
+      [
+        "dungeon-mania",
+        "universal-controller-script"
+      ]
+    ],
+    [
+      {
+        "groupId": "frameworks",
+        "title": "Related frameworks",
+        "style": "chip"
+      },
+      []
+    ],
+    [
+      {
+        "groupId": "languages",
+        "title": "Related languages",
+        "style": "chip"
+      },
+      [
+        "java"
+      ]
     ]
-  }
+  ],
+  "urls": {
+    "repo": null,
+    "site": null,
+    "docs": null
+  },
+  "package": null
 }

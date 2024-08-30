@@ -2,37 +2,67 @@
   "name": "PyHTML Enhanced",
   "description": "A library for building HTML documents with a simple and learnable syntax",
   "color": "#FFCB06",
-  "sort": 8,
-  "links": {
+  "icon": "icon.png",
+  "banner": null,
+  "links": [
+    [
+      {
+        "groupId": "languages",
+        "title": "Languages",
+        "style": "chip"
+      },
+      [
+        "python",
+        "html"
+      ]
+    ],
+    [
+      {
+        "groupId": "frameworks",
+        "title": "Frameworks",
+        "style": "chip"
+      },
+      [
+        "mypy",
+        "pytest"
+      ]
+    ],
+    [
+      {
+        "groupId": "skills",
+        "title": "Skills",
+        "style": "chip"
+      },
+      [
+        "web-scraping",
+        "type-safety",
+        "packages",
+        "frontend",
+        "documentation",
+        "test-driven-development"
+      ]
+    ],
+    [
+      {
+        "groupId": "status",
+        "title": "Status",
+        "style": "chip"
+      },
+      [
+        "active"
+      ]
+    ]
+  ],
+  "urls": {
     "repo": {
       "provider": "github",
       "path": "COMP1010UNSW/PyHTML-Enhanced"
-    }
+    },
+    "site": null,
+    "docs": null
   },
   "package": {
     "provider": "pypi",
     "id": "pyhtml-enhanced"
-  },
-  "associations": {
-    "languages": [
-      "python",
-      "html"
-    ],
-    "frameworks": [
-      "mypy",
-      "pytest"
-    ],
-    "skills": [
-      "web-scraping",
-      "type-safety",
-      "packages",
-      "frontend",
-      "documentation",
-      "test-driven-development"
-    ],
-    "status": [
-      "active"
-    ]
-  },
-  "icon": "icon.png"
+  }
 }

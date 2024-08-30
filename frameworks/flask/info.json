@@ -2,13 +2,45 @@
   "name": "Flask",
   "description": "Flask is a Python web framework",
   "color": "#F7E200",
-  "associations": {
-    "languages": [
-      "python"
+  "icon": null,
+  "banner": null,
+  "links": [
+    [
+      {
+        "groupId": "languages",
+        "title": "Languages",
+        "style": "chip"
+      },
+      [
+        "python"
+      ]
     ],
-    "skills": [
-      "full-stack",
-      "backend"
+    [
+      {
+        "groupId": "skills",
+        "title": "Skills",
+        "style": "chip"
+      },
+      [
+        "full-stack",
+        "backend"
+      ]
+    ],
+    [
+      {
+        "groupId": "projects",
+        "title": "Projects utilising this framework",
+        "style": "card"
+      },
+      [
+        "ensemble-forum"
+      ]
     ]
-  }
+  ],
+  "urls": {
+    "repo": null,
+    "site": null,
+    "docs": null
+  },
+  "package": null
 }

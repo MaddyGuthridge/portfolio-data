@@ -2,34 +2,64 @@
   "name": "Jestspectation",
   "description": "A pattern matching system to make clear and reliable test cases",
   "color": "#ff3399",
-  "sort": 3,
-  "links": {
-    "docs": "https://maddyguthridge.github.io/Jestspectation/",
+  "icon": null,
+  "banner": null,
+  "links": [
+    [
+      {
+        "groupId": "languages",
+        "title": "Languages",
+        "style": "chip"
+      },
+      [
+        "python"
+      ]
+    ],
+    [
+      {
+        "groupId": "frameworks",
+        "title": "Frameworks",
+        "style": "chip"
+      },
+      [
+        "pytest",
+        "mkdocs",
+        "mypy"
+      ]
+    ],
+    [
+      {
+        "groupId": "skills",
+        "title": "Skills",
+        "style": "chip"
+      },
+      [
+        "test-driven-development",
+        "algorithms",
+        "packages"
+      ]
+    ],
+    [
+      {
+        "groupId": "status",
+        "title": "Status",
+        "style": "chip"
+      },
+      [
+        "active"
+      ]
+    ]
+  ],
+  "urls": {
     "repo": {
       "provider": "github",
       "path": "MaddyGuthridge/Jestspectation"
-    }
+    },
+    "site": null,
+    "docs": "https://maddyguthridge.github.io/Jestspectation/"
   },
   "package": {
     "provider": "pypi",
     "id": "jestspectation"
-  },
-  "associations": {
-    "languages": [
-      "python"
-    ],
-    "frameworks": [
-      "pytest",
-      "mkdocs",
-      "mypy"
-    ],
-    "skills": [
-      "test-driven-development",
-      "algorithms",
-      "packages"
-    ],
-    "status": [
-      "active"
-    ]
   }
 }

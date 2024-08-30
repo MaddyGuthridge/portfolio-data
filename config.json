@@ -1,4 +1,12 @@
 {
-  "name": "Maddy Guthridge",
-  "defaultClassifier": "projects"
+  "siteName": "Maddy Guthridge",
+  "listedGroups": [
+    "frameworks",
+    "languages",
+    "projects",
+    "skills",
+    "status"
+  ],
+  "color": "#ffaaff",
+  "version": "0.3.0"
 }

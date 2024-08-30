@@ -2,25 +2,50 @@
   "name": "Concussion Shell",
   "description": "A (joke) shell that runs in a Python REPL",
   "color": "#A81B0B",
-  "links": {
+  "icon": null,
+  "banner": null,
+  "links": [
+    [
+      {
+        "groupId": "languages",
+        "title": "Languages",
+        "style": "chip"
+      },
+      [
+        "python"
+      ]
+    ],
+    [
+      {
+        "groupId": "skills",
+        "title": "Skills",
+        "style": "chip"
+      },
+      [
+        "systems"
+      ]
+    ],
+    [
+      {
+        "groupId": "status",
+        "title": "Status",
+        "style": "chip"
+      },
+      [
+        "complete"
+      ]
+    ]
+  ],
+  "urls": {
     "repo": {
       "provider": "github",
       "path": "MaddyGuthridge/concussion"
-    }
+    },
+    "site": null,
+    "docs": null
   },
   "package": {
     "provider": "pypi",
     "id": "concussion"
-  },
-  "associations": {
-    "languages": [
-      "python"
-    ],
-    "skills": [
-      "systems"
-    ],
-    "status": [
-      "complete"
-    ]
   }
 }

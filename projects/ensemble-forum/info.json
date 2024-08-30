@@ -1,35 +1,65 @@
 {
   "name": "Ensemble Forum",
   "description": "A next-gen education-centred web forum designed for teachers and students alike",
-  "sort": 3,
   "color": "#cc66ff",
-  "links": {
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "links": [
+    [
+      {
+        "groupId": "languages",
+        "title": "Languages",
+        "style": "chip"
+      },
+      [
+        "python"
+      ]
+    ],
+    [
+      {
+        "groupId": "frameworks",
+        "title": "Frameworks",
+        "style": "chip"
+      },
+      [
+        "flask",
+        "piccolo-orm",
+        "mypy",
+        "pytest"
+      ]
+    ],
+    [
+      {
+        "groupId": "skills",
+        "title": "Skills",
+        "style": "chip"
+      },
+      [
+        "type-safety",
+        "test-driven-development",
+        "sql",
+        "backend",
+        "agile"
+      ]
+    ],
+    [
+      {
+        "groupId": "status",
+        "title": "Status",
+        "style": "chip"
+      },
+      [
+        "complete"
+      ]
+    ]
+  ],
+  "urls": {
     "repo": {
       "provider": "github",
       "path": "EnsembleForum/Ensemble"
-    }
+    },
+    "site": null,
+    "docs": null
   },
-  "associations": {
-    "languages": [
-      "python"
-    ],
-    "frameworks": [
-      "flask",
-      "piccolo-orm",
-      "mypy",
-      "pytest"
-    ],
-    "skills": [
-      "type-safety",
-      "test-driven-development",
-      "sql",
-      "backend",
-      "agile"
-    ],
-    "status": [
-      "complete"
-    ]
-  },
-  "icon": "icon.png",
-  "banner": "banner.png"
+  "package": null
 }

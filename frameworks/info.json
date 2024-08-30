@@ -2,15 +2,28 @@
   "name": "Frameworks",
   "description": "Programming frameworks and libraries that I have worked with",
   "color": "#B05095",
-  "sort": 70,
-  "filterClassifiers": [
-    "languages"
+  "icon": null,
+  "banner": null,
+  "filterGroups": [
+    "languages",
+    "projects",
+    "skills",
+    "status"
   ],
-  "associations": {
-    "projects": {
-      "title": "Projects utilising this framework",
-      "display": "card",
-      "reverseLookup": true
-    }
-  }
+  "listedItems": [
+    "sveltekit",
+    "pytest",
+    "midi-controller-scripting",
+    "mypy",
+    "react",
+    "mkdocs",
+    "next",
+    "jest",
+    "sympy",
+    "piccolo-orm",
+    "ncurses",
+    "flask",
+    "express"
+  ],
+  "filterItems": []
 }

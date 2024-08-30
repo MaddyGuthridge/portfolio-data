@@ -2,10 +2,35 @@
   "name": "JavaScript",
   "description": "JavaScript a high-level programming language designed for adding interactivity to websites",
   "color": "#FFCB06",
-  "sort": -1,
-  "associations": {
-    "skills": [
-      "frontend"
+  "icon": null,
+  "banner": null,
+  "links": [
+    [
+      {
+        "groupId": "skills",
+        "title": "Skills",
+        "style": "chip"
+      },
+      [
+        "frontend"
+      ]
+    ],
+    [
+      {
+        "groupId": "projects",
+        "title": "Projects written in this language",
+        "style": "card"
+      },
+      [
+        "portfolio",
+        "waydriver"
+      ]
     ]
-  }
+  ],
+  "urls": {
+    "repo": null,
+    "site": null,
+    "docs": null
+  },
+  "package": null
 }

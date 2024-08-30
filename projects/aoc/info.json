@@ -2,22 +2,47 @@
   "name": "Advent of Code",
   "description": "Advent of Code is a 25-day algorithms programming challenge",
   "color": "#F7E200",
-  "links": {
+  "icon": null,
+  "banner": "banner.jpg",
+  "links": [
+    [
+      {
+        "groupId": "languages",
+        "title": "Languages",
+        "style": "chip"
+      },
+      [
+        "rust"
+      ]
+    ],
+    [
+      {
+        "groupId": "skills",
+        "title": "Skills",
+        "style": "chip"
+      },
+      [
+        "algorithms"
+      ]
+    ],
+    [
+      {
+        "groupId": "status",
+        "title": "Status",
+        "style": "chip"
+      },
+      [
+        "complete"
+      ]
+    ]
+  ],
+  "urls": {
     "repo": {
       "provider": "github",
       "path": "MaddyGuthridge/aoc-2023"
-    }
+    },
+    "site": null,
+    "docs": null
   },
-  "associations": {
-    "languages": [
-      "rust"
-    ],
-    "skills": [
-      "algorithms"
-    ],
-    "status": [
-      "complete"
-    ]
-  },
-  "banner": "banner.jpg"
+  "package": null
 }

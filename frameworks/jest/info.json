@@ -2,14 +2,45 @@
   "name": "Jest",
   "description": "Jest is a flexible testing framework for JavaScript and TypeScript",
   "color": "#F7E200",
-  "sort": 1,
-  "associations": {
-    "languages": [
-      "javascript",
-      "typescript"
+  "icon": null,
+  "banner": null,
+  "links": [
+    [
+      {
+        "groupId": "languages",
+        "title": "Languages",
+        "style": "chip"
+      },
+      [
+        "javascript",
+        "typescript"
+      ]
     ],
-    "skills": [
-      "test-driven-development"
+    [
+      {
+        "groupId": "skills",
+        "title": "Skills",
+        "style": "chip"
+      },
+      [
+        "test-driven-development"
+      ]
+    ],
+    [
+      {
+        "groupId": "projects",
+        "title": "Projects utilising this framework",
+        "style": "card"
+      },
+      [
+        "waydriver"
+      ]
     ]
-  }
+  ],
+  "urls": {
+    "repo": null,
+    "site": null,
+    "docs": null
+  },
+  "package": null
 }

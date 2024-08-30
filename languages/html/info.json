@@ -2,10 +2,36 @@
   "name": "HTML",
   "description": "HTML is a markup language used for building webpages",
   "color": "#FFCB06",
-  "sort": -2,
-  "associations": {
-    "skills": [
-      "frontend"
+  "icon": null,
+  "banner": null,
+  "links": [
+    [
+      {
+        "groupId": "skills",
+        "title": "Skills",
+        "style": "chip"
+      },
+      [
+        "frontend"
+      ]
+    ],
+    [
+      {
+        "groupId": "projects",
+        "title": "Projects written in this language",
+        "style": "card"
+      },
+      [
+        "portfolio",
+        "pyhtml",
+        "waydriver"
+      ]
     ]
-  }
+  ],
+  "urls": {
+    "repo": null,
+    "site": null,
+    "docs": null
+  },
+  "package": null
 }

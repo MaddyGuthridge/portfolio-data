@@ -2,36 +2,64 @@
   "name": "FL Studio API Stubs",
   "description": "Type definitions, and full documentation for FL Studio's MIDI Controller Scripting API",
   "color": "#ff6600",
-  "sort": 6,
-  "links": {
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "links": [
+    [
+      {
+        "groupId": "languages",
+        "title": "Languages",
+        "style": "chip"
+      },
+      [
+        "python"
+      ]
+    ],
+    [
+      {
+        "groupId": "frameworks",
+        "title": "Frameworks",
+        "style": "chip"
+      },
+      [
+        "midi-controller-scripting",
+        "mkdocs",
+        "mypy"
+      ]
+    ],
+    [
+      {
+        "groupId": "skills",
+        "title": "Skills",
+        "style": "chip"
+      },
+      [
+        "midi",
+        "documentation",
+        "packages"
+      ]
+    ],
+    [
+      {
+        "groupId": "status",
+        "title": "Status",
+        "style": "chip"
+      },
+      [
+        "active"
+      ]
+    ]
+  ],
+  "urls": {
     "repo": {
       "provider": "github",
       "path": "IL-Group/FL-Studio-API-Stubs"
     },
+    "site": null,
     "docs": "https://il-group.github.io/FL-Studio-API-Stubs/"
   },
   "package": {
     "provider": "pypi",
     "id": "fl-studio-api-stubs"
-  },
-  "associations": {
-    "languages": [
-      "python"
-    ],
-    "frameworks": [
-      "midi-controller-scripting",
-      "mkdocs",
-      "mypy"
-    ],
-    "skills": [
-      "midi",
-      "documentation",
-      "packages"
-    ],
-    "status": [
-      "active"
-    ]
-  },
-  "icon": "icon.png",
-  "banner": "banner.png"
+  }
 }

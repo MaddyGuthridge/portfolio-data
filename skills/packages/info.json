@@ -2,5 +2,44 @@
   "name": "Packages",
   "description": "Packages are reusable and shareable libraries that are intended to be used within other programming projects",
   "color": "#17E238",
-  "sort": 5
+  "icon": null,
+  "banner": null,
+  "links": [
+    [
+      {
+        "groupId": "projects",
+        "title": "Projects demonstrating this skill",
+        "style": "card"
+      },
+      [
+        "equator",
+        "fl-studio-api-stubs",
+        "flapi",
+        "jestspectation",
+        "pyhtml"
+      ]
+    ],
+    [
+      {
+        "groupId": "frameworks",
+        "title": "Related frameworks",
+        "style": "chip"
+      },
+      []
+    ],
+    [
+      {
+        "groupId": "languages",
+        "title": "Related languages",
+        "style": "chip"
+      },
+      []
+    ]
+  ],
+  "urls": {
+    "repo": null,
+    "site": null,
+    "docs": null
+  },
+  "package": null
 }

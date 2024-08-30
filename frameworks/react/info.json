@@ -2,15 +2,46 @@
   "name": "React",
   "description": "React is a frontend library for building composable and reactive web apps",
   "color": "#58C4DC",
-  "sort": 2,
-  "associations": {
-    "languages": [
-      "typescript",
-      "javascript",
-      "html"
+  "icon": null,
+  "banner": null,
+  "links": [
+    [
+      {
+        "groupId": "languages",
+        "title": "Languages",
+        "style": "chip"
+      },
+      [
+        "typescript",
+        "javascript",
+        "html"
+      ]
     ],
-    "skills": [
-      "frontend"
+    [
+      {
+        "groupId": "skills",
+        "title": "Skills",
+        "style": "chip"
+      },
+      [
+        "frontend"
+      ]
+    ],
+    [
+      {
+        "groupId": "projects",
+        "title": "Projects utilising this framework",
+        "style": "card"
+      },
+      [
+        "waydriver"
+      ]
     ]
-  }
+  ],
+  "urls": {
+    "repo": null,
+    "site": null,
+    "docs": null
+  },
+  "package": null
 }

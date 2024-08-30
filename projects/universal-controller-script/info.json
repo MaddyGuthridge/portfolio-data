@@ -2,32 +2,62 @@
   "name": "Universal Controller Script",
   "description": "An advanced hardware integration layer for the FL Studio audio workstation",
   "color": "#cc00ff",
-  "sort": 10,
-  "links": {
+  "icon": "icon.png",
+  "banner": null,
+  "links": [
+    [
+      {
+        "groupId": "languages",
+        "title": "Languages",
+        "style": "chip"
+      },
+      [
+        "python"
+      ]
+    ],
+    [
+      {
+        "groupId": "frameworks",
+        "title": "Frameworks",
+        "style": "chip"
+      },
+      [
+        "midi-controller-scripting",
+        "mypy"
+      ]
+    ],
+    [
+      {
+        "groupId": "skills",
+        "title": "Skills",
+        "style": "chip"
+      },
+      [
+        "type-safety",
+        "oop",
+        "design-patterns",
+        "midi",
+        "documentation"
+      ]
+    ],
+    [
+      {
+        "groupId": "status",
+        "title": "Status",
+        "style": "chip"
+      },
+      [
+        "active"
+      ]
+    ]
+  ],
+  "urls": {
     "repo": {
       "provider": "github",
       "path": "MaddyGuthridge/Universal-Controller-Script"
-    }
+    },
+    "site": null,
+    "docs": null
   },
-  "associations": {
-    "languages": [
-      "python"
-    ],
-    "frameworks": [
-      "midi-controller-scripting",
-      "mypy"
-    ],
-    "skills": [
-      "type-safety",
-      "oop",
-      "design-patterns",
-      "midi",
-      "documentation"
-    ],
-    "status": [
-      "active"
-    ]
-  },
-  "visibility": "visible",
-  "icon": "icon.png"
+  "package": null
 }

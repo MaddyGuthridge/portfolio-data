@@ -2,10 +2,34 @@
   "name": "SymPy",
   "description": "SymPy is a symbolic mathematics library for Python",
   "color": "#62A539",
-  "visibility": "filtered",
-  "associations": {
-    "languages": [
-      "python"
+  "icon": null,
+  "banner": null,
+  "links": [
+    [
+      {
+        "groupId": "languages",
+        "title": "Languages",
+        "style": "chip"
+      },
+      [
+        "python"
+      ]
+    ],
+    [
+      {
+        "groupId": "projects",
+        "title": "Projects utilising this framework",
+        "style": "card"
+      },
+      [
+        "equator"
+      ]
     ]
-  }
+  ],
+  "urls": {
+    "repo": null,
+    "site": null,
+    "docs": null
+  },
+  "package": null
 }
