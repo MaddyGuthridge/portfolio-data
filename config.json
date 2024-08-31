@@ -1,12 +1,11 @@
 {
   "siteName": "Maddy Guthridge",
   "listedGroups": [
+    "projects",
     "frameworks",
     "languages",
-    "projects",
-    "skills",
-    "status"
+    "skills"
   ],
   "color": "#ffaaff",
-  "version": "0.3.0"
+  "version": "0.3.3"
 }
