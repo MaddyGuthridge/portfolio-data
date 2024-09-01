@@ -4,12 +4,7 @@
   "color": "#FFCB06",
   "icon": null,
   "banner": null,
-  "filterGroups": [
-    "frameworks",
-    "projects",
-    "skills",
-    "status"
-  ],
+  "filterGroups": [],
   "listedItems": [
     "python",
     "rust",

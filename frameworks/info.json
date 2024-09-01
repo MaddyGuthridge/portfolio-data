@@ -5,10 +5,7 @@
   "icon": null,
   "banner": null,
   "filterGroups": [
-    "languages",
-    "projects",
-    "skills",
-    "status"
+    "languages"
   ],
   "listedItems": [
     "sveltekit",

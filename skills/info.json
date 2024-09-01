@@ -5,10 +5,7 @@
   "icon": null,
   "banner": null,
   "filterGroups": [
-    "frameworks",
-    "languages",
-    "projects",
-    "status"
+    "languages"
   ],
   "listedItems": [
     "type-safety",
