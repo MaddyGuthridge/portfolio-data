@@ -29,5 +29,9 @@
     "waydriver",
     "chess-ai"
   ],
-  "filterItems": []
+  "filterItems": [],
+  "pageDescription": "",
+  "keywords": [
+    "Projects"
+  ]
 }

@@ -50,5 +50,9 @@
     "site": null,
     "docs": null
   },
-  "package": null
+  "package": null,
+  "pageDescription": "",
+  "keywords": [
+    "Object oriented programming"
+  ]
 }

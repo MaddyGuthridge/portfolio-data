@@ -47,5 +47,9 @@
   "package": {
     "provider": "pypi",
     "id": "concussion"
-  }
+  },
+  "pageDescription": "",
+  "keywords": [
+    "Concussion Shell"
+  ]
 }

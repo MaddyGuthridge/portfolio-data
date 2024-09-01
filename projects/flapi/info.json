@@ -60,5 +60,9 @@
   "package": {
     "provider": "pypi",
     "id": "flapi"
-  }
+  },
+  "pageDescription": "",
+  "keywords": [
+    "Flapi"
+  ]
 }

@@ -60,5 +60,9 @@
   "package": {
     "provider": "pypi",
     "id": "equatorpy"
-  }
+  },
+  "pageDescription": "",
+  "keywords": [
+    "Equator"
+  ]
 }

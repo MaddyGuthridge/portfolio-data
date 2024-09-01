@@ -58,5 +58,9 @@
     "site": "https://portfolio.maddyguthridge.com",
     "docs": null
   },
-  "package": null
+  "package": null,
+  "pageDescription": "",
+  "keywords": [
+    "Portfolio"
+  ]
 }

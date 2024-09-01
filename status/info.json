@@ -16,5 +16,9 @@
     "complete",
     "active"
   ],
-  "filterItems": []
+  "filterItems": [],
+  "pageDescription": "",
+  "keywords": [
+    "Project status"
+  ]
 }

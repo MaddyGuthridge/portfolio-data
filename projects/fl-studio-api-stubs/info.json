@@ -61,5 +61,9 @@
   "package": {
     "provider": "pypi",
     "id": "fl-studio-api-stubs"
-  }
+  },
+  "pageDescription": "",
+  "keywords": [
+    "FL Studio API Stubs"
+  ]
 }

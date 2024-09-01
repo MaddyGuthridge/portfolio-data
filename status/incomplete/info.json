@@ -33,5 +33,9 @@
     "site": null,
     "docs": null
   },
-  "package": null
+  "package": null,
+  "pageDescription": "",
+  "keywords": [
+    "Incomplete"
+  ]
 }

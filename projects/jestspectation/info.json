@@ -61,5 +61,9 @@
   "package": {
     "provider": "pypi",
     "id": "jestspectation"
-  }
+  },
+  "pageDescription": "",
+  "keywords": [
+    "Jestspectation"
+  ]
 }

@@ -20,5 +20,9 @@
     "html",
     "jasmin"
   ],
-  "filterItems": []
+  "filterItems": [],
+  "pageDescription": "",
+  "keywords": [
+    "Languages"
+  ]
 }
