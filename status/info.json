@@ -16,7 +16,12 @@
     "complete",
     "active"
   ],
-  "filterItems": [],
+  "filterItems": [
+    "incomplete",
+    "in-progress",
+    "complete",
+    "active"
+  ],
   "pageDescription": "",
   "keywords": [
     "Project status"

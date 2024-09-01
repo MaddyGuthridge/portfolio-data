@@ -20,7 +20,15 @@
     "html",
     "jasmin"
   ],
-  "filterItems": [],
+  "filterItems": [
+    "python",
+    "rust",
+    "typescript",
+    "java",
+    "c",
+    "javascript",
+    "html"
+  ],
   "pageDescription": "",
   "keywords": [
     "Languages"

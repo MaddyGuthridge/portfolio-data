@@ -19,13 +19,24 @@
     "mkdocs",
     "next",
     "jest",
-    "sympy",
     "piccolo-orm",
-    "ncurses",
+    "flask",
+    "express",
+    "sympy",
+    "ncurses"
+  ],
+  "filterItems": [
+    "sveltekit",
+    "pytest",
+    "midi-controller-scripting",
+    "mypy",
+    "react",
+    "mkdocs",
+    "next",
+    "jest",
     "flask",
     "express"
   ],
-  "filterItems": [],
   "pageDescription": "",
   "keywords": [
     "Frameworks"

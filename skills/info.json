@@ -32,7 +32,28 @@
     "web-scraping",
     "sql"
   ],
-  "filterItems": [],
+  "filterItems": [
+    "type-safety",
+    "documentation",
+    "packages",
+    "full-stack",
+    "backend",
+    "test-driven-development",
+    "design-patterns",
+    "midi",
+    "compilers",
+    "frontend",
+    "cryptography",
+    "systems",
+    "static-analysis",
+    "os",
+    "oop",
+    "concurrency",
+    "algorithms",
+    "agile",
+    "web-scraping",
+    "sql"
+  ],
   "pageDescription": "",
   "keywords": [
     "Skills"
