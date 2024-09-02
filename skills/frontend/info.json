@@ -47,7 +47,8 @@
       },
       [
         "html",
-        "javascript"
+        "javascript",
+        "typescript"
       ]
     ]
   ],

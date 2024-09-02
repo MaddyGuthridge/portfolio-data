@@ -8,11 +8,12 @@
     [
       {
         "groupId": "languages",
-        "title": "Languages",
+        "title": "Related languages",
         "style": "chip"
       },
       [
-        "javascript"
+        "javascript",
+        "html"
       ]
     ],
     [
@@ -23,7 +24,9 @@
       },
       [
         "type-safety",
-        "full-stack"
+        "full-stack",
+        "frontend",
+        "backend"
       ]
     ],
     [

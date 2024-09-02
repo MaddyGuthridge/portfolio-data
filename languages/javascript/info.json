@@ -12,7 +12,9 @@
         "style": "chip"
       },
       [
-        "frontend"
+        "frontend",
+        "full-stack",
+        "backend"
       ]
     ],
     [
