@@ -2,5 +2,47 @@
   "name": "Compilers",
   "description": "Compilers are programs used to interpret human-readable code and convert it into machine code",
   "color": "#27C400",
-  "sort": 2
+  "icon": null,
+  "banner": null,
+  "links": [
+    [
+      {
+        "groupId": "projects",
+        "title": "Projects demonstrating this skill",
+        "style": "card"
+      },
+      [
+        "equator",
+        "vc-compiler"
+      ]
+    ],
+    [
+      {
+        "groupId": "frameworks",
+        "title": "Related frameworks",
+        "style": "chip"
+      },
+      []
+    ],
+    [
+      {
+        "groupId": "languages",
+        "title": "Related languages",
+        "style": "chip"
+      },
+      [
+        "jasmin"
+      ]
+    ]
+  ],
+  "urls": {
+    "repo": null,
+    "site": null,
+    "docs": null
+  },
+  "package": null,
+  "pageDescription": "",
+  "keywords": [
+    "Compilers"
+  ]
 }

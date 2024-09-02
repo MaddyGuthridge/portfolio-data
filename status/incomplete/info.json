@@ -2,12 +2,40 @@
   "name": "Incomplete",
   "description": "This project is not feature-complete, and isn't receiving active development",
   "color": "#F58D47",
-  "visibility": "filtered",
-  "associations": {
-    "status": [
-      "active",
-      "complete",
-      "in-progress"
+  "icon": null,
+  "banner": null,
+  "links": [
+    [
+      {
+        "groupId": "status",
+        "title": "Other statuses",
+        "style": "chip"
+      },
+      [
+        "active",
+        "complete",
+        "in-progress"
+      ]
+    ],
+    [
+      {
+        "groupId": "projects",
+        "title": "Projects with this status",
+        "style": "card"
+      },
+      [
+        "chess-ai"
+      ]
     ]
-  }
+  ],
+  "urls": {
+    "repo": null,
+    "site": null,
+    "docs": null
+  },
+  "package": null,
+  "pageDescription": "",
+  "keywords": [
+    "Incomplete"
+  ]
 }

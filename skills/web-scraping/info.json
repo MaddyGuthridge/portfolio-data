@@ -2,6 +2,44 @@
   "name": "Web scraping",
   "description": "Web scraping is the process of programmatically browsing and parsing the contents of websites",
   "color": "#27C400",
-  "visibility": "filtered",
-  "sort": -1
+  "icon": null,
+  "banner": null,
+  "links": [
+    [
+      {
+        "groupId": "projects",
+        "title": "Projects demonstrating this skill",
+        "style": "card"
+      },
+      [
+        "pyhtml"
+      ]
+    ],
+    [
+      {
+        "groupId": "frameworks",
+        "title": "Related frameworks",
+        "style": "chip"
+      },
+      []
+    ],
+    [
+      {
+        "groupId": "languages",
+        "title": "Related languages",
+        "style": "chip"
+      },
+      []
+    ]
+  ],
+  "urls": {
+    "repo": null,
+    "site": null,
+    "docs": null
+  },
+  "package": null,
+  "pageDescription": "",
+  "keywords": [
+    "Web scraping"
+  ]
 }

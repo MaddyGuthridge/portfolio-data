@@ -2,5 +2,49 @@
   "name": "Test-driven development",
   "description": "Test-driven development is the process of using testing to validate software as it is being written",
   "color": "#27609E",
-  "sort": 3
+  "icon": null,
+  "banner": null,
+  "links": [
+    [
+      {
+        "groupId": "projects",
+        "title": "Projects demonstrating this skill",
+        "style": "card"
+      },
+      [
+        "ensemble-forum",
+        "jestspectation",
+        "pyhtml"
+      ]
+    ],
+    [
+      {
+        "groupId": "frameworks",
+        "title": "Related frameworks",
+        "style": "chip"
+      },
+      [
+        "jest",
+        "pytest"
+      ]
+    ],
+    [
+      {
+        "groupId": "languages",
+        "title": "Related languages",
+        "style": "chip"
+      },
+      []
+    ]
+  ],
+  "urls": {
+    "repo": null,
+    "site": null,
+    "docs": null
+  },
+  "package": null,
+  "pageDescription": "",
+  "keywords": [
+    "Test-driven development"
+  ]
 }

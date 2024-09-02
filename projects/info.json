@@ -2,17 +2,36 @@
   "name": "Projects",
   "description": "Projects, assignments and other things that I have worked on",
   "color": "#0099ff",
-  "sort": 100,
-  "filterClassifiers": [
-    "status",
-    "languages",
+  "icon": null,
+  "banner": null,
+  "filterGroups": [
     "frameworks",
-    "skills"
+    "languages",
+    "skills",
+    "status"
   ],
-  "associations": {
-    "projects": {
-      "title": "Related projects",
-      "display": "card"
-    }
-  }
+  "listedItems": [
+    "universal-controller-script",
+    "pyhtml",
+    "vc-compiler",
+    "fl-studio-api-stubs",
+    "portfolio",
+    "enigma-breaker",
+    "jestspectation",
+    "ensemble-forum",
+    "os-161",
+    "flapi",
+    "equator",
+    "dungeon-mania",
+    "shuck",
+    "concussion",
+    "aoc",
+    "waydriver",
+    "chess-ai"
+  ],
+  "filterItems": [],
+  "pageDescription": "",
+  "keywords": [
+    "Projects"
+  ]
 }

@@ -2,11 +2,45 @@
   "name": "Active",
   "description": "This project is in a functional state and is being actively developed",
   "color": "#47F5F2",
-  "associations": {
-    "status": [
-      "complete",
-      "in-progress",
-      "incomplete"
+  "icon": null,
+  "banner": null,
+  "links": [
+    [
+      {
+        "groupId": "status",
+        "title": "Other statuses",
+        "style": "chip"
+      },
+      [
+        "complete",
+        "in-progress",
+        "incomplete"
+      ]
+    ],
+    [
+      {
+        "groupId": "projects",
+        "title": "Projects with this status",
+        "style": "card"
+      },
+      [
+        "fl-studio-api-stubs",
+        "flapi",
+        "jestspectation",
+        "portfolio",
+        "pyhtml",
+        "universal-controller-script"
+      ]
     ]
-  }
+  ],
+  "urls": {
+    "repo": null,
+    "site": null,
+    "docs": null
+  },
+  "package": null,
+  "pageDescription": "",
+  "keywords": [
+    "Active"
+  ]
 }

@@ -2,5 +2,48 @@
   "name": "MIDI",
   "description": "MIDI is a low-latency binary communication protocol used to communicate with music hardware and software",
   "color": "#D26B60",
-  "sort": 2
+  "icon": null,
+  "banner": null,
+  "links": [
+    [
+      {
+        "groupId": "projects",
+        "title": "Projects demonstrating this skill",
+        "style": "card"
+      },
+      [
+        "fl-studio-api-stubs",
+        "flapi",
+        "universal-controller-script"
+      ]
+    ],
+    [
+      {
+        "groupId": "frameworks",
+        "title": "Related frameworks",
+        "style": "chip"
+      },
+      [
+        "midi-controller-scripting"
+      ]
+    ],
+    [
+      {
+        "groupId": "languages",
+        "title": "Related languages",
+        "style": "chip"
+      },
+      []
+    ]
+  ],
+  "urls": {
+    "repo": null,
+    "site": null,
+    "docs": null
+  },
+  "package": null,
+  "pageDescription": "",
+  "keywords": [
+    "MIDI"
+  ]
 }

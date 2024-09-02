@@ -2,17 +2,28 @@
   "name": "Project status",
   "description": "The status of projects",
   "color": "#47F584",
-  "sort": 90,
-  "visibility": "unlisted",
-  "associations": {
-    "projects": {
-      "title": "Projects with this status",
-      "display": "card",
-      "reverseLookup": true
-    },
-    "status": {
-      "title": "Other statuses",
-      "display": "chip"
-    }
-  }
+  "icon": null,
+  "banner": null,
+  "filterGroups": [
+    "frameworks",
+    "languages",
+    "projects",
+    "skills"
+  ],
+  "listedItems": [
+    "incomplete",
+    "in-progress",
+    "complete",
+    "active"
+  ],
+  "filterItems": [
+    "incomplete",
+    "in-progress",
+    "complete",
+    "active"
+  ],
+  "pageDescription": "",
+  "keywords": [
+    "Project status"
+  ]
 }

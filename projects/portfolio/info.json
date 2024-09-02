@@ -2,32 +2,65 @@
   "name": "Portfolio",
   "description": "My portfolio website -- you're looking at it",
   "color": "#0099ff",
-  "sort": 5,
-  "links": {
+  "icon": null,
+  "banner": null,
+  "links": [
+    [
+      {
+        "groupId": "languages",
+        "title": "Languages",
+        "style": "chip"
+      },
+      [
+        "typescript",
+        "javascript",
+        "html"
+      ]
+    ],
+    [
+      {
+        "groupId": "frameworks",
+        "title": "Frameworks",
+        "style": "chip"
+      },
+      [
+        "sveltekit"
+      ]
+    ],
+    [
+      {
+        "groupId": "skills",
+        "title": "Skills",
+        "style": "chip"
+      },
+      [
+        "type-safety",
+        "full-stack",
+        "frontend"
+      ]
+    ],
+    [
+      {
+        "groupId": "status",
+        "title": "Status",
+        "style": "chip"
+      },
+      [
+        "active"
+      ]
+    ]
+  ],
+  "urls": {
     "repo": {
       "provider": "github",
       "path": "MaddyGuthridge/portfolio"
     },
-    "site": "https://portfolio.maddyguthridge.com"
+    "site": "https://portfolio.maddyguthridge.com",
+    "docs": null
   },
-  "associations": {
-    "languages": [
-      "typescript",
-      "javascript",
-      "html"
-    ],
-    "frameworks": [
-      "sveltekit"
-    ],
-    "skills": [
-      "type-safety",
-      "full-stack",
-      "frontend"
-    ],
-    "status": [
-      "active"
-    ]
-  },
-  "visibility": "visible",
-  "extras": {}
+  "package": null,
+  "pageDescription": "",
+  "keywords": [
+    "Portfolio"
+  ]
 }

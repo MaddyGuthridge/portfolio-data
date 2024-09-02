@@ -2,13 +2,50 @@
   "name": "Pytest",
   "description": "Pytest is a flexible testing framework for Python",
   "color": "#78A808",
-  "sort": 4,
-  "associations": {
-    "languages": [
-      "python"
+  "icon": null,
+  "banner": null,
+  "links": [
+    [
+      {
+        "groupId": "languages",
+        "title": "Languages",
+        "style": "chip"
+      },
+      [
+        "python"
+      ]
     ],
-    "skills": [
-      "test-driven-development"
+    [
+      {
+        "groupId": "skills",
+        "title": "Skills",
+        "style": "chip"
+      },
+      [
+        "test-driven-development"
+      ]
+    ],
+    [
+      {
+        "groupId": "projects",
+        "title": "Projects utilising this framework",
+        "style": "card"
+      },
+      [
+        "ensemble-forum",
+        "jestspectation",
+        "pyhtml"
+      ]
     ]
-  }
+  ],
+  "urls": {
+    "repo": null,
+    "site": null,
+    "docs": null
+  },
+  "package": null,
+  "pageDescription": "",
+  "keywords": [
+    "Pytest"
+  ]
 }

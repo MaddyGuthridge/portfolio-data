@@ -2,5 +2,44 @@
   "name": "Cryptography",
   "description": "Cryptography is the process of encoding secret information",
   "color": "#823815",
-  "sort": 1
+  "icon": null,
+  "banner": null,
+  "links": [
+    [
+      {
+        "groupId": "projects",
+        "title": "Projects demonstrating this skill",
+        "style": "card"
+      },
+      [
+        "enigma-breaker"
+      ]
+    ],
+    [
+      {
+        "groupId": "frameworks",
+        "title": "Related frameworks",
+        "style": "chip"
+      },
+      []
+    ],
+    [
+      {
+        "groupId": "languages",
+        "title": "Related languages",
+        "style": "chip"
+      },
+      []
+    ]
+  ],
+  "urls": {
+    "repo": null,
+    "site": null,
+    "docs": null
+  },
+  "package": null,
+  "pageDescription": "",
+  "keywords": [
+    "Cryptography"
+  ]
 }

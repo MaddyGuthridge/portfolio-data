@@ -1,5 +1,48 @@
 {
   "name": "Algorithms",
   "description": "Algorithms are the building-blocks of software. Well-designed algorithms result in efficient code.",
-  "color": "#3AA9FF"
+  "color": "#3AA9FF",
+  "icon": null,
+  "banner": null,
+  "links": [
+    [
+      {
+        "groupId": "projects",
+        "title": "Projects demonstrating this skill",
+        "style": "card"
+      },
+      [
+        "aoc",
+        "chess-ai",
+        "jestspectation",
+        "waydriver"
+      ]
+    ],
+    [
+      {
+        "groupId": "frameworks",
+        "title": "Related frameworks",
+        "style": "chip"
+      },
+      []
+    ],
+    [
+      {
+        "groupId": "languages",
+        "title": "Related languages",
+        "style": "chip"
+      },
+      []
+    ]
+  ],
+  "urls": {
+    "repo": null,
+    "site": null,
+    "docs": null
+  },
+  "package": null,
+  "pageDescription": "",
+  "keywords": [
+    "Algorithms"
+  ]
 }

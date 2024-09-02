@@ -1,4 +1,19 @@
 {
-  "name": "Miguel Guthridge",
-  "defaultClassifier": "projects"
+  "siteName": "Miguel Guthridge / Portfolio",
+  "listedGroups": [
+    "projects",
+    "frameworks",
+    "languages",
+    "skills"
+  ],
+  "color": "#ffaaff",
+  "version": "0.4.0",
+  "siteShortName": "Miguel's Portfolio",
+  "siteDescription": "Learn about Miguel Guthridge's skills, experience and projects on their portfolio website.",
+  "siteKeywords": [
+    "Portfolio",
+    "Miguel",
+    "Guthridge"
+  ],
+  "siteIcon": null
 }

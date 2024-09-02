@@ -1,25 +1,54 @@
 {
   "name": "Enigma Machine Breaker",
   "description": "An enigma machine emulation and brute-force breaker, written in Rust",
-  "sort": 4,
   "color": "#ffff66",
-  "links": {
+  "icon": null,
+  "banner": null,
+  "links": [
+    [
+      {
+        "groupId": "languages",
+        "title": "Languages",
+        "style": "chip"
+      },
+      [
+        "rust"
+      ]
+    ],
+    [
+      {
+        "groupId": "skills",
+        "title": "Skills",
+        "style": "chip"
+      },
+      [
+        "type-safety",
+        "cryptography",
+        "concurrency"
+      ]
+    ],
+    [
+      {
+        "groupId": "status",
+        "title": "Status",
+        "style": "chip"
+      },
+      [
+        "complete"
+      ]
+    ]
+  ],
+  "urls": {
     "repo": {
       "provider": "github",
       "path": "MaddyGuthridge/Enigma-Breaker"
-    }
+    },
+    "site": null,
+    "docs": null
   },
-  "associations": {
-    "languages": [
-      "rust"
-    ],
-    "skills": [
-      "type-safety",
-      "cryptography",
-      "concurrency"
-    ],
-    "status": [
-      "complete"
-    ]
-  }
+  "package": null,
+  "pageDescription": "",
+  "keywords": [
+    "Enigma Machine Breaker"
+  ]
 }

@@ -1,24 +1,53 @@
 {
   "name": "Chess AI",
   "description": "A chess engine written in Rust",
-  "sort": -5,
   "color": "#66ff66",
-  "links": {
+  "icon": null,
+  "banner": null,
+  "links": [
+    [
+      {
+        "groupId": "languages",
+        "title": "Languages",
+        "style": "chip"
+      },
+      [
+        "rust"
+      ]
+    ],
+    [
+      {
+        "groupId": "skills",
+        "title": "Skills",
+        "style": "chip"
+      },
+      [
+        "type-safety",
+        "algorithms"
+      ]
+    ],
+    [
+      {
+        "groupId": "status",
+        "title": "Status",
+        "style": "chip"
+      },
+      [
+        "incomplete"
+      ]
+    ]
+  ],
+  "urls": {
     "repo": {
       "provider": "github",
       "path": "MaddyGuthridge/chs"
-    }
+    },
+    "site": null,
+    "docs": null
   },
-  "associations": {
-    "languages": [
-      "rust"
-    ],
-    "skills": [
-      "type-safety",
-      "algorithms"
-    ],
-    "status": [
-      "incomplete"
-    ]
-  }
+  "package": null,
+  "pageDescription": "",
+  "keywords": [
+    "Chess AI"
+  ]
 }

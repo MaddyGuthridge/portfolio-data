@@ -2,9 +2,39 @@
   "name": "C",
   "description": "C is a low-level compiled language, used for performance-critical tasks",
   "color": "#3E48CC",
-  "associations": {
-    "skills": [
-      "os"
+  "icon": null,
+  "banner": null,
+  "links": [
+    [
+      {
+        "groupId": "skills",
+        "title": "Skills",
+        "style": "chip"
+      },
+      [
+        "os"
+      ]
+    ],
+    [
+      {
+        "groupId": "projects",
+        "title": "Projects written in this language",
+        "style": "card"
+      },
+      [
+        "os-161",
+        "shuck"
+      ]
     ]
-  }
+  ],
+  "urls": {
+    "repo": null,
+    "site": null,
+    "docs": null
+  },
+  "package": null,
+  "pageDescription": "",
+  "keywords": [
+    "C"
+  ]
 }

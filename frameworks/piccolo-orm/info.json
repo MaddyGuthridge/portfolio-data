@@ -2,13 +2,48 @@
   "name": "Piccolo ORM",
   "description": "Piccolo ORM is a Python library that allows for asynchronous type-safe SQL database queries",
   "color": "#2769A0",
-  "visibility": "filtered",
-  "associations": {
-    "languages": [
-      "python"
+  "icon": null,
+  "banner": null,
+  "links": [
+    [
+      {
+        "groupId": "languages",
+        "title": "Languages",
+        "style": "chip"
+      },
+      [
+        "python"
+      ]
     ],
-    "skills": [
-      "sql"
+    [
+      {
+        "groupId": "skills",
+        "title": "Skills",
+        "style": "chip"
+      },
+      [
+        "sql"
+      ]
+    ],
+    [
+      {
+        "groupId": "projects",
+        "title": "Projects utilising this framework",
+        "style": "card"
+      },
+      [
+        "ensemble-forum"
+      ]
     ]
-  }
+  ],
+  "urls": {
+    "repo": null,
+    "site": null,
+    "docs": null
+  },
+  "package": null,
+  "pageDescription": "",
+  "keywords": [
+    "Piccolo ORM"
+  ]
 }

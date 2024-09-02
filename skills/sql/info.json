@@ -2,10 +2,56 @@
   "name": "SQL",
   "description": "SQL is a query language designed for efficiently searching databases",
   "color": "#EA2026",
-  "sort": -2,
-  "associations": {
-    "skills": [
-      "backend"
+  "icon": null,
+  "banner": null,
+  "links": [
+    [
+      {
+        "groupId": "skills",
+        "title": "Skills",
+        "style": "chip"
+      },
+      [
+        "backend"
+      ]
+    ],
+    [
+      {
+        "groupId": "projects",
+        "title": "Projects demonstrating this skill",
+        "style": "card"
+      },
+      [
+        "ensemble-forum"
+      ]
+    ],
+    [
+      {
+        "groupId": "frameworks",
+        "title": "Related frameworks",
+        "style": "chip"
+      },
+      [
+        "piccolo-orm"
+      ]
+    ],
+    [
+      {
+        "groupId": "languages",
+        "title": "Related languages",
+        "style": "chip"
+      },
+      []
     ]
-  }
+  ],
+  "urls": {
+    "repo": null,
+    "site": null,
+    "docs": null
+  },
+  "package": null,
+  "pageDescription": "",
+  "keywords": [
+    "SQL"
+  ]
 }
