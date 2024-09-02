@@ -33,7 +33,10 @@
         "title": "Related languages",
         "style": "chip"
       },
-      []
+      [
+        "c",
+        "rust"
+      ]
     ]
   ],
   "urls": {

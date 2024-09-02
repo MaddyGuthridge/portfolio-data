@@ -26,6 +26,16 @@
         "pyhtml",
         "waydriver"
       ]
+    ],
+    [
+      {
+        "groupId": "languages",
+        "style": "chip",
+        "title": "Languages"
+      },
+      [
+        "typescript"
+      ]
     ]
   ],
   "urls": {

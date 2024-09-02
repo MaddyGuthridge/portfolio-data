@@ -42,7 +42,7 @@
     [
       {
         "groupId": "status",
-        "title": "Status",
+        "title": "Development status",
         "style": "chip"
       },
       [

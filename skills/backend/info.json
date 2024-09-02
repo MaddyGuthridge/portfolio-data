@@ -46,7 +46,9 @@
         "style": "chip"
       },
       [
-        "python"
+        "python",
+        "typescript",
+        "javascript"
       ]
     ]
   ],
