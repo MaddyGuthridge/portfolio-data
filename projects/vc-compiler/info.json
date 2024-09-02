@@ -25,7 +25,8 @@
       [
         "static-analysis",
         "compilers",
-        "design-patterns"
+        "design-patterns",
+        "oop"
       ]
     ],
     [

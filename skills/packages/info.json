@@ -16,7 +16,8 @@
         "fl-studio-api-stubs",
         "flapi",
         "jestspectation",
-        "pyhtml"
+        "pyhtml",
+        "concussion"
       ]
     ],
     [

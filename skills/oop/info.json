@@ -23,7 +23,8 @@
       },
       [
         "dungeon-mania",
-        "universal-controller-script"
+        "universal-controller-script",
+        "vc-compiler"
       ]
     ],
     [

@@ -26,11 +26,11 @@
         "concussion",
         "ensemble-forum",
         "equator",
-        "fl-studio-api-stubs",
         "flapi",
         "jestspectation",
         "pyhtml",
-        "universal-controller-script"
+        "universal-controller-script",
+        "fl-studio-api-stubs"
       ]
     ]
   ],

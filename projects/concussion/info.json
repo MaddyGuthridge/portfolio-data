@@ -22,13 +22,14 @@
         "style": "chip"
       },
       [
-        "systems"
+        "systems",
+        "packages"
       ]
     ],
     [
       {
         "groupId": "status",
-        "title": "Status",
+        "title": "Project status",
         "style": "chip"
       },
       [
