@@ -2,9 +2,10 @@
   "siteName": "Maddy Guthridge / Portfolio",
   "listedGroups": [
     "projects",
-    "frameworks",
+    "experience",
     "languages",
-    "skills"
+    "skills",
+    "frameworks"
   ],
   "color": "#ffaaff",
   "version": "0.4.0",

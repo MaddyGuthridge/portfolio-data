@@ -1,0 +1,22 @@
+{
+  "name": "Experience",
+  "description": "My experience as a software engineer",
+  "pageDescription": "",
+  "keywords": [
+    "Experience"
+  ],
+  "color": "#FF9771",
+  "icon": null,
+  "banner": null,
+  "filterGroups": [],
+  "listedItems": [
+    "unsw-course-admin",
+    "unsw-tutoring",
+    "image-line-developer-support"
+  ],
+  "filterItems": [
+    "unsw-tutoring",
+    "unsw-course-admin",
+    "image-line-developer-support"
+  ]
+}

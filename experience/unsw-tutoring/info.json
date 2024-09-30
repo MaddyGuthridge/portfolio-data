@@ -1,0 +1,29 @@
+{
+  "name": "Tutor at UNSW",
+  "description": "September 2021 - Present",
+  "pageDescription": "",
+  "keywords": [
+    "Tutor at UNSW"
+  ],
+  "color": "#FF9971",
+  "links": [
+    [
+      {
+        "groupId": "projects",
+        "style": "chip",
+        "title": "Projects"
+      },
+      [
+        "markten"
+      ]
+    ]
+  ],
+  "urls": {
+    "repo": null,
+    "site": null,
+    "docs": null
+  },
+  "package": null,
+  "icon": null,
+  "banner": null
+}

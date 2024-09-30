@@ -1,3 +1,3 @@
 # Projects
 
-I have created many software projects, demonstrating my diverse skills. Some of these are hobby projects, whereas others were created as university projects, or as a part of my work as an educator.
+This page lists my collection of software projects, demonstrating my skills and creativity. Some of these were built as hobby projects, but others were made as university assignments, or as part of my work as a tutor.

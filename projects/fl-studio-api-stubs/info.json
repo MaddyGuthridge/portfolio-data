@@ -48,6 +48,16 @@
       [
         "active"
       ]
+    ],
+    [
+      {
+        "groupId": "experience",
+        "style": "chip",
+        "title": "Experience"
+      },
+      [
+        "image-line-developer-support"
+      ]
     ]
   ],
   "urls": {

@@ -24,7 +24,8 @@
       [
         "dungeon-mania",
         "universal-controller-script",
-        "vc-compiler"
+        "vc-compiler",
+        "markten"
       ]
     ],
     [

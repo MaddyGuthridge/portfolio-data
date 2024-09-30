@@ -51,6 +51,16 @@
       [
         "active"
       ]
+    ],
+    [
+      {
+        "groupId": "experience",
+        "style": "chip",
+        "title": "Experience"
+      },
+      [
+        "unsw-course-admin"
+      ]
     ]
   ],
   "urls": {

@@ -14,10 +14,11 @@
     "universal-controller-script",
     "pyhtml",
     "vc-compiler",
-    "fl-studio-api-stubs",
+    "markten",
     "portfolio",
     "enigma-breaker",
     "jestspectation",
+    "fl-studio-api-stubs",
     "ensemble-forum",
     "os-161",
     "flapi",
@@ -29,7 +30,9 @@
     "waydriver",
     "chess-ai"
   ],
-  "filterItems": [],
+  "filterItems": [
+    "markten"
+  ],
   "pageDescription": "",
   "keywords": [
     "Projects"

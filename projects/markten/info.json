@@ -1,0 +1,58 @@
+{
+  "name": "MarkTen",
+  "description": "An automation tool to mark students' work with ease",
+  "pageDescription": "",
+  "keywords": [
+    "MarkTen"
+  ],
+  "color": "#4DEB58",
+  "links": [
+    [
+      {
+        "groupId": "languages",
+        "title": "Languages",
+        "style": "chip"
+      },
+      [
+        "python"
+      ]
+    ],
+    [
+      {
+        "groupId": "skills",
+        "title": "Skills",
+        "style": "chip"
+      },
+      [
+        "packages",
+        "concurrency",
+        "design-patterns"
+      ]
+    ],
+    [
+      {
+        "groupId": "experience",
+        "style": "chip",
+        "title": "Experience"
+      },
+      [
+        "unsw-course-admin",
+        "unsw-tutoring"
+      ]
+    ]
+  ],
+  "urls": {
+    "repo": {
+      "provider": "github",
+      "path": "COMP1010UNSW/MarkTen"
+    },
+    "site": null,
+    "docs": null
+  },
+  "package": {
+    "provider": "pypi",
+    "id": "markten"
+  },
+  "icon": null,
+  "banner": null
+}
