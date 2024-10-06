@@ -12,11 +12,13 @@
   "listedItems": [
     "unsw-course-admin",
     "unsw-tutoring",
-    "image-line-developer-support"
+    "image-line-developer-support",
+    "med-revue"
   ],
   "filterItems": [
     "unsw-tutoring",
     "unsw-course-admin",
-    "image-line-developer-support"
+    "image-line-developer-support",
+    "med-revue"
   ]
 }
