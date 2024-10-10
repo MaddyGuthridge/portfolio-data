@@ -5,8 +5,8 @@
   "icon": null,
   "banner": null,
   "filterGroups": [
-    "frameworks",
     "languages",
+    "frameworks",
     "skills",
     "status"
   ],
