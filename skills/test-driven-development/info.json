@@ -14,7 +14,8 @@
       [
         "ensemble-forum",
         "jestspectation",
-        "pyhtml"
+        "pyhtml",
+        "portfolio"
       ]
     ],
     [
