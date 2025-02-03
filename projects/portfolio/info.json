@@ -1,8 +1,8 @@
 {
-  "name": "Portfolio",
+  "name": "Minifolio",
   "shortName": null,
-  "description": "",
-  "icon": null,
+  "description": "The content management system that powers my portfolio website",
+  "icon": "minifolio.png",
   "banner": null,
   "color": "#0099ff",
   "sections": [
@@ -48,7 +48,7 @@
       "label": null,
       "info": {
         "provider": "github",
-        "path": "MaddyGuthridge/portfolio"
+        "path": "MaddyGuthridge/Minifolio"
       }
     },
     {
@@ -56,6 +56,14 @@
       "icon": null,
       "label": null,
       "url": "https://portfolio.maddyguthridge.com"
+    },
+    {
+      "type": "package",
+      "label": null,
+      "info": {
+        "provider": "docker",
+        "id": "maddyguthridge/minifolio"
+      }
     }
   ],
   "children": [],

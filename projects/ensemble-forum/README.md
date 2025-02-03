@@ -19,23 +19,23 @@ categorise and respond to questions with ease. Some of our proudest features
 are:
 
 * Question queues, which allow tutors to delegate questions for others to
-  answer.
+answer.
 * User-friendly moderation tools, allowing students to report posts and
-  comments, and allowing staff to remove or hide them.
-* An advanced permission system, where admins can defined custom roles, giving
-  different forum members precise permissions to suit their needs.
+comments, and allowing staff to remove or hide them.
+* An advanced permission system, where admins can define custom roles, giving
+different forum members precise permissions to suit their needs.
 * A customisable authentication system, capable of integrating with UNSW's
-  auth servers. This boosted security, as it allowed our database to have zero
-  knowledge of user passwords.
+auth servers. This boosted security, as it allowed our database to have zero
+knowledge of user passwords.
 
 As well as the advanced and unique features we implemented, I am also extremely
 proud of some of the development prowess we demonstrated in the project.
 
 * Our backend had 99% code coverage, due to an exceptionally thorough suite of
-  unit tests.
+unit tests.
 * Our entire project was type-safe, from the database to the UI. We used
-  TypeScript on the front-end and typed Python on the backend, as well as a
-  type-safe ORM (Piccolo) to access the database.
+TypeScript on the front-end and typed Python on the backend, as well as a
+type-safe ORM (Piccolo) to access the database.
 * Our API includes automatically-generated documentation, which increased
-  developer productivity, as the API's usage and specification was clearly
-  shown.
+developer productivity, as the API's usage and specification was clearly
+shown.
