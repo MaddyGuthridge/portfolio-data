@@ -1,16 +1,12 @@
 {
   "name": "Projects",
+  "shortName": null,
   "description": "Projects, assignments and other things that I have worked on",
-  "color": "#0099ff",
   "icon": null,
   "banner": null,
-  "filterGroups": [
-    "languages",
-    "frameworks",
-    "skills",
-    "status"
-  ],
-  "listedItems": [
+  "color": "#0099ff",
+  "sections": [],
+  "children": [
     "universal-controller-script",
     "pyhtml",
     "vc-compiler",
@@ -30,11 +26,16 @@
     "waydriver",
     "chess-ai"
   ],
-  "filterItems": [
-    "markten"
+  "filters": [
+    "/languages",
+    "/frameworks",
+    "/skills",
+    "/status"
   ],
-  "pageDescription": "",
-  "keywords": [
-    "Projects"
-  ]
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Projects"
+    ]
+  }
 }

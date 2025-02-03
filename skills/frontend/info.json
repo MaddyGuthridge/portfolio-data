@@ -1,65 +1,56 @@
 {
   "name": "Frontend",
+  "shortName": null,
   "description": "Frontend development focuses on building user interfaces for software",
-  "color": "#FFE83A",
   "icon": null,
   "banner": null,
-  "links": [
-    [
-      {
-        "groupId": "skills",
-        "title": "Skills",
-        "style": "chip"
-      },
-      [
-        "backend",
-        "full-stack"
+  "color": "#FFE83A",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/skills/backend",
+        "/skills/full-stack"
       ]
-    ],
-    [
-      {
-        "groupId": "projects",
-        "title": "Projects demonstrating this skill",
-        "style": "card"
-      },
-      [
-        "portfolio",
-        "pyhtml",
-        "waydriver"
+    },
+    {
+      "type": "links",
+      "label": "Projects demonstrating this skill",
+      "style": "card",
+      "items": [
+        "/projects/portfolio",
+        "/projects/pyhtml",
+        "/projects/waydriver"
       ]
-    ],
-    [
-      {
-        "groupId": "frameworks",
-        "title": "Related frameworks",
-        "style": "chip"
-      },
-      [
-        "next",
-        "react"
+    },
+    {
+      "type": "links",
+      "label": "Related frameworks",
+      "style": "chip",
+      "items": [
+        "/frameworks/next",
+        "/frameworks/react"
       ]
-    ],
-    [
-      {
-        "groupId": "languages",
-        "title": "Related languages",
-        "style": "chip"
-      },
-      [
-        "html",
-        "javascript",
-        "typescript"
+    },
+    {
+      "type": "links",
+      "label": "Related languages",
+      "style": "chip",
+      "items": [
+        "/languages/html",
+        "/languages/javascript",
+        "/languages/typescript"
       ]
-    ]
+    }
   ],
-  "urls": {
-    "repo": null,
-    "site": null,
-    "docs": null
-  },
-  "package": null,
-  "pageDescription": "",
-  "keywords": [
-    "Frontend"
-  ]
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Frontend"
+    ]
+  }
 }

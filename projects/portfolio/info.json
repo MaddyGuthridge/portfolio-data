@@ -1,67 +1,69 @@
 {
   "name": "Portfolio",
-  "description": "My portfolio website -- you're looking at it",
-  "color": "#0099ff",
+  "shortName": null,
+  "description": "",
   "icon": null,
   "banner": null,
-  "links": [
-    [
-      {
-        "groupId": "languages",
-        "title": "Languages",
-        "style": "chip"
-      },
-      [
-        "typescript",
-        "javascript",
-        "html"
+  "color": "#0099ff",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Languages",
+      "style": "chip",
+      "items": [
+        "/languages/typescript",
+        "/languages/javascript",
+        "/languages/html"
       ]
-    ],
-    [
-      {
-        "groupId": "frameworks",
-        "title": "Frameworks",
-        "style": "chip"
-      },
-      [
-        "sveltekit"
-      ]
-    ],
-    [
-      {
-        "groupId": "skills",
-        "title": "Skills",
-        "style": "chip"
-      },
-      [
-        "type-safety",
-        "full-stack",
-        "frontend",
-        "test-driven-development"
-      ]
-    ],
-    [
-      {
-        "groupId": "status",
-        "title": "Development status",
-        "style": "chip"
-      },
-      [
-        "active"
-      ]
-    ]
-  ],
-  "urls": {
-    "repo": {
-      "provider": "github",
-      "path": "MaddyGuthridge/portfolio"
     },
-    "site": "https://portfolio.maddyguthridge.com",
-    "docs": null
-  },
-  "package": null,
-  "pageDescription": "",
-  "keywords": [
-    "Portfolio"
-  ]
+    {
+      "type": "links",
+      "label": "Frameworks",
+      "style": "chip",
+      "items": [
+        "/frameworks/sveltekit"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/skills/type-safety",
+        "/skills/full-stack",
+        "/skills/frontend",
+        "/skills/test-driven-development"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Development status",
+      "style": "chip",
+      "items": [
+        "/status/active"
+      ]
+    },
+    {
+      "type": "repo",
+      "label": null,
+      "info": {
+        "provider": "github",
+        "path": "MaddyGuthridge/portfolio"
+      }
+    },
+    {
+      "type": "site",
+      "icon": null,
+      "label": null,
+      "url": "https://portfolio.maddyguthridge.com"
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Portfolio"
+    ]
+  }
 }

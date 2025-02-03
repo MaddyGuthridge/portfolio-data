@@ -1,51 +1,44 @@
 {
   "name": "HTML",
+  "shortName": null,
   "description": "HTML is a markup language used for building webpages",
-  "color": "#FFCB06",
   "icon": null,
   "banner": null,
-  "links": [
-    [
-      {
-        "groupId": "skills",
-        "title": "Skills",
-        "style": "chip"
-      },
-      [
-        "frontend"
+  "color": "#FFCB06",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/skills/frontend"
       ]
-    ],
-    [
-      {
-        "groupId": "projects",
-        "title": "Projects written in this language",
-        "style": "card"
-      },
-      [
-        "portfolio",
-        "pyhtml",
-        "waydriver"
+    },
+    {
+      "type": "links",
+      "label": "Projects written in this language",
+      "style": "card",
+      "items": [
+        "/projects/portfolio",
+        "/projects/pyhtml",
+        "/projects/waydriver"
       ]
-    ],
-    [
-      {
-        "groupId": "languages",
-        "style": "chip",
-        "title": "Languages"
-      },
-      [
-        "typescript"
+    },
+    {
+      "type": "links",
+      "label": "Languages",
+      "style": "chip",
+      "items": [
+        "/languages/typescript"
       ]
-    ]
+    }
   ],
-  "urls": {
-    "repo": null,
-    "site": null,
-    "docs": null
-  },
-  "package": null,
-  "pageDescription": "",
-  "keywords": [
-    "HTML"
-  ]
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "HTML"
+    ]
+  }
 }

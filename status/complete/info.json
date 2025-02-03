@@ -1,49 +1,44 @@
 {
   "name": "Complete",
+  "shortName": null,
   "description": "This project has finished development and is feature-complete",
-  "color": "#47F584",
   "icon": null,
   "banner": null,
-  "links": [
-    [
-      {
-        "groupId": "status",
-        "title": "Other statuses",
-        "style": "chip"
-      },
-      [
-        "active",
-        "in-progress",
-        "incomplete"
+  "color": "#47F584",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Other statuses",
+      "style": "chip",
+      "items": [
+        "/status/active",
+        "/status/in-progress",
+        "/status/incomplete"
       ]
-    ],
-    [
-      {
-        "groupId": "projects",
-        "title": "Projects with this status",
-        "style": "card"
-      },
-      [
-        "aoc",
-        "concussion",
-        "dungeon-mania",
-        "enigma-breaker",
-        "ensemble-forum",
-        "equator",
-        "os-161",
-        "shuck",
-        "vc-compiler"
+    },
+    {
+      "type": "links",
+      "label": "Projects with this status",
+      "style": "card",
+      "items": [
+        "/projects/aoc",
+        "/projects/concussion",
+        "/projects/dungeon-mania",
+        "/projects/enigma-breaker",
+        "/projects/ensemble-forum",
+        "/projects/equator",
+        "/projects/os-161",
+        "/projects/shuck",
+        "/projects/vc-compiler"
       ]
-    ]
+    }
   ],
-  "urls": {
-    "repo": null,
-    "site": null,
-    "docs": null
-  },
-  "package": null,
-  "pageDescription": "",
-  "keywords": [
-    "Complete"
-  ]
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Complete"
+    ]
+  }
 }

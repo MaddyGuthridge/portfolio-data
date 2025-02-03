@@ -1,21 +1,5 @@
 {
-  "siteName": "Maddy Guthridge / Portfolio",
-  "listedGroups": [
-    "projects",
-    "experience",
-    "languages",
-    "skills",
-    "frameworks"
-  ],
-  "color": "#ffaaff",
-  "version": "0.6.4",
-  "siteShortName": "Maddy's Portfolio",
-  "siteDescription": "Learn about Maddy Guthridge's skills, experience and projects on her portfolio website.",
-  "siteKeywords": [
-    "Portfolio",
-    "Maddy",
-    "Miguel",
-    "Guthridge"
-  ],
+  "version": "1.0.2",
+  "relMe": [],
   "siteIcon": null
 }

@@ -1,53 +1,46 @@
 {
   "name": "VC Compiler",
+  "shortName": null,
   "description": "A compiler written in Java that converts a C-like language into Java Bytecode",
-  "color": "#ff5050",
   "icon": null,
   "banner": null,
-  "links": [
-    [
-      {
-        "groupId": "languages",
-        "title": "Languages",
-        "style": "chip"
-      },
-      [
-        "java",
-        "jasmin"
+  "color": "#ff5050",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Languages",
+      "style": "chip",
+      "items": [
+        "/languages/java",
+        "/languages/jasmin"
       ]
-    ],
-    [
-      {
-        "groupId": "skills",
-        "title": "Skills",
-        "style": "chip"
-      },
-      [
-        "static-analysis",
-        "compilers",
-        "design-patterns",
-        "oop"
+    },
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/skills/static-analysis",
+        "/skills/compilers",
+        "/skills/design-patterns",
+        "/skills/oop"
       ]
-    ],
-    [
-      {
-        "groupId": "status",
-        "title": "Status",
-        "style": "chip"
-      },
-      [
-        "complete"
+    },
+    {
+      "type": "links",
+      "label": "Status",
+      "style": "chip",
+      "items": [
+        "/status/complete"
       ]
-    ]
+    }
   ],
-  "urls": {
-    "repo": null,
-    "site": null,
-    "docs": null
-  },
-  "package": null,
-  "pageDescription": "",
-  "keywords": [
-    "VC Compiler"
-  ]
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "VC Compiler"
+    ]
+  }
 }

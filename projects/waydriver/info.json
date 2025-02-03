@@ -1,70 +1,66 @@
 {
   "name": "Waydriver",
+  "shortName": null,
   "description": "A task management system to help people prioritise their lives",
-  "color": "#009999",
   "icon": null,
   "banner": null,
-  "links": [
-    [
-      {
-        "groupId": "languages",
-        "title": "Languages",
-        "style": "chip"
-      },
-      [
-        "typescript",
-        "javascript",
-        "html"
+  "color": "#009999",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Languages",
+      "style": "chip",
+      "items": [
+        "/languages/typescript",
+        "/languages/javascript",
+        "/languages/html"
       ]
-    ],
-    [
-      {
-        "groupId": "frameworks",
-        "title": "Frameworks",
-        "style": "chip"
-      },
-      [
-        "express",
-        "next",
-        "jest",
-        "react"
-      ]
-    ],
-    [
-      {
-        "groupId": "skills",
-        "title": "Skills",
-        "style": "chip"
-      },
-      [
-        "full-stack",
-        "frontend",
-        "backend",
-        "algorithms"
-      ]
-    ],
-    [
-      {
-        "groupId": "status",
-        "title": "Status",
-        "style": "chip"
-      },
-      [
-        "in-progress"
-      ]
-    ]
-  ],
-  "urls": {
-    "repo": {
-      "provider": "github",
-      "path": "Waydriver"
     },
-    "site": null,
-    "docs": null
-  },
-  "package": null,
-  "pageDescription": "",
-  "keywords": [
-    "Waydriver"
-  ]
+    {
+      "type": "links",
+      "label": "Frameworks",
+      "style": "chip",
+      "items": [
+        "/frameworks/express",
+        "/frameworks/next",
+        "/frameworks/jest",
+        "/frameworks/react"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/skills/full-stack",
+        "/skills/frontend",
+        "/skills/backend",
+        "/skills/algorithms"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Status",
+      "style": "chip",
+      "items": [
+        "/status/in-progress"
+      ]
+    },
+    {
+      "type": "repo",
+      "label": null,
+      "info": {
+        "provider": "github",
+        "path": "Waydriver"
+      }
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Waydriver"
+    ]
+  }
 }

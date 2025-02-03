@@ -1,54 +1,47 @@
 {
   "name": "TypeScript",
+  "shortName": null,
   "description": "TypeScript is a type-safe superset of JavaScript",
-  "color": "#27609E",
   "icon": null,
   "banner": null,
-  "links": [
-    [
-      {
-        "groupId": "languages",
-        "title": "Related languages",
-        "style": "chip"
-      },
-      [
-        "javascript",
-        "html"
+  "color": "#27609E",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Related languages",
+      "style": "chip",
+      "items": [
+        "/languages/javascript",
+        "/languages/html"
       ]
-    ],
-    [
-      {
-        "groupId": "skills",
-        "title": "Skills",
-        "style": "chip"
-      },
-      [
-        "type-safety",
-        "full-stack",
-        "frontend",
-        "backend"
+    },
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/skills/type-safety",
+        "/skills/full-stack",
+        "/skills/frontend",
+        "/skills/backend"
       ]
-    ],
-    [
-      {
-        "groupId": "projects",
-        "title": "Projects written in this language",
-        "style": "card"
-      },
-      [
-        "portfolio",
-        "waydriver"
+    },
+    {
+      "type": "links",
+      "label": "Projects written in this language",
+      "style": "card",
+      "items": [
+        "/projects/portfolio",
+        "/projects/waydriver"
       ]
-    ]
+    }
   ],
-  "urls": {
-    "repo": null,
-    "site": null,
-    "docs": null
-  },
-  "package": null,
-  "pageDescription": "",
-  "keywords": [
-    "TypeScript"
-  ]
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "TypeScript"
+    ]
+  }
 }

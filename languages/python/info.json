@@ -1,47 +1,42 @@
 {
   "name": "Python",
+  "shortName": null,
   "description": "Python is a powerful interpreted language known for its ease-of-use",
-  "color": "#3776AA",
   "icon": null,
   "banner": null,
-  "links": [
-    [
-      {
-        "groupId": "skills",
-        "title": "Skills",
-        "style": "chip"
-      },
-      [
-        "backend",
-        "type-safety"
+  "color": "#3776AA",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/skills/backend",
+        "/skills/type-safety"
       ]
-    ],
-    [
-      {
-        "groupId": "projects",
-        "title": "Projects written in this language",
-        "style": "card"
-      },
-      [
-        "concussion",
-        "ensemble-forum",
-        "equator",
-        "flapi",
-        "jestspectation",
-        "pyhtml",
-        "universal-controller-script",
-        "fl-studio-api-stubs"
+    },
+    {
+      "type": "links",
+      "label": "Projects written in this language",
+      "style": "card",
+      "items": [
+        "/projects/concussion",
+        "/projects/ensemble-forum",
+        "/projects/equator",
+        "/projects/flapi",
+        "/projects/jestspectation",
+        "/projects/pyhtml",
+        "/projects/universal-controller-script",
+        "/projects/fl-studio-api-stubs"
       ]
-    ]
+    }
   ],
-  "urls": {
-    "repo": null,
-    "site": null,
-    "docs": null
-  },
-  "package": null,
-  "pageDescription": "",
-  "keywords": [
-    "Python"
-  ]
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Python"
+    ]
+  }
 }

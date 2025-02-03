@@ -1,69 +1,65 @@
 {
   "name": "Ensemble Forum",
+  "shortName": null,
   "description": "A next-gen education-centred web forum designed for teachers and students alike",
-  "color": "#cc66ff",
   "icon": "icon.png",
   "banner": "banner.png",
-  "links": [
-    [
-      {
-        "groupId": "languages",
-        "title": "Languages",
-        "style": "chip"
-      },
-      [
-        "python"
+  "color": "#cc66ff",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Languages",
+      "style": "chip",
+      "items": [
+        "/languages/python"
       ]
-    ],
-    [
-      {
-        "groupId": "frameworks",
-        "title": "Frameworks",
-        "style": "chip"
-      },
-      [
-        "flask",
-        "piccolo-orm",
-        "mypy",
-        "pytest"
-      ]
-    ],
-    [
-      {
-        "groupId": "skills",
-        "title": "Skills",
-        "style": "chip"
-      },
-      [
-        "type-safety",
-        "test-driven-development",
-        "sql",
-        "backend",
-        "agile"
-      ]
-    ],
-    [
-      {
-        "groupId": "status",
-        "title": "Status",
-        "style": "chip"
-      },
-      [
-        "complete"
-      ]
-    ]
-  ],
-  "urls": {
-    "repo": {
-      "provider": "github",
-      "path": "EnsembleForum/Ensemble"
     },
-    "site": null,
-    "docs": null
-  },
-  "package": null,
-  "pageDescription": "",
-  "keywords": [
-    "Ensemble Forum"
-  ]
+    {
+      "type": "links",
+      "label": "Frameworks",
+      "style": "chip",
+      "items": [
+        "/frameworks/flask",
+        "/frameworks/piccolo-orm",
+        "/frameworks/mypy",
+        "/frameworks/pytest"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/skills/type-safety",
+        "/skills/test-driven-development",
+        "/skills/sql",
+        "/skills/backend",
+        "/skills/agile"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Status",
+      "style": "chip",
+      "items": [
+        "/status/complete"
+      ]
+    },
+    {
+      "type": "repo",
+      "label": null,
+      "info": {
+        "provider": "github",
+        "path": "EnsembleForum/Ensemble"
+      }
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Ensemble Forum"
+    ]
+  }
 }

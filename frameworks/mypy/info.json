@@ -1,54 +1,47 @@
 {
   "name": "Mypy",
+  "shortName": null,
   "description": "Mypy is a static type checker for Python",
-  "color": "#1371A7",
   "icon": null,
   "banner": null,
-  "links": [
-    [
-      {
-        "groupId": "languages",
-        "title": "Languages",
-        "style": "chip"
-      },
-      [
-        "python"
+  "color": "#1371A7",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Languages",
+      "style": "chip",
+      "items": [
+        "/languages/python"
       ]
-    ],
-    [
-      {
-        "groupId": "skills",
-        "title": "Skills",
-        "style": "chip"
-      },
-      [
-        "type-safety"
+    },
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/skills/type-safety"
       ]
-    ],
-    [
-      {
-        "groupId": "projects",
-        "title": "Projects utilising this framework",
-        "style": "card"
-      },
-      [
-        "ensemble-forum",
-        "fl-studio-api-stubs",
-        "flapi",
-        "jestspectation",
-        "pyhtml",
-        "universal-controller-script"
+    },
+    {
+      "type": "links",
+      "label": "Projects utilising this framework",
+      "style": "card",
+      "items": [
+        "/projects/ensemble-forum",
+        "/projects/fl-studio-api-stubs",
+        "/projects/flapi",
+        "/projects/jestspectation",
+        "/projects/pyhtml",
+        "/projects/universal-controller-script"
       ]
-    ]
+    }
   ],
-  "urls": {
-    "repo": null,
-    "site": null,
-    "docs": null
-  },
-  "package": null,
-  "pageDescription": "",
-  "keywords": [
-    "Mypy"
-  ]
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Mypy"
+    ]
+  }
 }

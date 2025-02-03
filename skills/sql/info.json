@@ -1,57 +1,48 @@
 {
   "name": "SQL",
+  "shortName": null,
   "description": "SQL is a query language designed for efficiently searching databases",
-  "color": "#EA2026",
   "icon": null,
   "banner": null,
-  "links": [
-    [
-      {
-        "groupId": "skills",
-        "title": "Skills",
-        "style": "chip"
-      },
-      [
-        "backend"
+  "color": "#EA2026",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/skills/backend"
       ]
-    ],
-    [
-      {
-        "groupId": "projects",
-        "title": "Projects demonstrating this skill",
-        "style": "card"
-      },
-      [
-        "ensemble-forum"
+    },
+    {
+      "type": "links",
+      "label": "Projects demonstrating this skill",
+      "style": "card",
+      "items": [
+        "/projects/ensemble-forum"
       ]
-    ],
-    [
-      {
-        "groupId": "frameworks",
-        "title": "Related frameworks",
-        "style": "chip"
-      },
-      [
-        "piccolo-orm"
+    },
+    {
+      "type": "links",
+      "label": "Related frameworks",
+      "style": "chip",
+      "items": [
+        "/frameworks/piccolo-orm"
       ]
-    ],
-    [
-      {
-        "groupId": "languages",
-        "title": "Related languages",
-        "style": "chip"
-      },
-      []
-    ]
+    },
+    {
+      "type": "links",
+      "label": "Related languages",
+      "style": "chip",
+      "items": []
+    }
   ],
-  "urls": {
-    "repo": null,
-    "site": null,
-    "docs": null
-  },
-  "package": null,
-  "pageDescription": "",
-  "keywords": [
-    "SQL"
-  ]
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "SQL"
+    ]
+  }
 }

@@ -1,46 +1,41 @@
 {
   "name": "Active",
+  "shortName": null,
   "description": "This project is in a functional state and is being actively developed",
-  "color": "#47F5F2",
   "icon": null,
   "banner": null,
-  "links": [
-    [
-      {
-        "groupId": "status",
-        "title": "Other statuses",
-        "style": "chip"
-      },
-      [
-        "complete",
-        "in-progress",
-        "incomplete"
+  "color": "#47F5F2",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Other statuses",
+      "style": "chip",
+      "items": [
+        "/status/complete",
+        "/status/in-progress",
+        "/status/incomplete"
       ]
-    ],
-    [
-      {
-        "groupId": "projects",
-        "title": "Projects with this status",
-        "style": "card"
-      },
-      [
-        "fl-studio-api-stubs",
-        "flapi",
-        "jestspectation",
-        "portfolio",
-        "pyhtml",
-        "universal-controller-script"
+    },
+    {
+      "type": "links",
+      "label": "Projects with this status",
+      "style": "card",
+      "items": [
+        "/projects/fl-studio-api-stubs",
+        "/projects/flapi",
+        "/projects/jestspectation",
+        "/projects/portfolio",
+        "/projects/pyhtml",
+        "/projects/universal-controller-script"
       ]
-    ]
+    }
   ],
-  "urls": {
-    "repo": null,
-    "site": null,
-    "docs": null
-  },
-  "package": null,
-  "pageDescription": "",
-  "keywords": [
-    "Active"
-  ]
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Active"
+    ]
+  }
 }

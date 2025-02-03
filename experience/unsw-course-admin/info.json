@@ -1,31 +1,28 @@
 {
   "name": "Course Administrator at UNSW",
+  "shortName": null,
   "description": "January 2023 - Present",
-  "pageDescription": "",
-  "keywords": [
-    "Course Administrator at UNSW"
-  ],
-  "color": "#FFE100",
-  "links": [
-    [
-      {
-        "groupId": "projects",
-        "title": "Projects I created in this role",
-        "style": "chip"
-      },
-      [
-        "jestspectation",
-        "markten",
-        "pyhtml"
-      ]
-    ]
-  ],
-  "urls": {
-    "repo": null,
-    "site": null,
-    "docs": null
-  },
-  "package": null,
   "icon": null,
-  "banner": null
+  "banner": null,
+  "color": "#FFE100",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Projects I created in this role",
+      "style": "chip",
+      "items": [
+        "/projects/jestspectation",
+        "/projects/markten",
+        "/projects/pyhtml"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Course Administrator at UNSW"
+    ]
+  }
 }

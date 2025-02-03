@@ -1,56 +1,49 @@
 {
   "name": "Type safety",
+  "shortName": null,
   "description": "Type safety refers to when static analysis is used to check for type errors within code",
-  "color": "#27609E",
   "icon": null,
   "banner": null,
-  "links": [
-    [
-      {
-        "groupId": "projects",
-        "title": "Projects demonstrating this skill",
-        "style": "card"
-      },
-      [
-        "chess-ai",
-        "enigma-breaker",
-        "ensemble-forum",
-        "portfolio",
-        "pyhtml",
-        "universal-controller-script"
+  "color": "#27609E",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Projects demonstrating this skill",
+      "style": "card",
+      "items": [
+        "/projects/chess-ai",
+        "/projects/enigma-breaker",
+        "/projects/ensemble-forum",
+        "/projects/portfolio",
+        "/projects/pyhtml",
+        "/projects/universal-controller-script"
       ]
-    ],
-    [
-      {
-        "groupId": "frameworks",
-        "title": "Related frameworks",
-        "style": "chip"
-      },
-      [
-        "mypy"
+    },
+    {
+      "type": "links",
+      "label": "Related frameworks",
+      "style": "chip",
+      "items": [
+        "/frameworks/mypy"
       ]
-    ],
-    [
-      {
-        "groupId": "languages",
-        "title": "Related languages",
-        "style": "chip"
-      },
-      [
-        "python",
-        "rust",
-        "typescript"
+    },
+    {
+      "type": "links",
+      "label": "Related languages",
+      "style": "chip",
+      "items": [
+        "/languages/python",
+        "/languages/rust",
+        "/languages/typescript"
       ]
-    ]
+    }
   ],
-  "urls": {
-    "repo": null,
-    "site": null,
-    "docs": null
-  },
-  "package": null,
-  "pageDescription": "",
-  "keywords": [
-    "Type safety"
-  ]
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Type safety"
+    ]
+  }
 }

@@ -1,60 +1,51 @@
 {
   "name": "Design patterns",
+  "shortName": null,
   "description": "Design patterns are approaches for solving common problems when writing computer software, especially when using OOP",
-  "color": "#FFB35C",
   "icon": null,
   "banner": null,
-  "links": [
-    [
-      {
-        "groupId": "skills",
-        "title": "Skills",
-        "style": "chip"
-      },
-      [
-        "oop"
+  "color": "#FFB35C",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/skills/oop"
       ]
-    ],
-    [
-      {
-        "groupId": "projects",
-        "title": "Projects demonstrating this skill",
-        "style": "card"
-      },
-      [
-        "dungeon-mania",
-        "universal-controller-script",
-        "vc-compiler",
-        "markten"
+    },
+    {
+      "type": "links",
+      "label": "Projects demonstrating this skill",
+      "style": "card",
+      "items": [
+        "/projects/dungeon-mania",
+        "/projects/universal-controller-script",
+        "/projects/vc-compiler",
+        "/projects/markten"
       ]
-    ],
-    [
-      {
-        "groupId": "frameworks",
-        "title": "Related frameworks",
-        "style": "chip"
-      },
-      []
-    ],
-    [
-      {
-        "groupId": "languages",
-        "title": "Related languages",
-        "style": "chip"
-      },
-      [
-        "java"
+    },
+    {
+      "type": "links",
+      "label": "Related frameworks",
+      "style": "chip",
+      "items": []
+    },
+    {
+      "type": "links",
+      "label": "Related languages",
+      "style": "chip",
+      "items": [
+        "/languages/java"
       ]
-    ]
+    }
   ],
-  "urls": {
-    "repo": null,
-    "site": null,
-    "docs": null
-  },
-  "package": null,
-  "pageDescription": "",
-  "keywords": [
-    "Design patterns"
-  ]
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Design patterns"
+    ]
+  }
 }

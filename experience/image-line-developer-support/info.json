@@ -1,29 +1,26 @@
 {
   "name": "Developer Support at Image-Line",
+  "shortName": null,
   "description": "September 2022 - Present",
-  "pageDescription": "",
-  "keywords": [
-    "Developer Support at Image-Line"
-  ],
-  "color": "#aa00aa",
-  "links": [
-    [
-      {
-        "groupId": "projects",
-        "title": "Projects I developed in this role",
-        "style": "chip"
-      },
-      [
-        "fl-studio-api-stubs"
-      ]
-    ]
-  ],
-  "urls": {
-    "repo": null,
-    "site": null,
-    "docs": null
-  },
-  "package": null,
   "icon": null,
-  "banner": null
+  "banner": null,
+  "color": "#aa00aa",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Projects I developed in this role",
+      "style": "chip",
+      "items": [
+        "/projects/fl-studio-api-stubs"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Developer Support at Image-Line"
+    ]
+  }
 }

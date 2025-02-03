@@ -1,64 +1,55 @@
 {
   "name": "Full stack",
+  "shortName": null,
   "description": "Full stack development is the process of developing both the frontend and the backend of an application",
-  "color": "#7247F5",
   "icon": null,
   "banner": null,
-  "links": [
-    [
-      {
-        "groupId": "skills",
-        "title": "Skills",
-        "style": "chip"
-      },
-      [
-        "backend",
-        "frontend"
+  "color": "#7247F5",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/skills/backend",
+        "/skills/frontend"
       ]
-    ],
-    [
-      {
-        "groupId": "projects",
-        "title": "Projects demonstrating this skill",
-        "style": "card"
-      },
-      [
-        "portfolio",
-        "waydriver"
+    },
+    {
+      "type": "links",
+      "label": "Projects demonstrating this skill",
+      "style": "card",
+      "items": [
+        "/projects/portfolio",
+        "/projects/waydriver"
       ]
-    ],
-    [
-      {
-        "groupId": "frameworks",
-        "title": "Related frameworks",
-        "style": "chip"
-      },
-      [
-        "flask",
-        "next",
-        "sveltekit"
+    },
+    {
+      "type": "links",
+      "label": "Related frameworks",
+      "style": "chip",
+      "items": [
+        "/frameworks/flask",
+        "/frameworks/next",
+        "/frameworks/sveltekit"
       ]
-    ],
-    [
-      {
-        "groupId": "languages",
-        "title": "Related languages",
-        "style": "chip"
-      },
-      [
-        "typescript",
-        "javascript"
+    },
+    {
+      "type": "links",
+      "label": "Related languages",
+      "style": "chip",
+      "items": [
+        "/languages/typescript",
+        "/languages/javascript"
       ]
-    ]
+    }
   ],
-  "urls": {
-    "repo": null,
-    "site": null,
-    "docs": null
-  },
-  "package": null,
-  "pageDescription": "",
-  "keywords": [
-    "Full stack"
-  ]
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Full stack"
+    ]
+  }
 }

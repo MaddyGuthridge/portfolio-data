@@ -1,29 +1,27 @@
 {
   "name": "Project status",
+  "shortName": null,
   "description": "The status of projects",
-  "color": "#47F584",
   "icon": null,
   "banner": null,
-  "filterGroups": [
-    "frameworks",
-    "languages",
-    "projects",
-    "skills"
-  ],
-  "listedItems": [
+  "color": "#47F584",
+  "sections": [],
+  "children": [
     "incomplete",
     "in-progress",
     "complete",
     "active"
   ],
-  "filterItems": [
-    "incomplete",
-    "in-progress",
-    "complete",
-    "active"
+  "filters": [
+    "/frameworks",
+    "/languages",
+    "/projects",
+    "/skills"
   ],
-  "pageDescription": "",
-  "keywords": [
-    "Project status"
-  ]
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Project status"
+    ]
+  }
 }

@@ -1,41 +1,36 @@
 {
   "name": "Incomplete",
+  "shortName": null,
   "description": "This project is not feature-complete, and isn't receiving active development",
-  "color": "#F58D47",
   "icon": null,
   "banner": null,
-  "links": [
-    [
-      {
-        "groupId": "status",
-        "title": "Other statuses",
-        "style": "chip"
-      },
-      [
-        "active",
-        "complete",
-        "in-progress"
+  "color": "#F58D47",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Other statuses",
+      "style": "chip",
+      "items": [
+        "/status/active",
+        "/status/complete",
+        "/status/in-progress"
       ]
-    ],
-    [
-      {
-        "groupId": "projects",
-        "title": "Projects with this status",
-        "style": "card"
-      },
-      [
-        "chess-ai"
+    },
+    {
+      "type": "links",
+      "label": "Projects with this status",
+      "style": "card",
+      "items": [
+        "/projects/chess-ai"
       ]
-    ]
+    }
   ],
-  "urls": {
-    "repo": null,
-    "site": null,
-    "docs": null
-  },
-  "package": null,
-  "pageDescription": "",
-  "keywords": [
-    "Incomplete"
-  ]
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Incomplete"
+    ]
+  }
 }

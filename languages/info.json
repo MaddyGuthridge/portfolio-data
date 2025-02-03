@@ -1,11 +1,12 @@
 {
   "name": "Languages",
+  "shortName": null,
   "description": "Programming languages that I have experience with",
-  "color": "#FFCB06",
   "icon": null,
   "banner": null,
-  "filterGroups": [],
-  "listedItems": [
+  "color": "#FFCB06",
+  "sections": [],
+  "children": [
     "python",
     "rust",
     "typescript",
@@ -15,17 +16,11 @@
     "html",
     "jasmin"
   ],
-  "filterItems": [
-    "python",
-    "rust",
-    "typescript",
-    "java",
-    "c",
-    "javascript",
-    "html"
-  ],
-  "pageDescription": "",
-  "keywords": [
-    "Languages"
-  ]
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Languages"
+    ]
+  }
 }

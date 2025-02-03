@@ -1,79 +1,84 @@
 {
   "name": "Jestspectation",
+  "shortName": null,
   "description": "A pattern matching system to make clear and reliable test cases",
-  "color": "#ff3399",
   "icon": null,
   "banner": null,
-  "links": [
-    [
-      {
-        "groupId": "languages",
-        "title": "Languages",
-        "style": "chip"
-      },
-      [
-        "python"
+  "color": "#ff3399",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Languages",
+      "style": "chip",
+      "items": [
+        "/languages/python"
       ]
-    ],
-    [
-      {
-        "groupId": "frameworks",
-        "title": "Frameworks",
-        "style": "chip"
-      },
-      [
-        "pytest",
-        "mkdocs",
-        "mypy"
-      ]
-    ],
-    [
-      {
-        "groupId": "skills",
-        "title": "Skills",
-        "style": "chip"
-      },
-      [
-        "test-driven-development",
-        "algorithms",
-        "packages"
-      ]
-    ],
-    [
-      {
-        "groupId": "status",
-        "title": "Status",
-        "style": "chip"
-      },
-      [
-        "active"
-      ]
-    ],
-    [
-      {
-        "groupId": "experience",
-        "style": "chip",
-        "title": "Experience"
-      },
-      [
-        "unsw-course-admin"
-      ]
-    ]
-  ],
-  "urls": {
-    "repo": {
-      "provider": "github",
-      "path": "MaddyGuthridge/Jestspectation"
     },
-    "site": null,
-    "docs": "https://maddyguthridge.github.io/Jestspectation/"
-  },
-  "package": {
-    "provider": "pypi",
-    "id": "jestspectation"
-  },
-  "pageDescription": "",
-  "keywords": [
-    "Jestspectation"
-  ]
+    {
+      "type": "links",
+      "label": "Frameworks",
+      "style": "chip",
+      "items": [
+        "/frameworks/pytest",
+        "/frameworks/mkdocs",
+        "/frameworks/mypy"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/skills/test-driven-development",
+        "/skills/algorithms",
+        "/skills/packages"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Status",
+      "style": "chip",
+      "items": [
+        "/status/active"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Experience",
+      "style": "chip",
+      "items": [
+        "/experience/unsw-course-admin"
+      ]
+    },
+    {
+      "type": "repo",
+      "label": null,
+      "info": {
+        "provider": "github",
+        "path": "MaddyGuthridge/Jestspectation"
+      }
+    },
+    {
+      "type": "site",
+      "icon": "lab la-readme",
+      "label": "View the documentation",
+      "url": "https://maddyguthridge.github.io/Jestspectation/"
+    },
+    {
+      "type": "package",
+      "label": null,
+      "info": {
+        "provider": "pypi",
+        "id": "jestspectation"
+      }
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Jestspectation"
+    ]
+  }
 }

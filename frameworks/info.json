@@ -1,13 +1,12 @@
 {
   "name": "Frameworks",
+  "shortName": null,
   "description": "Programming frameworks and libraries that I have worked with",
-  "color": "#FF71C6",
   "icon": null,
   "banner": null,
-  "filterGroups": [
-    "languages"
-  ],
-  "listedItems": [
+  "color": "#FF71C6",
+  "sections": [],
+  "children": [
     "sveltekit",
     "pytest",
     "midi-controller-scripting",
@@ -22,20 +21,13 @@
     "sympy",
     "ncurses"
   ],
-  "filterItems": [
-    "sveltekit",
-    "pytest",
-    "midi-controller-scripting",
-    "mypy",
-    "react",
-    "mkdocs",
-    "next",
-    "jest",
-    "flask",
-    "express"
+  "filters": [
+    "/languages"
   ],
-  "pageDescription": "",
-  "keywords": [
-    "Frameworks"
-  ]
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Frameworks"
+    ]
+  }
 }

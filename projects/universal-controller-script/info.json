@@ -1,67 +1,63 @@
 {
   "name": "Universal Controller Script",
+  "shortName": null,
   "description": "An advanced hardware integration layer for the FL Studio audio workstation",
-  "color": "#cc00ff",
   "icon": "icon.png",
   "banner": null,
-  "links": [
-    [
-      {
-        "groupId": "languages",
-        "title": "Languages",
-        "style": "chip"
-      },
-      [
-        "python"
+  "color": "#cc00ff",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Languages",
+      "style": "chip",
+      "items": [
+        "/languages/python"
       ]
-    ],
-    [
-      {
-        "groupId": "frameworks",
-        "title": "Frameworks",
-        "style": "chip"
-      },
-      [
-        "midi-controller-scripting",
-        "mypy"
-      ]
-    ],
-    [
-      {
-        "groupId": "skills",
-        "title": "Skills",
-        "style": "chip"
-      },
-      [
-        "type-safety",
-        "oop",
-        "design-patterns",
-        "midi",
-        "documentation"
-      ]
-    ],
-    [
-      {
-        "groupId": "status",
-        "title": "Status",
-        "style": "chip"
-      },
-      [
-        "active"
-      ]
-    ]
-  ],
-  "urls": {
-    "repo": {
-      "provider": "github",
-      "path": "MaddyGuthridge/Universal-Controller-Script"
     },
-    "site": null,
-    "docs": null
-  },
-  "package": null,
-  "pageDescription": "",
-  "keywords": [
-    "Universal Controller Script"
-  ]
+    {
+      "type": "links",
+      "label": "Frameworks",
+      "style": "chip",
+      "items": [
+        "/frameworks/midi-controller-scripting",
+        "/frameworks/mypy"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/skills/type-safety",
+        "/skills/oop",
+        "/skills/design-patterns",
+        "/skills/midi",
+        "/skills/documentation"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Status",
+      "style": "chip",
+      "items": [
+        "/status/active"
+      ]
+    },
+    {
+      "type": "repo",
+      "label": null,
+      "info": {
+        "provider": "github",
+        "path": "MaddyGuthridge/Universal-Controller-Script"
+      }
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Universal Controller Script"
+    ]
+  }
 }

@@ -1,0 +1,26 @@
+{
+  "name": "Maddy Guthridge / Portfolio",
+  "shortName": "Maddy's Portfolio",
+  "description": "",
+  "icon": null,
+  "banner": null,
+  "color": "#ffaaff",
+  "sections": [],
+  "children": [
+    "projects",
+    "experience",
+    "languages",
+    "skills",
+    "frameworks"
+  ],
+  "filters": [],
+  "seo": {
+    "description": "Learn about Maddy Guthridge's skills, experience and projects on her portfolio website.",
+    "keywords": [
+      "Portfolio",
+      "Maddy",
+      "Miguel",
+      "Guthridge"
+    ]
+  }
+}

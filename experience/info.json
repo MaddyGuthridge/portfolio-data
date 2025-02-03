@@ -1,24 +1,22 @@
 {
   "name": "Experience",
+  "shortName": null,
   "description": "My practical experience, including work and volunteering",
-  "pageDescription": "",
-  "keywords": [
-    "Experience"
-  ],
-  "color": "#FF9771",
   "icon": null,
   "banner": null,
-  "filterGroups": [],
-  "listedItems": [
+  "color": "#FF9771",
+  "sections": [],
+  "children": [
     "unsw-course-admin",
     "unsw-tutoring",
     "image-line-developer-support",
     "med-revue"
   ],
-  "filterItems": [
-    "unsw-tutoring",
-    "unsw-course-admin",
-    "image-line-developer-support",
-    "med-revue"
-  ]
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Experience"
+    ]
+  }
 }

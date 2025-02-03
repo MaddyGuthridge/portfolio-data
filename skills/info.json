@@ -1,13 +1,12 @@
 {
   "name": "Skills",
+  "shortName": null,
   "description": "Skills that are demonstrated by my projects and experience",
-  "color": "#cc00ff",
   "icon": null,
   "banner": null,
-  "filterGroups": [
-    "languages"
-  ],
-  "listedItems": [
+  "color": "#cc00ff",
+  "sections": [],
+  "children": [
     "type-safety",
     "documentation",
     "packages",
@@ -29,30 +28,13 @@
     "web-scraping",
     "sql"
   ],
-  "filterItems": [
-    "type-safety",
-    "documentation",
-    "packages",
-    "full-stack",
-    "backend",
-    "test-driven-development",
-    "design-patterns",
-    "midi",
-    "compilers",
-    "frontend",
-    "cryptography",
-    "systems",
-    "static-analysis",
-    "os",
-    "oop",
-    "concurrency",
-    "algorithms",
-    "agile",
-    "web-scraping",
-    "sql"
+  "filters": [
+    "/languages"
   ],
-  "pageDescription": "",
-  "keywords": [
-    "Skills"
-  ]
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Skills"
+    ]
+  }
 }

@@ -1,43 +1,38 @@
 {
   "name": "Rust",
+  "shortName": null,
   "description": "Rust is a high-level compiled language with powerful static analysis to ensure correctness",
-  "color": "#F66D00",
   "icon": null,
   "banner": null,
-  "links": [
-    [
-      {
-        "groupId": "skills",
-        "title": "Skills",
-        "style": "chip"
-      },
-      [
-        "type-safety",
-        "concurrency",
-        "systems"
+  "color": "#F66D00",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/skills/type-safety",
+        "/skills/concurrency",
+        "/skills/systems"
       ]
-    ],
-    [
-      {
-        "groupId": "projects",
-        "title": "Projects written in this language",
-        "style": "card"
-      },
-      [
-        "aoc",
-        "chess-ai",
-        "enigma-breaker"
+    },
+    {
+      "type": "links",
+      "label": "Projects written in this language",
+      "style": "card",
+      "items": [
+        "/projects/aoc",
+        "/projects/chess-ai",
+        "/projects/enigma-breaker"
       ]
-    ]
+    }
   ],
-  "urls": {
-    "repo": null,
-    "site": null,
-    "docs": null
-  },
-  "package": null,
-  "pageDescription": "",
-  "keywords": [
-    "Rust"
-  ]
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Rust"
+    ]
+  }
 }

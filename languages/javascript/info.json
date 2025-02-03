@@ -1,42 +1,37 @@
 {
   "name": "JavaScript",
+  "shortName": null,
   "description": "JavaScript a high-level programming language designed for adding interactivity to websites",
-  "color": "#FFCB06",
   "icon": null,
   "banner": null,
-  "links": [
-    [
-      {
-        "groupId": "skills",
-        "title": "Skills",
-        "style": "chip"
-      },
-      [
-        "frontend",
-        "full-stack",
-        "backend"
+  "color": "#FFCB06",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/skills/frontend",
+        "/skills/full-stack",
+        "/skills/backend"
       ]
-    ],
-    [
-      {
-        "groupId": "projects",
-        "title": "Projects written in this language",
-        "style": "card"
-      },
-      [
-        "portfolio",
-        "waydriver"
+    },
+    {
+      "type": "links",
+      "label": "Projects written in this language",
+      "style": "card",
+      "items": [
+        "/projects/portfolio",
+        "/projects/waydriver"
       ]
-    ]
+    }
   ],
-  "urls": {
-    "repo": null,
-    "site": null,
-    "docs": null
-  },
-  "package": null,
-  "pageDescription": "",
-  "keywords": [
-    "JavaScript"
-  ]
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "JavaScript"
+    ]
+  }
 }

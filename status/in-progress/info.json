@@ -1,41 +1,36 @@
 {
   "name": "In-progress",
+  "shortName": null,
   "description": "This project is being actively developed, but isn't functional yet",
-  "color": "#F547F5",
   "icon": null,
   "banner": null,
-  "links": [
-    [
-      {
-        "groupId": "status",
-        "title": "Other statuses",
-        "style": "chip"
-      },
-      [
-        "active",
-        "complete",
-        "incomplete"
+  "color": "#F547F5",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Other statuses",
+      "style": "chip",
+      "items": [
+        "/status/active",
+        "/status/complete",
+        "/status/incomplete"
       ]
-    ],
-    [
-      {
-        "groupId": "projects",
-        "title": "Projects with this status",
-        "style": "card"
-      },
-      [
-        "waydriver"
+    },
+    {
+      "type": "links",
+      "label": "Projects with this status",
+      "style": "card",
+      "items": [
+        "/projects/waydriver"
       ]
-    ]
+    }
   ],
-  "urls": {
-    "repo": null,
-    "site": null,
-    "docs": null
-  },
-  "package": null,
-  "pageDescription": "",
-  "keywords": [
-    "In-progress"
-  ]
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "In-progress"
+    ]
+  }
 }

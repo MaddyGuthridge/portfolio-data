@@ -1,29 +1,26 @@
 {
   "name": "Tutor at UNSW",
+  "shortName": null,
   "description": "September 2021 - Present",
-  "pageDescription": "",
-  "keywords": [
-    "Tutor at UNSW"
-  ],
-  "color": "#FF9971",
-  "links": [
-    [
-      {
-        "groupId": "projects",
-        "style": "chip",
-        "title": "Projects"
-      },
-      [
-        "markten"
-      ]
-    ]
-  ],
-  "urls": {
-    "repo": null,
-    "site": null,
-    "docs": null
-  },
-  "package": null,
   "icon": null,
-  "banner": null
+  "banner": null,
+  "color": "#FF9971",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Projects",
+      "style": "chip",
+      "items": [
+        "/projects/markten"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Tutor at UNSW"
+    ]
+  }
 }

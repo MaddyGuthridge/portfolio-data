@@ -1,49 +1,42 @@
 {
   "name": "MIDI",
+  "shortName": null,
   "description": "MIDI is a low-latency binary communication protocol used to communicate with music hardware and software",
-  "color": "#D26B60",
   "icon": null,
   "banner": null,
-  "links": [
-    [
-      {
-        "groupId": "projects",
-        "title": "Projects demonstrating this skill",
-        "style": "card"
-      },
-      [
-        "fl-studio-api-stubs",
-        "flapi",
-        "universal-controller-script"
+  "color": "#D26B60",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Projects demonstrating this skill",
+      "style": "card",
+      "items": [
+        "/projects/fl-studio-api-stubs",
+        "/projects/flapi",
+        "/projects/universal-controller-script"
       ]
-    ],
-    [
-      {
-        "groupId": "frameworks",
-        "title": "Related frameworks",
-        "style": "chip"
-      },
-      [
-        "midi-controller-scripting"
+    },
+    {
+      "type": "links",
+      "label": "Related frameworks",
+      "style": "chip",
+      "items": [
+        "/frameworks/midi-controller-scripting"
       ]
-    ],
-    [
-      {
-        "groupId": "languages",
-        "title": "Related languages",
-        "style": "chip"
-      },
-      []
-    ]
+    },
+    {
+      "type": "links",
+      "label": "Related languages",
+      "style": "chip",
+      "items": []
+    }
   ],
-  "urls": {
-    "repo": null,
-    "site": null,
-    "docs": null
-  },
-  "package": null,
-  "pageDescription": "",
-  "keywords": [
-    "MIDI"
-  ]
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "MIDI"
+    ]
+  }
 }
