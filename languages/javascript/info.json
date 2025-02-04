@@ -2,7 +2,7 @@
   "name": "JavaScript",
   "shortName": null,
   "description": "JavaScript a high-level programming language designed for adding interactivity to websites",
-  "icon": null,
+  "icon": "javascript.png",
   "banner": null,
   "color": "#FFCB06",
   "sections": [

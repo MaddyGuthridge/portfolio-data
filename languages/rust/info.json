@@ -2,7 +2,7 @@
   "name": "Rust",
   "shortName": null,
   "description": "Rust is a high-level compiled language with powerful static analysis to ensure correctness",
-  "icon": null,
+  "icon": "rust.png",
   "banner": null,
   "color": "#F66D00",
   "sections": [

@@ -2,7 +2,7 @@
   "name": "TypeScript",
   "shortName": null,
   "description": "TypeScript is a type-safe superset of JavaScript",
-  "icon": null,
+  "icon": "ts-logo-256.png",
   "banner": null,
   "color": "#27609E",
   "sections": [

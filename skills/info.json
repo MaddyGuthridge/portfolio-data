@@ -16,17 +16,12 @@
     "design-patterns",
     "midi",
     "compilers",
-    "frontend",
     "cryptography",
     "systems",
     "static-analysis",
     "os",
     "oop",
-    "concurrency",
-    "algorithms",
-    "agile",
-    "web-scraping",
-    "sql"
+    "agile"
   ],
   "filters": [
     "/languages"

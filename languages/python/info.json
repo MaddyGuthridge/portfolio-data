@@ -2,7 +2,7 @@
   "name": "Python",
   "shortName": null,
   "description": "Python is a powerful interpreted language known for its ease-of-use",
-  "icon": null,
+  "icon": "python.png",
   "banner": null,
   "color": "#3776AA",
   "sections": [

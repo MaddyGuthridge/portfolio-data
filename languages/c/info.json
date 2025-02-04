@@ -2,7 +2,7 @@
   "name": "C",
   "shortName": null,
   "description": "C is a low-level compiled language, used for performance-critical tasks",
-  "icon": null,
+  "icon": "c-lang.png",
   "banner": null,
   "color": "#3E48CC",
   "sections": [

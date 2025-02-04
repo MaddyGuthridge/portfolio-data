@@ -2,7 +2,7 @@
   "name": "Band Director for UNSW Med Revue",
   "shortName": null,
   "description": "May - July 2022",
-  "icon": null,
+  "icon": "med-revue.jpg",
   "banner": "banner.png",
   "color": "#aa00aa",
   "sections": [],

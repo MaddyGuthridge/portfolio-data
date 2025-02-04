@@ -2,7 +2,7 @@
   "name": "HTML",
   "shortName": null,
   "description": "HTML is a markup language used for building webpages",
-  "icon": null,
+  "icon": "html5.png",
   "banner": null,
   "color": "#FFCB06",
   "sections": [
