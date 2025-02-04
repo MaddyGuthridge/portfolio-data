@@ -5,6 +5,7 @@
 I have tutored a wide variety of software engineering courses at UNSW.
 
 * [COMP1531](https://handbook.unsw.edu.au/undergraduate/courses/current/comp1531) Software Engineering Fundamentals
+* [COMP1010](https://handbook.unsw.edu.au/undergraduate/courses/current/comp1010) The Art of Computing
 * [COMP2521](https://handbook.unsw.edu.au/undergraduate/courses/current/comp2521) Data Structures and Algorithms
 * [COMP2511](https://handbook.unsw.edu.au/undergraduate/courses/current/comp2511) Object-Oriented Design & Programming
 
