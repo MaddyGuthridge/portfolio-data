@@ -19,7 +19,8 @@
     "flask",
     "express",
     "sympy",
-    "ncurses"
+    "ncurses",
+    "docker"
   ],
   "filters": [
     "/languages"

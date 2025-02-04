@@ -1,0 +1,26 @@
+{
+  "name": "Docker",
+  "description": "Docker is a containerization system for distributing and deploying software",
+  "shortName": null,
+  "icon": null,
+  "banner": null,
+  "color": "#3584e4",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Projects I've Dockerized",
+      "style": "chip",
+      "items": [
+        "/projects/portfolio"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Docker"
+    ]
+  }
+}

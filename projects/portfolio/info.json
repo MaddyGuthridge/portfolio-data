@@ -21,7 +21,8 @@
       "label": "Frameworks",
       "style": "chip",
       "items": [
-        "/frameworks/sveltekit"
+        "/frameworks/sveltekit",
+        "/frameworks/docker"
       ]
     },
     {
