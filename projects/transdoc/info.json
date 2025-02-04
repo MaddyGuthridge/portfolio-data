@@ -2,9 +2,9 @@
   "name": "Transdoc",
   "description": "A documentation transformation system, making it easier to write clear and user-friendly documentation",
   "shortName": null,
-  "icon": null,
-  "banner": null,
-  "color": "#0099ff",
+  "icon": "transdoc icon 280p.png",
+  "banner": "transdoc.png",
+  "color": "#ffa4db",
   "sections": [
     {
       "type": "site",
