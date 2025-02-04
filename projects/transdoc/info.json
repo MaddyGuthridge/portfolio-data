@@ -1,0 +1,40 @@
+{
+  "name": "Transdoc",
+  "description": "A documentation transformation system, making it easier to write clear and user-friendly documentation",
+  "shortName": null,
+  "icon": null,
+  "banner": null,
+  "color": "#0099ff",
+  "sections": [
+    {
+      "type": "site",
+      "icon": "las la-book-open",
+      "label": "View the documentation",
+      "url": "https://maddyguthridge.github.io/transdoc/"
+    },
+    {
+      "type": "repo",
+      "label": null,
+      "info": {
+        "provider": "github",
+        "path": "MaddyGuthridge/transdoc"
+      }
+    },
+    {
+      "type": "package",
+      "label": null,
+      "info": {
+        "provider": "pypi",
+        "id": "transdoc"
+      }
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Transdoc"
+    ]
+  }
+}

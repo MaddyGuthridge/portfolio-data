@@ -1,7 +1,7 @@
 {
   "name": "PyHTML Enhanced",
   "shortName": null,
-  "description": "A library for building HTML documents with a simple and learnable syntax",
+  "description": "A Python library for building HTML documents with a simple and learnable syntax",
   "icon": "icon.png",
   "banner": null,
   "color": "#FFCB06",
