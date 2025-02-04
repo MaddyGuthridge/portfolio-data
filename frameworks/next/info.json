@@ -2,7 +2,7 @@
   "name": "Next",
   "shortName": null,
   "description": "Next is a JavaScript full-stack web framework that uses React.js",
-  "icon": null,
+  "icon": "next.png",
   "banner": null,
   "color": "#0DCDF3",
   "sections": [

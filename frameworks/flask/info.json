@@ -2,7 +2,7 @@
   "name": "Flask",
   "shortName": null,
   "description": "Flask is a Python web framework",
-  "icon": null,
+  "icon": "flask.png",
   "banner": null,
   "color": "#F7E200",
   "sections": [

@@ -2,7 +2,7 @@
   "name": "SvelteKit",
   "shortName": null,
   "description": "SvelteKit is a markup language for building websites using the SvelteKit framework",
-  "icon": null,
+  "icon": "svelte.jpg",
   "banner": null,
   "color": "#F96743",
   "sections": [

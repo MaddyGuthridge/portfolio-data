@@ -2,7 +2,7 @@
   "name": "Express",
   "shortName": null,
   "description": "Express is a JavaScript web framework",
-  "icon": null,
+  "icon": "express.png",
   "banner": null,
   "color": "#F7E200",
   "sections": [

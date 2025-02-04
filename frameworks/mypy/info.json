@@ -2,7 +2,7 @@
   "name": "Mypy",
   "shortName": null,
   "description": "Mypy is a static type checker for Python",
-  "icon": null,
+  "icon": "mypy.png",
   "banner": null,
   "color": "#1371A7",
   "sections": [

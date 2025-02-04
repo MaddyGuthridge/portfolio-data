@@ -15,11 +15,8 @@
     "mkdocs",
     "next",
     "jest",
-    "piccolo-orm",
     "flask",
     "express",
-    "sympy",
-    "ncurses",
     "docker"
   ],
   "filters": [

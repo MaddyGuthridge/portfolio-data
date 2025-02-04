@@ -2,9 +2,9 @@
   "name": "Jest",
   "shortName": null,
   "description": "Jest is a flexible testing framework for JavaScript and TypeScript",
-  "icon": null,
+  "icon": "jest.png",
   "banner": null,
-  "color": "#F7E200",
+  "color": "#ed333b",
   "sections": [
     {
       "type": "links",

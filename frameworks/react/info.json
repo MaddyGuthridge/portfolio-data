@@ -2,7 +2,7 @@
   "name": "React",
   "shortName": null,
   "description": "React is a frontend library for building composable and reactive web apps",
-  "icon": null,
+  "icon": "react.png",
   "banner": null,
   "color": "#58C4DC",
   "sections": [

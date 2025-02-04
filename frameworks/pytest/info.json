@@ -2,7 +2,7 @@
   "name": "Pytest",
   "shortName": null,
   "description": "Pytest is a flexible testing framework for Python",
-  "icon": null,
+  "icon": "pytest.svg",
   "banner": null,
   "color": "#78A808",
   "sections": [

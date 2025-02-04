@@ -2,7 +2,7 @@
   "name": "Docker",
   "description": "Docker is a containerization system for distributing and deploying software",
   "shortName": null,
-  "icon": null,
+  "icon": "docker.jpg",
   "banner": null,
   "color": "#3584e4",
   "sections": [
