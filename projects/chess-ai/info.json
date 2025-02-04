@@ -2,7 +2,7 @@
   "name": "Chess AI",
   "shortName": null,
   "description": "A chess engine written in Rust",
-  "icon": null,
+  "icon": "knook.png",
   "banner": null,
   "color": "#66ff66",
   "sections": [
