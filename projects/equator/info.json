@@ -4,7 +4,7 @@
   "description": "A symbolic math interpreter built using Sympy",
   "icon": null,
   "banner": null,
-  "color": "#00ff99",
+  "color": "#479013",
   "sections": [
     {
       "type": "links",
