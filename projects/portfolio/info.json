@@ -4,7 +4,7 @@
   "description": "The content management system that powers my portfolio website",
   "icon": "minifolio.png",
   "banner": null,
-  "color": "#0099ff",
+  "color": "#2261da",
   "sections": [
     {
       "type": "links",
