@@ -35,5 +35,6 @@
     "keywords": [
       "Static analysis"
     ]
-  }
+  },
+  "readme": "README.md"
 }

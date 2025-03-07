@@ -38,5 +38,6 @@
     "keywords": [
       "Documentation"
     ]
-  }
+  },
+  "readme": "README.md"
 }

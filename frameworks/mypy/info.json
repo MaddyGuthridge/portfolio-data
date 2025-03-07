@@ -43,5 +43,6 @@
     "keywords": [
       "Mypy"
     ]
-  }
+  },
+  "readme": "README.md"
 }

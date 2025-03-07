@@ -39,5 +39,6 @@
     "keywords": [
       "SvelteKit"
     ]
-  }
+  },
+  "readme": "README.md"
 }

@@ -80,5 +80,6 @@
     "keywords": [
       "FL Studio API Stubs"
     ]
-  }
+  },
+  "readme": "README.md"
 }

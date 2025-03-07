@@ -38,5 +38,6 @@
     "keywords": [
       "Piccolo ORM"
     ]
-  }
+  },
+  "readme": "README.md"
 }

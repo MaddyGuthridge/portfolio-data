@@ -40,5 +40,6 @@
     "keywords": [
       "Test-driven development"
     ]
-  }
+  },
+  "readme": "README.md"
 }

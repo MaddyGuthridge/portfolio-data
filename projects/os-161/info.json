@@ -38,5 +38,6 @@
     "keywords": [
       "OS/161"
     ]
-  }
+  },
+  "readme": "README.md"
 }

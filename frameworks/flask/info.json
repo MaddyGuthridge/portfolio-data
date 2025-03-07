@@ -39,5 +39,6 @@
     "keywords": [
       "Flask"
     ]
-  }
+  },
+  "readme": "README.md"
 }

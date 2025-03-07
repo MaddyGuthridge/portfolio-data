@@ -47,5 +47,6 @@
     "keywords": [
       "Chess AI"
     ]
-  }
+  },
+  "readme": "README.md"
 }

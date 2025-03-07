@@ -80,5 +80,6 @@
     "keywords": [
       "Jestspectation"
     ]
-  }
+  },
+  "readme": "README.md"
 }

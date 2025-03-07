@@ -48,5 +48,6 @@
     "keywords": [
       "Enigma Machine Breaker"
     ]
-  }
+  },
+  "readme": "README.md"
 }

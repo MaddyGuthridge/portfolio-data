@@ -47,5 +47,6 @@
     "keywords": [
       "Design patterns"
     ]
-  }
+  },
+  "readme": "README.md"
 }

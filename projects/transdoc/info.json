@@ -36,5 +36,6 @@
     "keywords": [
       "Transdoc"
     ]
-  }
+  },
+  "readme": "README.md"
 }

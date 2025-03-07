@@ -34,5 +34,6 @@
     "keywords": [
       "Cryptography"
     ]
-  }
+  },
+  "readme": "README.md"
 }

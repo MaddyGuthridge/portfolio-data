@@ -40,5 +40,6 @@
     "keywords": [
       "Pytest"
     ]
-  }
+  },
+  "readme": "README.md"
 }

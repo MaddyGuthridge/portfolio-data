@@ -31,5 +31,6 @@
     "keywords": [
       "Mkdocs"
     ]
-  }
+  },
+  "readme": "README.md"
 }

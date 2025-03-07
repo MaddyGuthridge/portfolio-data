@@ -40,5 +40,6 @@
     "keywords": [
       "MIDI Controller Scripting"
     ]
-  }
+  },
+  "readme": "README.md"
 }

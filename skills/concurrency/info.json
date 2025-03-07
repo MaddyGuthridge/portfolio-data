@@ -37,5 +37,6 @@
     "keywords": [
       "Concurrency"
     ]
-  }
+  },
+  "readme": "README.md"
 }

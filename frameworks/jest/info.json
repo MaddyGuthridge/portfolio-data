@@ -39,5 +39,6 @@
     "keywords": [
       "Jest"
     ]
-  }
+  },
+  "readme": "README.md"
 }

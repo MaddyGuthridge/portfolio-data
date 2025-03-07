@@ -39,5 +39,6 @@
     "keywords": [
       "Express"
     ]
-  }
+  },
+  "readme": "README.md"
 }
