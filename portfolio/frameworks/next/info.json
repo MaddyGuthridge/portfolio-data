@@ -1,0 +1,45 @@
+{
+  "name": "Next",
+  "shortName": null,
+  "description": "Next is a JavaScript full-stack web framework that uses React.js",
+  "icon": "next.png",
+  "banner": null,
+  "color": "#0DCDF3",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Languages",
+      "style": "chip",
+      "items": [
+        "/portfolio/languages/typescript",
+        "/portfolio/languages/javascript"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/portfolio/skills/full-stack",
+        "/portfolio/skills/frontend"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Projects utilising this framework",
+      "style": "card",
+      "items": [
+        "/portfolio/projects/waydriver"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Next"
+    ]
+  },
+  "readme": "README.md"
+}

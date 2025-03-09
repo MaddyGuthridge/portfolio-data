@@ -1,0 +1,29 @@
+{
+  "name": "Course Administrator at UNSW",
+  "shortName": null,
+  "description": "January 2023 - Present",
+  "icon": "1010.png",
+  "banner": null,
+  "color": "#FFE100",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Projects I created in this role",
+      "style": "chip",
+      "items": [
+        "/portfolio/projects/jestspectation",
+        "/portfolio/projects/markten",
+        "/portfolio/projects/pyhtml"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Course Administrator at UNSW"
+    ]
+  },
+  "readme": "README.md"
+}

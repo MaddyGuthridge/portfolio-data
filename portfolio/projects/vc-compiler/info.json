@@ -1,0 +1,47 @@
+{
+  "name": "VC Compiler",
+  "shortName": null,
+  "description": "A compiler written in Java that converts a C-like language into Java Bytecode",
+  "icon": null,
+  "banner": null,
+  "color": "#ff5050",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Languages",
+      "style": "chip",
+      "items": [
+        "/portfolio/languages/java",
+        "/portfolio/languages/jasmin"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/portfolio/skills/static-analysis",
+        "/portfolio/skills/compilers",
+        "/portfolio/skills/design-patterns",
+        "/portfolio/skills/oop"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Status",
+      "style": "chip",
+      "items": [
+        "/portfolio/status/complete"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "VC Compiler"
+    ]
+  },
+  "readme": "README.md"
+}

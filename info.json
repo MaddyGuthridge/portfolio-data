@@ -1,17 +1,27 @@
 {
-  "name": "Maddy Guthridge / Portfolio",
-  "shortName": "Maddy's Portfolio",
+  "name": "Maddy Guthridge",
+  "shortName": "Maddy's",
   "description": "",
   "icon": null,
   "banner": null,
   "color": "#9141ac",
-  "sections": [],
+  "sections": [
+    {
+      "type": "site",
+      "icon": "lab la-github",
+      "label": "View my code on GitHub",
+      "url": "https://github.com/MaddyGuthridge"
+    },
+    {
+      "type": "site",
+      "icon": "lab la-linkedin",
+      "label": "Follow me on LinkedIn",
+      "url": "https://linkedin.com/in/maddyguthridge"
+    }
+  ],
   "children": [
-    "projects",
-    "experience",
-    "languages",
-    "skills",
-    "frameworks"
+    "portfolio",
+    "blog"
   ],
   "filters": [],
   "seo": {
@@ -23,5 +33,5 @@
       "Guthridge"
     ]
   },
-  "readme": "README.md"
+  "readme": "index.html"
 }

@@ -1,0 +1,44 @@
+{
+  "name": "NCurses",
+  "shortName": null,
+  "description": "NCurses is a library for building UIs for terminal apps",
+  "icon": null,
+  "banner": null,
+  "color": "#C7D302",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Languages",
+      "style": "chip",
+      "items": [
+        "/portfolio/languages/python",
+        "/portfolio/languages/c"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/portfolio/skills/systems"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Projects utilising this framework",
+      "style": "card",
+      "items": [
+        "/portfolio/projects/equator"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "NCurses"
+    ]
+  },
+  "readme": "README.md"
+}

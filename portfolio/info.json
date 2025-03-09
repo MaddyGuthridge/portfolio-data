@@ -1,0 +1,24 @@
+{
+  "name": "Portfolio",
+  "description": "My portfolio, detailing my projects, skills and experience",
+  "readme": "README.md",
+  "shortName": null,
+  "icon": null,
+  "banner": null,
+  "color": "#62a0ea",
+  "sections": [],
+  "children": [
+    "projects",
+    "experience",
+    "languages",
+    "skills",
+    "frameworks"
+  ],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Portfolio"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Rust",
+  "shortName": null,
+  "description": "Rust is a high-level compiled language with powerful static analysis to ensure correctness",
+  "icon": "rust.png",
+  "banner": null,
+  "color": "#F66D00",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/portfolio/skills/type-safety",
+        "/portfolio/skills/concurrency",
+        "/portfolio/skills/systems"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Projects written in this language",
+      "style": "card",
+      "items": [
+        "/portfolio/projects/aoc",
+        "/portfolio/projects/chess-ai",
+        "/portfolio/projects/enigma-breaker"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Rust"
+    ]
+  },
+  "readme": "README.md"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Full stack",
+  "shortName": null,
+  "description": "Full stack development is the process of developing both the frontend and the backend of an application",
+  "icon": null,
+  "banner": null,
+  "color": "#7247F5",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/portfolio/skills/backend",
+        "/portfolio/skills/frontend"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Projects demonstrating this skill",
+      "style": "card",
+      "items": [
+        "/portfolio/projects/portfolio",
+        "/portfolio/projects/waydriver"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Related frameworks",
+      "style": "chip",
+      "items": [
+        "/portfolio/frameworks/flask",
+        "/portfolio/frameworks/next",
+        "/portfolio/frameworks/sveltekit"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Related languages",
+      "style": "chip",
+      "items": [
+        "/portfolio/languages/typescript",
+        "/portfolio/languages/javascript"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Full stack"
+    ]
+  },
+  "readme": "README.md"
+}

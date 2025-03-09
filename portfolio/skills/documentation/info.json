@@ -1,0 +1,43 @@
+{
+  "name": "Documentation",
+  "shortName": null,
+  "description": "Documentation is information that describes the details of a project",
+  "icon": null,
+  "banner": null,
+  "color": "#EA52D1",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Projects demonstrating this skill",
+      "style": "card",
+      "items": [
+        "/portfolio/projects/fl-studio-api-stubs",
+        "/portfolio/projects/pyhtml",
+        "/portfolio/projects/universal-controller-script"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Related frameworks",
+      "style": "chip",
+      "items": [
+        "/portfolio/frameworks/mkdocs"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Related languages",
+      "style": "chip",
+      "items": []
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Documentation"
+    ]
+  },
+  "readme": "README.md"
+}

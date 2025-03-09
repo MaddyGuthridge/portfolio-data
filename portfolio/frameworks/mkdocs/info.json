@@ -1,0 +1,36 @@
+{
+  "name": "Mkdocs",
+  "shortName": null,
+  "description": "Mkdocs is a documentation framework that transforms Markdown files into a static website",
+  "icon": "mkdocs-material.png",
+  "banner": null,
+  "color": "#1371A7",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/portfolio/skills/documentation"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Projects utilising this framework",
+      "style": "card",
+      "items": [
+        "/portfolio/projects/fl-studio-api-stubs",
+        "/portfolio/projects/jestspectation"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Mkdocs"
+    ]
+  },
+  "readme": "README.md"
+}

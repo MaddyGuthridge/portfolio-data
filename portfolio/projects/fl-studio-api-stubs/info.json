@@ -1,0 +1,85 @@
+{
+  "name": "FL Studio API Stubs",
+  "shortName": null,
+  "description": "Type definitions, and full documentation for FL Studio's MIDI Controller Scripting API",
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "color": "#ff6600",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Languages",
+      "style": "chip",
+      "items": [
+        "/portfolio/languages/python"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Frameworks",
+      "style": "chip",
+      "items": [
+        "/portfolio/frameworks/midi-controller-scripting",
+        "/portfolio/frameworks/mkdocs",
+        "/portfolio/frameworks/mypy"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/portfolio/skills/midi",
+        "/portfolio/skills/documentation",
+        "/portfolio/skills/packages"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Status",
+      "style": "chip",
+      "items": [
+        "/portfolio/status/active"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Experience",
+      "style": "chip",
+      "items": [
+        "/portfolio/experience/image-line-developer-support"
+      ]
+    },
+    {
+      "type": "repo",
+      "label": null,
+      "info": {
+        "provider": "github",
+        "path": "IL-Group/FL-Studio-API-Stubs"
+      }
+    },
+    {
+      "type": "site",
+      "icon": "lab la-readme",
+      "label": "View the documentation",
+      "url": "https://il-group.github.io/FL-Studio-API-Stubs/"
+    },
+    {
+      "type": "package",
+      "label": null,
+      "info": {
+        "provider": "pypi",
+        "id": "fl-studio-api-stubs"
+      }
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "FL Studio API Stubs"
+    ]
+  },
+  "readme": "README.md"
+}

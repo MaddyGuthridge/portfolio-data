@@ -1,0 +1,48 @@
+{
+  "name": "TypeScript",
+  "shortName": null,
+  "description": "TypeScript is a type-safe superset of JavaScript",
+  "icon": "ts-logo-256.png",
+  "banner": null,
+  "color": "#27609E",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Related languages",
+      "style": "chip",
+      "items": [
+        "/portfolio/languages/javascript",
+        "/portfolio/languages/html"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/portfolio/skills/type-safety",
+        "/portfolio/skills/full-stack",
+        "/portfolio/skills/frontend",
+        "/portfolio/skills/backend"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Projects written in this language",
+      "style": "card",
+      "items": [
+        "/portfolio/projects/portfolio",
+        "/portfolio/projects/waydriver"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "TypeScript"
+    ]
+  },
+  "readme": "README.md"
+}

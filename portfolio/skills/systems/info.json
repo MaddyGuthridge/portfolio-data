@@ -1,0 +1,46 @@
+{
+  "name": "Systems",
+  "shortName": null,
+  "description": "Systems programming is programming that interacts with the operating system at a low level",
+  "icon": null,
+  "banner": null,
+  "color": "#8C2100",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Projects demonstrating this skill",
+      "style": "card",
+      "items": [
+        "/portfolio/projects/concussion",
+        "/portfolio/projects/flapi",
+        "/portfolio/projects/shuck"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Related frameworks",
+      "style": "chip",
+      "items": [
+        "/portfolio/frameworks/ncurses"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Related languages",
+      "style": "chip",
+      "items": [
+        "/portfolio/languages/c",
+        "/portfolio/languages/rust"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Systems"
+    ]
+  },
+  "readme": "README.md"
+}

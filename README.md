@@ -1,5 +1,7 @@
-# Maddy Guthridge's Portfolio
+# Hi, I'm Maddy!
 
-Hello, world! This is my portfolio website, which I built using my powerful content management system [Minifolio](https://github.com/MaddyGuthridge/Minifolio).
 
-Here, you'll find a showcase of my diverse set of projects, skills and experience. I hope you enjoy your time exploring my work!
+
+*Maddy Guthridge (they/she)*
+
+Hello, world! Welcome to my website, which I built using my powerful content management system [Minifolio](https://github.com/MaddyGuthridge/Minifolio).

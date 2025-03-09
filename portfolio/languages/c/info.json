@@ -1,0 +1,37 @@
+{
+  "name": "C",
+  "shortName": null,
+  "description": "C is a low-level compiled language, used for performance-critical tasks",
+  "icon": "c-lang.png",
+  "banner": null,
+  "color": "#3E48CC",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/portfolio/skills/os",
+        "/portfolio/skills/systems"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Projects written in this language",
+      "style": "card",
+      "items": [
+        "/portfolio/projects/os-161",
+        "/portfolio/projects/shuck"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "C"
+    ]
+  },
+  "readme": "README.md"
+}

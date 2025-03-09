@@ -1,0 +1,32 @@
+{
+  "name": "Frameworks",
+  "shortName": null,
+  "description": "Programming frameworks and libraries that I have worked with",
+  "icon": null,
+  "banner": null,
+  "color": "#FF71C6",
+  "sections": [],
+  "children": [
+    "sveltekit",
+    "pytest",
+    "midi-controller-scripting",
+    "mypy",
+    "react",
+    "mkdocs",
+    "next",
+    "jest",
+    "flask",
+    "express",
+    "docker"
+  ],
+  "filters": [
+    "/portfolio/languages"
+  ],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Frameworks"
+    ]
+  },
+  "readme": "README.md"
+}

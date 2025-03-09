@@ -1,0 +1,37 @@
+{
+  "name": "Java",
+  "shortName": null,
+  "description": "Java is a high-level object-oriented language that uses the Java Virtual Machine",
+  "icon": "java.png",
+  "banner": null,
+  "color": "#EA2026",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/portfolio/skills/oop",
+        "/portfolio/skills/design-patterns"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Projects written in this language",
+      "style": "card",
+      "items": [
+        "/portfolio/projects/dungeon-mania",
+        "/portfolio/projects/vc-compiler"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Java"
+    ]
+  },
+  "readme": "README.md"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Mypy",
+  "shortName": null,
+  "description": "Mypy is a static type checker for Python",
+  "icon": "mypy.png",
+  "banner": null,
+  "color": "#1371A7",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Languages",
+      "style": "chip",
+      "items": [
+        "/portfolio/languages/python"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/portfolio/skills/type-safety"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Projects utilising this framework",
+      "style": "card",
+      "items": [
+        "/portfolio/projects/ensemble-forum",
+        "/portfolio/projects/fl-studio-api-stubs",
+        "/portfolio/projects/flapi",
+        "/portfolio/projects/jestspectation",
+        "/portfolio/projects/pyhtml",
+        "/portfolio/projects/universal-controller-script"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Mypy"
+    ]
+  },
+  "readme": "README.md"
+}

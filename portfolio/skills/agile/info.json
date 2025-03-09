@@ -1,0 +1,39 @@
+{
+  "name": "Agile",
+  "shortName": null,
+  "description": "A development paradigm focused on rapid iteration and flexibility",
+  "icon": null,
+  "banner": null,
+  "color": "#BCA1E1",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Projects demonstrating this skill",
+      "style": "card",
+      "items": [
+        "/portfolio/projects/ensemble-forum"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Related frameworks",
+      "style": "chip",
+      "items": []
+    },
+    {
+      "type": "links",
+      "label": "Related languages",
+      "style": "chip",
+      "items": []
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Agile"
+    ]
+  },
+  "readme": "README.md"
+}

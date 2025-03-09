@@ -1,0 +1,37 @@
+{
+  "name": "Incomplete",
+  "shortName": null,
+  "description": "This project is not feature-complete, and isn't receiving active development",
+  "icon": null,
+  "banner": null,
+  "color": "#F58D47",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Other statuses",
+      "style": "chip",
+      "items": [
+        "/portfolio/status/active",
+        "/portfolio/status/complete",
+        "/portfolio/status/in-progress"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Projects with this status",
+      "style": "card",
+      "items": [
+        "/portfolio/projects/chess-ai"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Incomplete"
+    ]
+  },
+  "readme": "README.md"
+}

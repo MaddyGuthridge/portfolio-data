@@ -1,0 +1,22 @@
+{
+  "name": "Blog",
+  "description": "My personal blog",
+  "readme": "README.md",
+  "shortName": null,
+  "icon": null,
+  "banner": null,
+  "color": "#f66151",
+  "sections": [],
+  "children": [
+    "representing-gender-programmatically",
+    "distro-hoppers-checklist",
+    "1531-setup"
+  ],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Blog"
+    ]
+  }
+}

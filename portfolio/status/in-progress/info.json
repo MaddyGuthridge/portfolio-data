@@ -1,0 +1,37 @@
+{
+  "name": "In-progress",
+  "shortName": null,
+  "description": "This project is being actively developed, but isn't functional yet",
+  "icon": null,
+  "banner": null,
+  "color": "#F547F5",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Other statuses",
+      "style": "chip",
+      "items": [
+        "/portfolio/status/active",
+        "/portfolio/status/complete",
+        "/portfolio/status/incomplete"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Projects with this status",
+      "style": "card",
+      "items": [
+        "/portfolio/projects/waydriver"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "In-progress"
+    ]
+  },
+  "readme": "README.md"
+}

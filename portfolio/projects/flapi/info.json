@@ -1,0 +1,70 @@
+{
+  "name": "Flapi",
+  "shortName": null,
+  "description": "A remote control framework for FL Studio",
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "color": "#E24D17",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Languages",
+      "style": "chip",
+      "items": [
+        "/portfolio/languages/python"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Frameworks",
+      "style": "chip",
+      "items": [
+        "/portfolio/frameworks/midi-controller-scripting",
+        "/portfolio/frameworks/mypy"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/portfolio/skills/midi",
+        "/portfolio/skills/systems",
+        "/portfolio/skills/packages"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Status",
+      "style": "chip",
+      "items": [
+        "/portfolio/status/active"
+      ]
+    },
+    {
+      "type": "repo",
+      "label": null,
+      "info": {
+        "provider": "github",
+        "path": "MaddyGuthridge/Flapi"
+      }
+    },
+    {
+      "type": "package",
+      "label": null,
+      "info": {
+        "provider": "pypi",
+        "id": "flapi"
+      }
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Flapi"
+    ]
+  },
+  "readme": "README.md"
+}

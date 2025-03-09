@@ -1,0 +1,44 @@
+{
+  "name": "SvelteKit",
+  "shortName": null,
+  "description": "SvelteKit is a markup language for building websites using the SvelteKit framework",
+  "icon": "svelte.jpg",
+  "banner": null,
+  "color": "#F96743",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Languages",
+      "style": "chip",
+      "items": [
+        "/portfolio/languages/typescript",
+        "/portfolio/languages/javascript"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/portfolio/skills/full-stack"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Projects utilising this framework",
+      "style": "card",
+      "items": [
+        "/portfolio/projects/portfolio"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "SvelteKit"
+    ]
+  },
+  "readme": "README.md"
+}

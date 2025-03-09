@@ -1,0 +1,45 @@
+{
+  "name": "Complete",
+  "shortName": null,
+  "description": "This project has finished development and is feature-complete",
+  "icon": null,
+  "banner": null,
+  "color": "#47F584",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Other statuses",
+      "style": "chip",
+      "items": [
+        "/portfolio/status/active",
+        "/portfolio/status/in-progress",
+        "/portfolio/status/incomplete"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Projects with this status",
+      "style": "card",
+      "items": [
+        "/portfolio/projects/aoc",
+        "/portfolio/projects/concussion",
+        "/portfolio/projects/dungeon-mania",
+        "/portfolio/projects/enigma-breaker",
+        "/portfolio/projects/ensemble-forum",
+        "/portfolio/projects/equator",
+        "/portfolio/projects/os-161",
+        "/portfolio/projects/shuck",
+        "/portfolio/projects/vc-compiler"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Complete"
+    ]
+  },
+  "readme": "README.md"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Project status",
+  "shortName": null,
+  "description": "The status of projects",
+  "icon": null,
+  "banner": null,
+  "color": "#47F584",
+  "sections": [],
+  "children": [
+    "incomplete",
+    "in-progress",
+    "complete",
+    "active"
+  ],
+  "filters": [
+    "/portfolio/frameworks",
+    "/portfolio/languages",
+    "/portfolio/projects",
+    "/portfolio/skills"
+  ],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Project status"
+    ]
+  },
+  "readme": "README.md"
+}

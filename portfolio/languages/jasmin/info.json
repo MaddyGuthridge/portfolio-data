@@ -1,0 +1,43 @@
+{
+  "name": "Jasmin",
+  "shortName": null,
+  "description": "Jasmin is an assembly language targeting the Java virtual machine",
+  "icon": null,
+  "banner": null,
+  "color": "#E8B6F8",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Related languages",
+      "style": "chip",
+      "items": [
+        "/portfolio/languages/java"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/portfolio/skills/compilers"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Projects written in this language",
+      "style": "card",
+      "items": [
+        "/portfolio/projects/vc-compiler"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Jasmin"
+    ]
+  },
+  "readme": "README.md"
+}

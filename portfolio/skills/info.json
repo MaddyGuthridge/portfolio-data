@@ -1,0 +1,36 @@
+{
+  "name": "Skills",
+  "shortName": null,
+  "description": "Skills that are demonstrated by my projects and experience",
+  "icon": null,
+  "banner": null,
+  "color": "#cc00ff",
+  "sections": [],
+  "children": [
+    "type-safety",
+    "documentation",
+    "packages",
+    "full-stack",
+    "backend",
+    "test-driven-development",
+    "design-patterns",
+    "midi",
+    "compilers",
+    "cryptography",
+    "systems",
+    "static-analysis",
+    "os",
+    "oop",
+    "agile"
+  ],
+  "filters": [
+    "/portfolio/languages"
+  ],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Skills"
+    ]
+  },
+  "readme": "README.md"
+}

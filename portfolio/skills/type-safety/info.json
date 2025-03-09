@@ -1,0 +1,50 @@
+{
+  "name": "Type safety",
+  "shortName": null,
+  "description": "Type safety refers to when static analysis is used to check for type errors within code",
+  "icon": null,
+  "banner": null,
+  "color": "#27609E",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Projects demonstrating this skill",
+      "style": "card",
+      "items": [
+        "/portfolio/projects/chess-ai",
+        "/portfolio/projects/enigma-breaker",
+        "/portfolio/projects/ensemble-forum",
+        "/portfolio/projects/portfolio",
+        "/portfolio/projects/pyhtml",
+        "/portfolio/projects/universal-controller-script"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Related frameworks",
+      "style": "chip",
+      "items": [
+        "/portfolio/frameworks/mypy"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Related languages",
+      "style": "chip",
+      "items": [
+        "/portfolio/languages/python",
+        "/portfolio/languages/rust",
+        "/portfolio/languages/typescript"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Type safety"
+    ]
+  },
+  "readme": "README.md"
+}

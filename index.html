@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Homepage</title>
+</head>
+
+<body>
+  <div class="page">
+    <div class="title">
+      <h1>Hi, I'm Maddy!</h1>
+      <p><i>Maddy Guthridge (formerly Miguel)</i></p>
+      <p style="font-size: 1.2em;"><b><em>they/she</em></b></p>
+    </div>
+
+    <div class="inner-main">
+      <div class="text">
+        <p>
+          I'm a <em>passionate</em> software engineer, teacher and musician
+          studying computer science at UNSW, Sydney.
+        </p>
+        <p>
+          I love developing <em>harmonious</em> solutions to solve real-world
+          problems, and am an advocate for inclusivity and accessibility.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <style>
+    .page {
+      font-family: "Open Sans", sans-serif;
+      margin: 0px;
+      display: flex;
+      flex-direction: column;
+      font-size: 1.5rem;
+      overflow-x: hidden;
+
+      --heading-shadow: rgba(231, 179, 255, 0.519) 5px 1px 5px;
+
+      --link-color: rgb(135, 48, 116);
+      --link-hover-color: rgb(183, 47, 154);
+
+      --gradient-fallback: rgb(224, 0, 199);
+      --gradient: linear-gradient(146deg,
+          rgb(177, 0, 156) 0%,
+          rgb(124, 0, 158) 35%,
+          rgb(0, 62, 179) 100%);
+
+      /**
+       * Responsive header design
+       */
+      @media only screen and (width < 35rem) {
+        --header-size: 3rem;
+      }
+      @media only screen and (35rem <= width < 60rem) {
+        --header-size: 5rem;
+      }
+      @media only screen and (60rem <= width < 80rem) {
+        --header-size: 7rem;
+      }
+      @media only screen and (80rem <= width) {
+        --header-size: 10rem;
+      }
+
+
+      & .title {
+        padding: 0 5%;
+        /* height: 85vh; */
+        text-shadow: var(--heading-shadow);
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+      }
+
+      & .title>h1 {
+        font-size: var(--header-size);
+        margin: 0;
+      }
+
+      & .text {
+        text-align: center;
+      }
+
+      & .inner-main {
+        font-family: "Open Sans", sans-serif;
+        font-size: 1.5rem;
+        margin: 0 10%;
+      }
+
+      /**
+       * Fancy gradient text
+       * https://unused-css.com/blog/css-rainbow-text/
+       */
+      & em {
+        background-image: var(--gradient-fallback);
+        background-image: var(--gradient);
+        color: transparent;
+        background-clip: text;
+        -webkit-background-clip: text;
+        font-weight: bolder;
+      }
+    }
+  </style>
+
+</body>
+
+</html>

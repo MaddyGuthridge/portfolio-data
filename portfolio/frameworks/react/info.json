@@ -1,0 +1,45 @@
+{
+  "name": "React",
+  "shortName": null,
+  "description": "React is a frontend library for building composable and reactive web apps",
+  "icon": "react.png",
+  "banner": null,
+  "color": "#58C4DC",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Languages",
+      "style": "chip",
+      "items": [
+        "/portfolio/languages/typescript",
+        "/portfolio/languages/javascript",
+        "/portfolio/languages/html"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/portfolio/skills/frontend"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Projects utilising this framework",
+      "style": "card",
+      "items": [
+        "/portfolio/projects/waydriver"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "React"
+    ]
+  },
+  "readme": "README.md"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Python",
+  "shortName": null,
+  "description": "Python is a powerful interpreted language known for its ease-of-use",
+  "icon": "python.png",
+  "banner": null,
+  "color": "#3776AA",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/portfolio/skills/backend",
+        "/portfolio/skills/type-safety"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Projects written in this language",
+      "style": "card",
+      "items": [
+        "/portfolio/projects/concussion",
+        "/portfolio/projects/ensemble-forum",
+        "/portfolio/projects/equator",
+        "/portfolio/projects/flapi",
+        "/portfolio/projects/jestspectation",
+        "/portfolio/projects/pyhtml",
+        "/portfolio/projects/universal-controller-script",
+        "/portfolio/projects/fl-studio-api-stubs"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Python"
+    ]
+  },
+  "readme": "README.md"
+}

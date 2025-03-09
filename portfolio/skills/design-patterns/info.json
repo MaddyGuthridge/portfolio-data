@@ -1,0 +1,52 @@
+{
+  "name": "Design patterns",
+  "shortName": null,
+  "description": "Design patterns are approaches for solving common problems when writing computer software, especially when using OOP",
+  "icon": null,
+  "banner": null,
+  "color": "#FFB35C",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/portfolio/skills/oop"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Projects demonstrating this skill",
+      "style": "card",
+      "items": [
+        "/portfolio/projects/dungeon-mania",
+        "/portfolio/projects/universal-controller-script",
+        "/portfolio/projects/vc-compiler",
+        "/portfolio/projects/markten"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Related frameworks",
+      "style": "chip",
+      "items": []
+    },
+    {
+      "type": "links",
+      "label": "Related languages",
+      "style": "chip",
+      "items": [
+        "/portfolio/languages/java"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Design patterns"
+    ]
+  },
+  "readme": "README.md"
+}

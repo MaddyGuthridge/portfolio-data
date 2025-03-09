@@ -1,0 +1,57 @@
+{
+  "name": "Frontend",
+  "shortName": null,
+  "description": "Frontend development focuses on building user interfaces for software",
+  "icon": null,
+  "banner": null,
+  "color": "#FFE83A",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/portfolio/skills/backend",
+        "/portfolio/skills/full-stack"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Projects demonstrating this skill",
+      "style": "card",
+      "items": [
+        "/portfolio/projects/portfolio",
+        "/portfolio/projects/pyhtml",
+        "/portfolio/projects/waydriver"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Related frameworks",
+      "style": "chip",
+      "items": [
+        "/portfolio/frameworks/next",
+        "/portfolio/frameworks/react"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Related languages",
+      "style": "chip",
+      "items": [
+        "/portfolio/languages/html",
+        "/portfolio/languages/javascript",
+        "/portfolio/languages/typescript"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Frontend"
+    ]
+  },
+  "readme": "README.md"
+}

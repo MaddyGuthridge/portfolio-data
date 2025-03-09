@@ -1,0 +1,41 @@
+{
+  "name": "Operating systems",
+  "shortName": null,
+  "description": "Operating systems are the software responsible for interfacing with computer hardware",
+  "icon": null,
+  "banner": null,
+  "color": "#8D3F00",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Projects demonstrating this skill",
+      "style": "card",
+      "items": [
+        "/portfolio/projects/os-161"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Related frameworks",
+      "style": "chip",
+      "items": []
+    },
+    {
+      "type": "links",
+      "label": "Related languages",
+      "style": "chip",
+      "items": [
+        "/portfolio/languages/c"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Operating systems"
+    ]
+  },
+  "readme": "README.md"
+}
