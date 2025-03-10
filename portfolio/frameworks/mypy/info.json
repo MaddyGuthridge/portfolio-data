@@ -4,7 +4,7 @@
   "description": "Mypy is a static type checker for Python",
   "icon": "mypy.png",
   "banner": null,
-  "color": "#1371A7",
+  "color": "#99c1f1",
   "sections": [
     {
       "type": "links",
