@@ -40,4 +40,13 @@ Thanks for reading, and I hope you found this useful. If I think of any other us
 
 Happy hacking,
 
+
 Maddy
+
+
+<style>
+.markdown-render {
+  font-family: "Garamond", "serif";
+}
+</style>
+

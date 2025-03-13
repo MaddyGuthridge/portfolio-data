@@ -193,4 +193,13 @@ VS Code has a huge number of extensions that let you add more features to it! If
 Thanks for taking the time to read this post! I hope it's helped you learn more about your options for creating a working environment that works for you. I'd love to know your thoughts on this, so feel free to reach out if you want to share any feedback. If you have any questions, make sure you post on the course forum so we can help you out!
 
 Happy hacking!
+
 Maddy
+
+
+<style>
+.markdown-render {
+  font-family: "Garamond", "serif";
+}
+</style>
+
