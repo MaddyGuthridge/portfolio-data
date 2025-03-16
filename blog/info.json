@@ -8,6 +8,7 @@
   "color": "#f66151",
   "sections": [],
   "children": [
+    "type-safety-accessibility",
     "representing-gender-programmatically",
     "distro-hoppers-checklist",
     "1531-setup"

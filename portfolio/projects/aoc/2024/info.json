@@ -1,0 +1,43 @@
+{
+  "name": "Advent of Code 2024",
+  "description": "In 2024, I used a different language each day to solve Advent of Code.",
+  "readme": "README.md",
+  "shortName": null,
+  "icon": null,
+  "banner": null,
+  "color": "#57e389",
+  "sections": [
+    {
+      "type": "repo",
+      "label": "Check out my solutions",
+      "info": {
+        "provider": "github",
+        "path": "https://github.com/MaddyGuthridge/aoc-2024"
+      }
+    },
+    {
+      "type": "links",
+      "label": "Languages",
+      "style": "chip",
+      "items": [
+        "/portfolio/languages/c"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "See also",
+      "style": "chip",
+      "items": [
+        "/portfolio/status/complete"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Advent of Code 2024"
+    ]
+  }
+}
