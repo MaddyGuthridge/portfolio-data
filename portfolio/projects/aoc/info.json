@@ -13,6 +13,15 @@
       "items": [
         "/portfolio/skills/algorithms"
       ]
+    },
+    {
+      "type": "links",
+      "label": "Languages",
+      "style": "chip",
+      "items": [
+        "/portfolio/languages/rust",
+        "/portfolio/languages/c"
+      ]
     }
   ],
   "children": [
