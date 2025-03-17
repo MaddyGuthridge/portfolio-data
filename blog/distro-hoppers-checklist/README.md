@@ -48,5 +48,8 @@ Maddy
 .markdown-render {
   font-family: "Garamond", "serif";
 }
-</style>
 
+#readme {
+  max-width: 800px;
+}
+</style>
