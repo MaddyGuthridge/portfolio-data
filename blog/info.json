@@ -15,10 +15,16 @@
   ],
   "filters": [],
   "seo": {
-    "description": "Read Maddy Guthridge's blog",
+    "description": "Maddy Guthridge's personal blog, where you'll find her musings on software engineering, accessibility, Linux and LGBTQIA+ topics",
     "keywords": [
-      "",
-      ""
+      "Blog",
+      "Accessibility",
+      "Linux",
+      "LGBT",
+      "LGBTQ",
+      "LGBTQIA+",
+      "Queer",
+      "Essay"
     ]
   }
 }
