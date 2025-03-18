@@ -1,7 +1,8 @@
-# Blog
+# Maddy Guthridge's Blog
 
+This is my personal blog, where you'll find my musings on software engineering, accessibility, Linux and LGBTQIA+ topics.
 
-This is my personal blog, recently migrated from Writefreely to Minifolio.
+<small>
+Any opinions shared here are my own, and do not necessarily reflect the views of people or organisations I work with.
+</small>
 
-
-Here, you'll find my musings on software engineering, Linux and LGBTQIA+ topics. I hope you enjoy!

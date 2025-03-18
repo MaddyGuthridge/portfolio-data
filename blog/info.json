@@ -5,7 +5,7 @@
   "shortName": null,
   "icon": null,
   "banner": null,
-  "color": "#f66151",
+  "color": "#ffbdf0",
   "sections": [],
   "children": [
     "type-safety-accessibility",
@@ -15,9 +15,10 @@
   ],
   "filters": [],
   "seo": {
-    "description": null,
+    "description": "Read Maddy Guthridge's blog",
     "keywords": [
-      "Blog"
+      "",
+      ""
     ]
   }
 }

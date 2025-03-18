@@ -1,7 +1,5 @@
 # Maddy Guthridge's Portfolio
 
+When it comes to computer science, I have a diverse skill-set, exemplified through my vast number of projects and wealth of practical experience.
 
-
-This is the *portfolio* section of my site.
-
-Here, you'll find a showcase of my diverse set of projects, skills and experience. I hope you enjoy your time exploring my work!
+Learn more about my abilities by checking out my portfolio.

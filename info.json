@@ -25,7 +25,7 @@
   ],
   "filters": [],
   "seo": {
-    "description": "Hi! I'm Maddy Guthridge, a software engineer, teacher and musician in Sydney, Australia.",
+    "description": "Hello, world! I'm Maddy Guthridge, a software engineer, teacher and musician in Sydney, Australia. Learn about me by checking out my website.",
     "keywords": [
       "Portfolio",
       "Maddy",
@@ -34,7 +34,11 @@
       "Sydney",
       "Australia",
       "Teacher",
-      "Software"
+      "Software engineer",
+      "Computer science",
+      "CS",
+      "SENG",
+      "UNSW"
     ]
   },
   "readme": "index.html"
