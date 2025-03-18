@@ -25,12 +25,16 @@
   ],
   "filters": [],
   "seo": {
-    "description": "Learn about Maddy Guthridge's skills, experience and projects on her portfolio website.",
+    "description": "Hi! I'm Maddy Guthridge, a software engineer, teacher and musician in Sydney, Australia.",
     "keywords": [
       "Portfolio",
       "Maddy",
       "Miguel",
-      "Guthridge"
+      "Guthridge",
+      "Sydney",
+      "Australia",
+      "Teacher",
+      "Software"
     ]
   },
   "readme": "index.html"
