@@ -10,9 +10,14 @@
   "children": [],
   "filters": [],
   "seo": {
-    "description": null,
+    "description": "How should you represent gender identity when designing software? In this blog post, I explore various approaches, and untimately conclude that the only viable solution is remote code execution.",
     "keywords": [
-      "Representing Gender Programmatically"
+      "Gender",
+      "Transgender",
+      "Trans",
+      "LGBT",
+      "Software engineering",
+      "Data design"
     ]
   }
 }

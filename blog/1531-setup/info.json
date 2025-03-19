@@ -10,9 +10,14 @@
   "children": [],
   "filters": [],
   "seo": {
-    "description": null,
+    "description": "Learn how to set up your systems to program productively in COMP1531",
     "keywords": [
-      "Getting set up for COMP1531, the good way"
+      "COMP1531",
+      "1531",
+      "cs1531",
+      "UNSW",
+      "Node",
+      "NodeJS"
     ]
   }
 }

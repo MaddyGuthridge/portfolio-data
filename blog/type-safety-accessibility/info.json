@@ -10,7 +10,7 @@
   "children": [],
   "filters": [],
   "seo": {
-    "description": null,
+    "description": "Type-safe programming languages are often loved for the benefits they bring to development ergonomics and code correctness. However, in this blog post, I discuss another argument for type-safe programming: accessibility.",
     "keywords": [
       "Type safety is an accessibility feature"
     ]

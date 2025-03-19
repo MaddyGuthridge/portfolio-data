@@ -55,8 +55,8 @@
     {
       "type": "site",
       "icon": null,
-      "label": null,
-      "url": "https://portfolio.maddyguthridge.com"
+      "label": "Read the documentation",
+      "url": "https://minifolio.maddyguthridge.com"
     },
     {
       "type": "package",
@@ -70,9 +70,10 @@
   "children": [],
   "filters": [],
   "seo": {
-    "description": null,
+    "description": "Lean about Maddy Guthridge's project Minifolio, the content management system which powers her personal website.",
     "keywords": [
-      "Portfolio"
+      "Portfolio",
+      "Minifolio"
     ]
   },
   "readme": "README.md"

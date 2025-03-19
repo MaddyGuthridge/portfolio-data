@@ -27,6 +27,22 @@
         "provider": "pypi",
         "id": "transdoc"
       }
+    },
+    {
+      "type": "links",
+      "label": "Languages",
+      "style": "chip",
+      "items": [
+        "/portfolio/languages/python"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Related experience",
+      "style": "chip",
+      "items": [
+        "/portfolio/experience/unsw-course-admin"
+      ]
     }
   ],
   "children": [],

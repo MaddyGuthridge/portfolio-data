@@ -10,9 +10,13 @@
   "children": [],
   "filters": [],
   "seo": {
-    "description": null,
+    "description": "I, like all Linux users, am eternally dissatisfied with my experience. As such, I have written this guide as a reference for people who (like me) reinstall their operating system frequently to help ensure that nothing is forgotten.",
     "keywords": [
-      "Distro Hopper's Checklist"
+      "Linux",
+      "Linux distribution",
+      "Distro",
+      "Distro-hopping",
+      "Installing"
     ]
   }
 }

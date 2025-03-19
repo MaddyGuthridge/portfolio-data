@@ -1,5 +1,8 @@
 # Getting set up for COMP1531, the good way
 
+> ## IMPORTANT
+> This post has been mostly superseded by the official COMP1531 setup guide. I recommend referring to that instead, and only checking this post if you're interested in my specific recommendations.
+
 Hello everyone! I'm Maddy, one of this term's tutors for UNSW's COMP1531 course. I'm writing this blog post to act as a resource to help you (presumably a new COMP1531 student) create a setup that work well for you, making you work and learn productively, efficiently and effectively.
 
 <!--more-->

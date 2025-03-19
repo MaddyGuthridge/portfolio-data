@@ -75,7 +75,10 @@
   "seo": {
     "description": null,
     "keywords": [
-      "PyHTML Enhanced"
+      "PyHTML Enhanced",
+      "PyHTML",
+      "Python HTML",
+      "HTML generator"
     ]
   },
   "readme": "README.md"
