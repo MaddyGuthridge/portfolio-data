@@ -23,13 +23,7 @@ With that out of the way, let's take a look at the main approaches!
 
 A popular option for working on CSE projects at UNSW is SSH-FS. It lets you remotely access your account on the CSE servers, opening and editing files as well as running terminals all within Visual Studio Code. To do this, it uses a tool called [SSH](https://en.wikipedia.org/wiki/Secure_Shell) to let you access your CSE account. This takes a very small amount of setup and is awesome for quick file edits and small projects.
 
-
-
-<!--
-Omitted due to CSS issues
 ![Remote login is a lot like astral projection](https://i.imgur.com/NM8TQP3.png)
-
--->
 
 
 However, SSH-FS tends to become a hindrance as you gain more experience as a programmer. When you're just getting started and need to focus on writing code and running simple terminal commands it is all you need, but as the scope of your knowledge and the scale of your projects increases, its limitations become increasingly apparent, as it doesn't allow you to do much more than that. In fact, SSH-FS disables some of VS Code's most-useful features, so you won't be able to:
