@@ -18,3 +18,14 @@ Here are the grades I have received that I am most proud of. To see all my grade
 | 22T3 | COMP6991    | 88 HD | Solving Modern Programming Problems with Rust |
 | 23T1 | COMP3891    | 84 DN | Extended Operating Systems |
 | 24T3 | COMP4920    | 84 DN | Professional Issues and Ethics in Information Technology |
+
+<style>
+table, th, td {
+  border: 1px solid #00000040;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 5px;
+}
+</style>
