@@ -1,0 +1,33 @@
+{
+  "name": "FirstMate",
+  "description": "Find your crowd on campus at UNSW",
+  "readme": "README.md",
+  "shortName": null,
+  "icon": "firstmate-logo.png",
+  "banner": null,
+  "color": "#f9f06b",
+  "sections": [
+    {
+      "type": "site",
+      "icon": null,
+      "label": "Check out the app",
+      "url": "https://firstmate.maddyguthridge.com/"
+    },
+    {
+      "type": "repo",
+      "label": null,
+      "info": {
+        "provider": "github",
+        "path": "RaisingElephants/first-mate"
+      }
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "FirstMate"
+    ]
+  }
+}
