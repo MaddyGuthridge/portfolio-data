@@ -23,12 +23,6 @@
       "items": [
         "/portfolio/frameworks/midi-controller-scripting"
       ]
-    },
-    {
-      "type": "links",
-      "label": "Related languages",
-      "style": "chip",
-      "items": []
     }
   ],
   "children": [],

@@ -25,12 +25,6 @@
         "/portfolio/frameworks/jest",
         "/portfolio/frameworks/pytest"
       ]
-    },
-    {
-      "type": "links",
-      "label": "Related languages",
-      "style": "chip",
-      "items": []
     }
   ],
   "children": [],

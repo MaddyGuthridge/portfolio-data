@@ -40,7 +40,8 @@
       "style": "chip",
       "items": [
         "/portfolio/languages/typescript",
-        "/portfolio/languages/javascript"
+        "/portfolio/languages/javascript",
+        "/portfolio/languages/python"
       ]
     }
   ],

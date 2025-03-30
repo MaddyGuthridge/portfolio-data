@@ -36,6 +36,14 @@
         "/portfolio/languages/rust",
         "/portfolio/languages/typescript"
       ]
+    },
+    {
+      "type": "links",
+      "label": "Blog posts about type safety",
+      "style": "card",
+      "items": [
+        "/blog/type-safety-accessibility"
+      ]
     }
   ],
   "children": [],

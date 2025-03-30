@@ -23,12 +23,6 @@
       "items": [
         "/portfolio/frameworks/mkdocs"
       ]
-    },
-    {
-      "type": "links",
-      "label": "Related languages",
-      "style": "chip",
-      "items": []
     }
   ],
   "children": [],

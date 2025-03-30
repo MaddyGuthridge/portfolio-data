@@ -1,4 +1,3 @@
-# Operating systems
+# Systems programming
 
-Operating systems are the software responsible for interfacing with computer
-hardware.
+Systems programming is programming that interacts with the operating system at a low level.
