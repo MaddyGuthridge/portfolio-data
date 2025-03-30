@@ -1,0 +1,20 @@
+{
+  "name": "Bachelor of Computer Science",
+  "description": "BSc in Computer Science, with Distinction",
+  "readme": "README.md",
+  "shortName": "BSc (CS)",
+  "icon": "unsw-logo.jpg",
+  "banner": "graduation-award-scaled.jpg",
+  "color": "#ffbe6f",
+  "sections": [],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Bachelor of Computer Science",
+      "BSc",
+      "CS"
+    ]
+  }
+}
