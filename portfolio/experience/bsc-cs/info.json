@@ -6,7 +6,21 @@
   "icon": "unsw-logo.jpg",
   "banner": "graduation-award-scaled.jpg",
   "color": "#ffbe6f",
-  "sections": [],
+  "sections": [
+    {
+      "type": "links",
+      "label": "Projects I completed as part of my degree",
+      "style": "card",
+      "items": [
+        "/portfolio/projects/dungeon-mania",
+        "/portfolio/projects/enigma-breaker",
+        "/portfolio/projects/ensemble-forum",
+        "/portfolio/projects/os-161",
+        "/portfolio/projects/shuck",
+        "/portfolio/projects/vc-compiler"
+      ]
+    }
+  ],
   "children": [],
   "filters": [],
   "seo": {
