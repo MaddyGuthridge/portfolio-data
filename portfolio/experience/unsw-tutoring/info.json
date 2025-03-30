@@ -8,8 +8,8 @@
   "sections": [
     {
       "type": "links",
-      "label": "Projects",
-      "style": "chip",
+      "label": "Projects I created in this role",
+      "style": "card",
       "items": [
         "/portfolio/projects/markten"
       ]

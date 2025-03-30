@@ -9,7 +9,7 @@
     {
       "type": "links",
       "label": "Projects I created in this role",
-      "style": "chip",
+      "style": "card",
       "items": [
         "/portfolio/projects/jestspectation",
         "/portfolio/projects/markten",
