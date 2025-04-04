@@ -4,6 +4,10 @@ I have been awarded a Bachelor of Science in Computer Science with Distinction f
 
 Access to my awards statement, academic transcript and other documents is available on request.
 
+## Awards
+
+I was included in the [2022 School of Computer Science Engineering Dean's Honours List](https://www.unsw.edu.au/engineering/student-life/prizes-awards/deans-honours-list-deans-award-recipients-archive).
+
 ## Grades and results
 
 Here are the grades I have received that I am most proud of. To see all my grades, please contact me.

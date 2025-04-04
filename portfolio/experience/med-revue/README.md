@@ -7,4 +7,4 @@ As the band director for UNSW Med Revue, a comedic theater production, I led a t
 * Arranging three polished musical numbers, showcasing my adaptability and creative collaboration skills.
 * Leading rehearsals for both the band and various vocalists from other portfolios, highlighting my leadership, communication, and interpersonal skills.
 
-Together, my ensemble delivered a performance of exceptional quality, earning acclaim from our audiences.
+Together, my ensemble delivered a performance of exceptional quality, earning acclaim from audiences and critics alike.
