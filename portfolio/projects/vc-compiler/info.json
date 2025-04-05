@@ -2,7 +2,7 @@
   "name": "VC Compiler",
   "shortName": null,
   "description": "A compiler written in Java that converts a C-like language into Java Bytecode",
-  "icon": null,
+  "icon": "vc.png",
   "banner": null,
   "color": "#ff5050",
   "sections": [
