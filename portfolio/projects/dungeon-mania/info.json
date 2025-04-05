@@ -2,9 +2,9 @@
   "name": "Dungeon Mania",
   "shortName": null,
   "description": "A complex dungeon-crawler game, programmed in Java",
-  "icon": null,
-  "banner": null,
-  "color": "#6D2F2F",
+  "icon": "zombie-toast.png",
+  "banner": "zombie-toast-banner.png",
+  "color": "#288600",
   "sections": [
     {
       "type": "links",

@@ -12,3 +12,7 @@ interfaces.
 
 As this project was a university project, the source code is not public.
 However, I am able to grant access to potential employers on request.
+
+---
+
+Zombie toast artwork by [LazyHamsters](https://lhteam.itch.io/zombie-toast).
