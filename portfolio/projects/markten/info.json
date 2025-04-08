@@ -2,7 +2,7 @@
   "name": "MarkTen",
   "shortName": null,
   "description": "An automation tool to mark students' work with ease",
-  "icon": null,
+  "icon": "icon.png",
   "banner": null,
   "color": "#4DEB58",
   "sections": [
