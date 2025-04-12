@@ -68,6 +68,18 @@
         "provider": "pypi",
         "id": "pyhtml-enhanced"
       }
+    },
+    {
+      "type": "site",
+      "icon": null,
+      "label": "Try it out in your browser",
+      "url": "https://comp1010unsw.github.io/pyhtml-demo/"
+    },
+    {
+      "type": "site",
+      "icon": null,
+      "label": "Read the documentation",
+      "url": "https://comp1010unsw.github.io/pyhtml-enhanced/"
     }
   ],
   "children": [],

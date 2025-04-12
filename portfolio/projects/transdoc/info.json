@@ -41,7 +41,8 @@
       "label": "Related experience",
       "style": "chip",
       "items": [
-        "/portfolio/experience/unsw-course-admin"
+        "/portfolio/experience/unsw-course-admin",
+        "/portfolio/experience/image-line-developer-support"
       ]
     }
   ],
