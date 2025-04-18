@@ -8,6 +8,7 @@
   "color": "#ffbdf0",
   "sections": [],
   "children": [
+    "ai-can-be-ethical",
     "type-safety-accessibility",
     "representing-gender-programmatically",
     "distro-hoppers-checklist",
