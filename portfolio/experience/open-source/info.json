@@ -1,0 +1,20 @@
+{
+  "name": "Open-source",
+  "description": "I have made numerous contributions to open-source projects.",
+  "readme": "README.md",
+  "shortName": null,
+  "icon": "osi_symbol.png",
+  "banner": null,
+  "color": "#3da639",
+  "sections": [],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": "Learn about Maddy Guthridge's contributions to open-source software.",
+    "keywords": [
+      "Open-source",
+      "Software",
+      "OSS"
+    ]
+  }
+}
