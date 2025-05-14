@@ -9,7 +9,9 @@ I have tutored a wide variety of software engineering courses at UNSW.
 * [COMP2521](https://handbook.unsw.edu.au/undergraduate/courses/current/comp2521) Data Structures and Algorithms
 * [COMP2511](https://handbook.unsw.edu.au/undergraduate/courses/current/comp2511) Object-Oriented Design & Programming
 
-In all of the courses I teach, I have established a stellar reputation as someone who demonstrates great care and enthusiasm, both for the courses, and for my students. I pride myself on my ability to explain complex topics in an approachable manner, with engaging examples and a clear passion for the content I teach.
+In all of the courses I teach, I have established a stellar reputation as someone who demonstrates great care and enthusiasm, both for the courses, and for my students. I am the kind of tutor who is willing to go above and beyond for my students. For example, I maintain a [personal project template](https://github.com/MaddyGuthridge/1531-template) for students to use after completing COMP1531. 
+
+I pride myself on my ability to explain complex topics in an approachable manner, with engaging examples and a clear passion for the content I teach. I have consistently achieved a student satisfaction rate exceeding 90% for every term I’ve taught.
 
 Here are some of the comments I have received in UNSW's MyExperience feedback surveys.
 
@@ -19,4 +21,4 @@ Here are some of the comments I have received in UNSW's MyExperience feedback su
 
 > Very enthusiastic tutor who could communicate ideas without just giving answers.
 
-I have consistently achieved a student satisfaction rate exceeding 90% for every term I’ve taught.
+
