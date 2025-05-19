@@ -42,7 +42,11 @@
     ]
   },
   "readme": "index.html",
-  "author": null,
+  "author": {
+    "name": "Maddy Guthridge",
+    "email": null,
+    "uri": "https://maddyguthridge.com"
+  },
   "timeCreated": 1747668178,
   "timeEdited": 1747668178,
   "article": false,
