@@ -48,12 +48,3 @@ Sebastian Sequoiah-Grayson (unpublished manuscript, in correspondance) “The Un
 
 I originally wrote this essay as a part of [UNSW's COMP4920 "Professional Issues and Ethics in Information Technology" course](https://handbook.unsw.edu.au/undergraduate/courses/2024/comp4920) in late 2024. Because of this, Sebastian Sequoiah-Grayson's referenced paper “The Unsatisfiable Triad” unfortunately cannot be linked to, owing to it being unpublished.
 
-<style>
-.markdown-render {
-  font-family: "Garamond", "serif";
-}
-
-#readme {
-  max-width: 800px;
-}
-</style>

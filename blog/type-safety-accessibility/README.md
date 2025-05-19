@@ -60,13 +60,3 @@ See you next time!
 <br>
 Maddy
 
-
-<style>
-.markdown-render {
-  font-family: "Garamond", "serif";
-}
-
-#readme {
-  max-width: 800px;
-}
-</style>

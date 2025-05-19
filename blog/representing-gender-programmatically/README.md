@@ -137,16 +137,6 @@ Of course, I'm only one person, and I'm pretty new to learning about gender at t
 Regardless, I hope you enjoyed this byproduct of my brain performing a meta-analysis on itself.
 
 Until next time,
-
+<br>
 Miguel (they/them?)
 
-
-<style>
-.markdown-render {
-  font-family: "Garamond", "serif";
-}
-
-#readme {
-  max-width: 800px;
-}
-</style>

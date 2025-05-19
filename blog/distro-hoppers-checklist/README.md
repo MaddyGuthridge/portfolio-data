@@ -39,17 +39,6 @@ If you're dual-booting, some installers might mess with your existing boot parti
 Thanks for reading, and I hope you found this useful. If I think of any other useful things that are worth considering before distro-hopping, I'll edit this post to add them in. If you've got any ideas, feel free to shoot me a message!
 
 Happy hacking,
-
-
+<br>
 Maddy
 
-
-<style>
-.markdown-render {
-  font-family: "Garamond", "serif";
-}
-
-#readme {
-  max-width: 800px;
-}
-</style>
