@@ -1,10 +1,12 @@
 {
-  "version": "1.1.13",
+  "version": "1.2.0",
   "verification": {
     "relMe": [
       "https://tech.lgbt/@maddy"
     ],
-    "atProtocol": "did:plc:upprnnv6ewg5o7pi4addisvo"
+    "atProtocol": "did:plc:upprnnv6ewg5o7pi4addisvo",
+    "bing": null,
+    "google": null
   },
   "siteIcon": null
 }
