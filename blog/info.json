@@ -32,5 +32,10 @@
   "timeCreated": 1747668178,
   "timeEdited": 1747668178,
   "article": false,
-  "feed": null
+  "feed": {
+    "title": "Maddy Guthridge's Blog",
+    "providers": {
+      "atom": true
+    }
+  }
 }
