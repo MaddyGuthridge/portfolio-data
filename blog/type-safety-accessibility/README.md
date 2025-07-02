@@ -1,5 +1,7 @@
 # Type safety is an accessibility feature
 
+<small>March 16th 2025</small>
+
 I consider myself to be a pretty skilled software engineer. I have built many advanced projects, and am confident in my understanding of many languages, all the way from Python to MIPS Assembly. But one thing that stops me in my tracks and slows my work to crawl when developing is a lack of type safety.
 
 ## The traditional arguments for static typing

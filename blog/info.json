@@ -6,7 +6,14 @@
   "icon": null,
   "banner": null,
   "color": "#ffbdf0",
-  "sections": [],
+  "sections": [
+    {
+      "type": "site",
+      "icon": "las la-rss",
+      "label": "Subscribe with RSS",
+      "url": "https://maddyguthridge.com/blog/feed.atom"
+    }
+  ],
   "children": [
     "ai-can-be-ethical",
     "type-safety-accessibility",
