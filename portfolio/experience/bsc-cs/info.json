@@ -19,6 +19,14 @@
         "/portfolio/projects/shuck",
         "/portfolio/projects/vc-compiler"
       ]
+    },
+    {
+      "type": "links",
+      "label": "Essays I wrote as part of my degree",
+      "style": "card",
+      "items": [
+        "/blog/ai-can-be-ethical"
+      ]
     }
   ],
   "children": [],

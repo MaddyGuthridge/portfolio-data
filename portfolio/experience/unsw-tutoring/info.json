@@ -13,6 +13,14 @@
       "items": [
         "/portfolio/projects/markten"
       ]
+    },
+    {
+      "type": "links",
+      "label": "Related blog posts",
+      "style": "card",
+      "items": [
+        "/blog/oop-orchestra"
+      ]
     }
   ],
   "children": [],
