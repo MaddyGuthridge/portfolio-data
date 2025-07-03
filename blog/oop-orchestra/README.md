@@ -109,8 +109,8 @@ class Conductor {
 
 With our new interface, a conductor could direct the playing of hundreds of musicians without ever worrying about the specifics of how those musicians play their specific instrument: an ideal abstraction. In particular, the improved design:
 
-- Avoids getters and setters for internal details
-- Uses a standard interface to handle messages in a manner consistent with other musicians
+- Avoids getters and setters for internal details.
+- Uses a standard interface to handle messages in a manner consistent with other musicians.
 - Has its interface designed to maximise the simplicity and utility of interacting with it, rather than prioritising the simplicity of the internal code.
 
 ## In summary
