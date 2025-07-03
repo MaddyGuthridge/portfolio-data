@@ -1,0 +1,29 @@
+{
+  "name": "Object-oriented programming is like an orchestra",
+  "shortName": null,
+  "author": null,
+  "description": "July 3rd, 2025",
+  "timeCreated": 1751551104,
+  "timeEdited": 1751551104,
+  "readme": "README.md",
+  "article": true,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#ffbdf0",
+  "sections": [],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": "For most, the key features of object-oriented programming are classes, inheritance and polymorphism. However, when you ask \"object-oriented nerds\", they will often say that the core principle is instead message passing. In this blog post, I'll throw my hat into the ring in agreement.",
+    "keywords": [
+      "Object-oriented programming is like an orchestra",
+      "OOP",
+      "Object-oriented",
+      "Software engineering",
+      "Software design",
+      "Orchestra",
+      "Musician"
+    ]
+  }
+}

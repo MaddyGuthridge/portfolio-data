@@ -15,6 +15,7 @@
     }
   ],
   "children": [
+    "oop-orchestra",
     "ai-can-be-ethical",
     "type-safety-accessibility",
     "representing-gender-programmatically",
