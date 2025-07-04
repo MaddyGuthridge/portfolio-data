@@ -41,8 +41,10 @@ class Cellist {
     private double bowPressure;
     private double bowSpeed;
 
-    public void setBowPressure(double newPressure);
-    public void setBowSpeed(double newSpeed);
+    public void setBowPressure(
+        double newPressure);
+    public void setBowSpeed(
+        double newSpeed);
 
     public void bowStart();
     public void bowStop();
@@ -61,9 +63,10 @@ class Conductor {
         // Let's make her play fortissimo!
         cheryl.setBowPressure(0.95);
         cheryl.setBowSpeed(0.8);
-        // This becomes even more complex as different bow 
-        // pressures and speeds are required for different
-        // pitches of note! Oh dear!
+        // This becomes even more complex as 
+        // different bow and speeds are 
+        // required for different of note! 
+        // Oh dear!
         cheryl.bowStart();
         Thread.sleep(1);
         cheryl.bowStop();
@@ -75,19 +78,24 @@ The system for doing so is far from ideal. In order to direct Cheryl's performan
 
 ```java
 class Cellist implements Musician {
-    // Internally, cellists still use the same data
+    // Internally, cellists still use the 
+    // same data
     private double bowPressure;
     private double bowSpeed;
 
-    // But their public interface is far nicer
-    // In particular, it matches that of `Musician`
-    // meaning that our conductor can direct cellists
-    // in the same way as they can everyone else.
+    // But their public interface is far
+    // nicer.
+    // In particular, it matches that of
+    // the interface `Musician` that our
+    // conductor can direct them in the
+    // same way as they can for everyone
+    // else.
     @Override
     public void setDynamic(Dynamic newDynamic);
 
     @Override
-    public void setArticulation(Articulation newArticulation);
+    public void setArticulation(
+        Articulation newArticulation);
 
     @Override
     public void play(float duration);
@@ -101,7 +109,8 @@ class Conductor {
     public void example() {
         var cheryl = new Cellist();
         cheryl.setDynamic(0.95);
-        cheryl.setArticulation(Articulation.Staccato);
+        cheryl.setArticulation(
+            Articulation.Staccato);
         cheryl.play(1);
     }
 }
