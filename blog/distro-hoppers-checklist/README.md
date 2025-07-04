@@ -1,5 +1,7 @@
 # Distro-hopper's checklist
 
+<small>Maddy Guthridge --- July 12th, 2023</small>
+
 I, like all Linux users, am eternally dissatisfied with my experience. In the life-long search for setup perfection, I frequently decide to delete everything and install a different distribution on average once every 3-5 months.
 
 Since I am super forgetful, I always forget to back up at least something, so I am writing this blog post to contain a checklist of things I need to back up before I wipe my system for the millionth time, with the hope that it may be beneficial to others.

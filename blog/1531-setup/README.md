@@ -1,5 +1,7 @@
 # Getting set up for COMP1531, the good way
 
+<small>Maddy Guthridge --- May 29th, 2023</small>
+
 > ## IMPORTANT
 > This post has been mostly superseded by the official COMP1531 setup guide. I recommend referring to that instead, and only checking this post if you're interested in my specific recommendations.
 

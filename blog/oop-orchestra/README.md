@@ -1,6 +1,6 @@
 # Object-oriented programming is like an orchestra
 
-<small>July 3rd, 2025</small>
+<small>Maddy Guthridge --- July 3rd, 2025</small>
 
 What is the first thing you think of when you think of object-oriented programming? For most, the key features are classes, inheritance and polymorphism. However, when you ask "object-oriented nerds" (said with love), such as "Father of OOP" Alan Kay, [they will often say](https://www.purl.org/stefan_ram/pub/doc_kay_oop_en) that the core principle is instead *message passing*. In this blog post, I'll throw my hat into the ring in agreement.
 

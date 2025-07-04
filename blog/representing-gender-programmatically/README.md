@@ -1,5 +1,7 @@
 # Representing gender programmatically
 
+<small>Maddy Guthridge --- September 30th, 2023</small>
+
 Gender is a property that is central to many people's identities, but representing it in software isn't as simple as it initially may seem. In this extremely serious blog post, I explore the complexity of representing identity programmatically, and discuss best-practices for inclusive software design.
 
 <!--more-->
