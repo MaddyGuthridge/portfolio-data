@@ -63,9 +63,10 @@ class Conductor {
         // Let's make her play fortissimo!
         cheryl.setBowPressure(0.95);
         cheryl.setBowSpeed(0.8);
-        // This becomes even more complex as 
-        // different bow and speeds are 
-        // required for different of note! 
+        // This gets even more complex when
+        // you consider that different bow 
+        // speeds and pressures are required 
+        // for different pitches of note! 
         // Oh dear!
         cheryl.bowStart();
         Thread.sleep(1);
@@ -86,10 +87,10 @@ class Cellist implements Musician {
     // But their public interface is far
     // nicer.
     // In particular, it matches that of
-    // the interface `Musician` that our
-    // conductor can direct them in the
-    // same way as they can for everyone
-    // else.
+    // the interface `Musician`, meaning 
+    // that our conductor can direct them
+    // in the same way as they can for
+    // everyone else.
     @Override
     public void setDynamic(Dynamic newDynamic);
 
