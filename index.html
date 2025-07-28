@@ -9,9 +9,8 @@
 <body>
   <div class="page">
     <div class="title">
-      <h1>Hi, I'm Maddy!</h1>
-      <p><i>Maddy Guthridge (formerly Miguel)</i></p>
-      <p style="font-size: 1.2em;"><b><em>they/she</em></b></p>
+      <h1>Hi, I'm <strong>Maddy</strong>!</h1>
+      <p><b><i>they/she</i></b></p>
     </div>
 
     <div class="inner-main">
@@ -62,7 +61,7 @@
         --header-size: 7rem;
       }
       @media only screen and (90rem <= width) {
-        --header-size: 10rem;
+        --header-size: 7.5rem;
       }
 
 
@@ -94,7 +93,8 @@
        * Fancy gradient text
        * https://unused-css.com/blog/css-rainbow-text/
        */
-      & em {
+      & em,
+      & strong {
         background-image: var(--gradient-fallback);
         background-image: var(--gradient);
         color: transparent;
