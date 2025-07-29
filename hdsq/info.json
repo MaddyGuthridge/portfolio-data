@@ -8,7 +8,7 @@
   "readme": "README.md",
   "article": false,
   "feed": null,
-  "icon": null,
+  "icon": "HDSQ-Icon.png",
   "banner": "HDSQ.png",
   "color": "#f66151",
   "sections": [
