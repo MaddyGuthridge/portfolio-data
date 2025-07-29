@@ -1,0 +1,30 @@
+{
+  "name": "Ouranos",
+  "shortName": null,
+  "author": null,
+  "description": "A collaboration with The Romanticist",
+  "timeCreated": 1753802796,
+  "timeEdited": 1753802796,
+  "readme": "README.md",
+  "article": false,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#62a0ea",
+  "sections": [
+    {
+      "type": "site",
+      "icon": "las la-file-audio",
+      "label": "Download the MIDI file",
+      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Ouranos/HDSQ%20&%20The%20Romanticist%20-%20Ouranos.zip"
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Ouranos"
+    ]
+  }
+}

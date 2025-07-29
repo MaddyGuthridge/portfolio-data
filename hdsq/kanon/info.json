@@ -1,0 +1,36 @@
+{
+  "name": "花音: The Sound of a Flower",
+  "shortName": null,
+  "author": null,
+  "description": "An original composition for solo piano",
+  "timeCreated": 1753805207,
+  "timeEdited": 1753805207,
+  "readme": "README.md",
+  "article": false,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#e633ca",
+  "sections": [
+    {
+      "type": "site",
+      "icon": "las la-file-audio",
+      "label": "Download the sheet music (MuseScore)",
+      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/The%20Sound%20of%20a%20Flower/The_Sound_of_a_Flower.mscz"
+    },
+    {
+      "type": "site",
+      "icon": "las la-compact-disc",
+      "label": "Download the MIDI file",
+      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/The%20Sound%20of%20a%20Flower/the%20sound%20of%20a%20flower.mid"
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "The Sound of a Flower"
+    ]
+  }
+}

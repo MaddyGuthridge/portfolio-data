@@ -1,0 +1,30 @@
+{
+  "name": "One Republic: Counting Stars",
+  "shortName": null,
+  "author": null,
+  "description": "Lately I've been losing sleep / Dreaming about the things that we could be",
+  "timeCreated": 1753804088,
+  "timeEdited": 1753804088,
+  "readme": "README.md",
+  "article": false,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#f66151",
+  "sections": [
+    {
+      "type": "site",
+      "icon": "las la-file-audio",
+      "label": "Download the MIDI file",
+      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Counting%20Stars/counting_stars.mid"
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "One Republic: Counting Stars"
+    ]
+  }
+}

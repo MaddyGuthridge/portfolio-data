@@ -1,0 +1,24 @@
+{
+  "name": "Unify",
+  "shortName": null,
+  "author": null,
+  "description": "A collaboration by The Convergence Project",
+  "timeCreated": 1753800214,
+  "timeEdited": 1753800214,
+  "readme": "README.md",
+  "article": false,
+  "feed": null,
+  "icon": "Convergence.png",
+  "banner": null,
+  "color": "#613583",
+  "sections": [],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": "Learn about Unify by The Convergence, a massive Black MIDI collaboration, featuring HDSQ and many others",
+    "keywords": [
+      "Unify",
+      "Convergence"
+    ]
+  }
+}

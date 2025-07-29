@@ -1,0 +1,30 @@
+{
+  "name": "Ghostbusters",
+  "shortName": null,
+  "author": null,
+  "description": "Every time they say \"ghost\", it gets more impossible",
+  "timeCreated": 1753805777,
+  "timeEdited": 1753805777,
+  "readme": "README.md",
+  "article": false,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#e01b24",
+  "sections": [
+    {
+      "type": "site",
+      "icon": "las la-file-audio",
+      "label": "Download the MIDI file",
+      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Ghostbusters/Ghostbusters.zip"
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Ghostbusters"
+    ]
+  }
+}

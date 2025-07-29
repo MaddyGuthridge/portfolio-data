@@ -1,0 +1,42 @@
+{
+  "name": "Tau",
+  "shortName": null,
+  "author": null,
+  "description": "The song with 6.28318 million notes",
+  "timeCreated": 1753806600,
+  "timeEdited": 1753806600,
+  "readme": "README.md",
+  "article": false,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#b551d5",
+  "sections": [
+    {
+      "type": "site",
+      "icon": "las la-file-audio",
+      "label": "Download the MIDI file",
+      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Tau/Tau%20-%202.5.9%20-%20Final.7z"
+    },
+    {
+      "type": "site",
+      "icon": "las la-file-audio",
+      "label": "Download Beta v1.8.1",
+      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Tau/tau1.8.1.mid.7z"
+    },
+    {
+      "type": "site",
+      "icon": "las la-file-audio",
+      "label": "Download Beta v1.7.3",
+      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Tau/tau1.7.3.mid.7z"
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Tau"
+    ]
+  }
+}

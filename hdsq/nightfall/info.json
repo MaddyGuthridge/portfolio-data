@@ -1,0 +1,36 @@
+{
+  "name": "Nightfall",
+  "shortName": null,
+  "author": null,
+  "description": "Arranged for Concert Band",
+  "timeCreated": 1753801484,
+  "timeEdited": 1753801484,
+  "readme": "README.md",
+  "article": false,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#371d9f",
+  "sections": [
+    {
+      "type": "site",
+      "icon": "las la-file-pdf",
+      "label": "Download Nightfall (Full Score)",
+      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Nightfall/Concert%20Band/Nightfall.pdf"
+    },
+    {
+      "type": "site",
+      "icon": "las la-headphones",
+      "label": "Listen on streaming services",
+      "url": "https://distrokid.com/hyperfollow/miguelguthridge/nightfall"
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Nightfall"
+    ]
+  }
+}

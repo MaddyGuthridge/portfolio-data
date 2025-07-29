@@ -1,0 +1,45 @@
+{
+  "name": "HemiDemiSemiQuaver",
+  "shortName": "HDSQ",
+  "author": null,
+  "description": "My music projects, as HDSQ",
+  "timeCreated": 1753705132,
+  "timeEdited": 1753705132,
+  "readme": "README.md",
+  "article": false,
+  "feed": null,
+  "icon": null,
+  "banner": "HDSQ.png",
+  "color": "#f66151",
+  "sections": [
+    {
+      "type": "site",
+      "icon": "la la-youtube",
+      "label": "Check out HDSQ on YouTube",
+      "url": "https://www.youtube.com/@HDSQ"
+    }
+  ],
+  "children": [
+    "unify",
+    "nightfall",
+    "ouranos",
+    "avicii-sos",
+    "one-republic-counting-stars",
+    "kanon",
+    "ghostbusters",
+    "queen-bohemian-rhapsody",
+    "tau"
+  ],
+  "filters": [],
+  "seo": {
+    "description": "HDSQ is a music project by Maddy Guthridge, where she makes Black MIDI, a micro-genre of impossible piano music.",
+    "keywords": [
+      "HDSQ",
+      "HemiDemiSemiQuaver",
+      "Black MIDI",
+      "MIDI",
+      "Composer",
+      "Musician"
+    ]
+  }
+}

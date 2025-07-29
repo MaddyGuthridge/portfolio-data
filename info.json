@@ -21,7 +21,8 @@
   ],
   "children": [
     "portfolio",
-    "blog"
+    "blog",
+    "hdsq"
   ],
   "filters": [],
   "seo": {

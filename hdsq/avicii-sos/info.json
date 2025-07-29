@@ -1,0 +1,33 @@
+{
+  "name": "Avicii: SOS",
+  "shortName": null,
+  "author": null,
+  "description": "We could be more than part time lovers",
+  "timeCreated": 1753803609,
+  "timeEdited": 1753803609,
+  "readme": "README.md",
+  "article": false,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#f6d32d",
+  "sections": [
+    {
+      "type": "site",
+      "icon": "las la-file-audio",
+      "label": "Download the MIDI file",
+      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/SOS/sos.mid"
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Avicii",
+      "SOS",
+      "Cover",
+      "Arrangement"
+    ]
+  }
+}
