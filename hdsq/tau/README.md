@@ -24,23 +24,29 @@ Embedded within the project are over 50 references to my favourite Black MIDIs. 
 | - | -: | 
 | Unbounded by TSMB2 (similar melody design) | |
 | [Pi by TSMB2](https://youtu.be/ZQ7ipUQoik8) (high-pitched root note chop) | 0:20 |
+| [Pi by TSMB2](https://youtu.be/ZQ7ipUQoik8) (drum sequence feel) | 0:34 |
 | [Pi by TSMB2](https://youtu.be/ZQ7ipUQoik8) (descending melodic sequence) | 1:09 |
 | [The Destroyer by TSMB2](https://youtu.be/Y778aWYmWNw) (sweeping note art) | 1:43 |
 | [Electroman Adventures by MusiMasta](https://youtu.be/Km3lCsL_eHo) (tempo variation and arpeggios) | 2:18 |
-| [Epitome of an Enigma by Zarhym Raider](https://youtu.be/bfSSnsUAI7o) (chords and rhythm, with time signature altered from 6/4 to 7/4) | 2:20 |
+| [Epitome of an Enigma by Zarhym Raider](https://youtu.be/bfSSnsUAI7o) (chords and rhythm, with time signature altered from 6/4 to 4+3/4) | 2:20 |
+| [Pi by TSMB2](https://youtu.be/ZQ7ipUQoik8) (melody) | 2:25 |
 | [Pi by TSMB2](https://youtu.be/ZQ7ipUQoik8) (number note art) | 2:25 |
-| [Pi by TSMB2](https://youtu.be/ZQ7ipUQoik8) (Morse code note art) | 2:25 |
+| [Pi by TSMB2](https://youtu.be/ZQ7ipUQoik8) (Morse code message) | 2:25 |
+| [Pi by TSMB2](https://youtu.be/ZQ7ipUQoik8) (binary-encoded ASCII message) | 2:25 |
 | [Voyage 1969 by ScubDomino](https://youtu.be/FDcTAu9bx7c) (2/4 bar and accompanying note art) | 2:44 |
 | [Pi by TSMB2](https://youtu.be/ZQ7ipUQoik8) (black-key note art) | 2:47 |
 | [Pi by TSMB2](https://youtu.be/ZQ7ipUQoik8) (swipe note art) | 2:56 |
+| [Shanghai Teahouse v2 by Thinker-AI](https://youtu.be/98Zpe9T-2bI) (arpeggio swipe sound effect) | 2:57 |
 | [Unbounded 2 by TSMB2](https://youtu.be/W9LvdQubHdU) (descending chromatic sequence) | 3:07 |
 | Luttuoso (unreleased composition by me) | 3:46 |
 | [Fractal Images by TSMB2](https://youtu.be/1ckTRZyJdWQ) | 4:21 |
 | [Battle Against a True Hero by ScubDomino](https://youtu.be/EBauM5sc3Xc) (delay effect) | 4:29 |
-| [Megalovania by EpreTroll](https://youtu.be/PpDvm1X6zG0) (counter melody) | 4:37 |
+| [Megalovania by EpreTroll](https://youtu.be/PpDvm1X6zG0) (countermelody) | 4:37 |
 | [Arecibo by TSMB2](https://youtu.be/jm31qOcXWt4) (countermelody) | 4:52 |
 | [Edge of the Seas by Aiyui](https://youtu.be/2nVIzvVl2aQ) (ascending chord progression) | 5:03 |
-| [Epitome of an Enigma by Zarhym Raider](https://youtu.be/bfSSnsUAI7o) (ending melody) | 6:15 |
-| [Pi by TSMB2](https://youtu.be/ZQ7ipUQoik8) (note count reference, song length) | 6:28 |
+| [The Destroyer by TSMB2](https://youtu.be/Y778aWYmWNw) (post-crash echo sound effect) | 5:27 |
+| [Manifest by TSMB2](https://youtu.be/QnMPZ0oAQgw) (descending scale ending) | 6:11 |
+| [Epitome of an Enigma by Zarhym Raider](https://youtu.be/bfSSnsUAI7o) (ending arpeggios) | 6:15 |
+| [Pi by TSMB2](https://youtu.be/ZQ7ipUQoik8) (note count reference, song duration) | 6:28 |
 
 I'll add more references to this table as I remember more.
