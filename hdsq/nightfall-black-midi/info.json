@@ -1,22 +1,22 @@
 {
-  "name": "Queen: Bohemian Rhapsody",
+  "name": "Nightfall",
   "shortName": null,
   "author": null,
-  "description": "You can do what you want with my music, but don’t make me boring",
-  "timeCreated": 1753806130,
-  "timeEdited": 1753806130,
+  "description": "The original Black MIDI version",
+  "timeCreated": 1754130209,
+  "timeEdited": 1754130209,
   "readme": "README.md",
   "article": false,
   "feed": null,
   "icon": null,
   "banner": null,
-  "color": "#57e389",
+  "color": "#371d9f",
   "sections": [
     {
       "type": "site",
       "icon": "las la-file-audio",
       "label": "Download the MIDI file",
-      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Boehmian%20Rhapsody/Bohemian%20Rhapsody.zip"
+      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Nightfall/Black%20MIDI/nightfall%201.5.3.mid.zip"
     }
   ],
   "children": [],
@@ -24,7 +24,7 @@
   "seo": {
     "description": null,
     "keywords": [
-      "Queen: Bohemian Rhapsody"
+      "Nightfall"
     ]
   }
 }

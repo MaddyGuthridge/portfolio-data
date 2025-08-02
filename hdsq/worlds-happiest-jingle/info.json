@@ -1,0 +1,30 @@
+{
+  "name": "Is This The World's Happiest Jingle",
+  "shortName": "World's Happiest Jingle",
+  "author": null,
+  "description": "A Non-click🅱️ait Productions production",
+  "timeCreated": 1754134133,
+  "timeEdited": 1754134133,
+  "readme": "README.md",
+  "article": false,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#f6d32d",
+  "sections": [
+    {
+      "type": "site",
+      "icon": "las la-file-audio",
+      "label": "Download the MIDI file",
+      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Worlds%20Happiest%20Jingle/Happy_Jingle.mid"
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "The World's Happiest Jingle"
+    ]
+  }
+}

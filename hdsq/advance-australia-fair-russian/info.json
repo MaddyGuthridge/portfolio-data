@@ -1,0 +1,30 @@
+{
+  "name": "The Australian National Anthem, but it sounds Russian",
+  "shortName": null,
+  "author": null,
+  "description": "This one aged poorly,,,",
+  "timeCreated": 1754135173,
+  "timeEdited": 1754135173,
+  "readme": "README.md",
+  "article": false,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#1c71d8",
+  "sections": [
+    {
+      "type": "site",
+      "icon": "las la-file-audio",
+      "label": "Download the MIDI file",
+      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Autralian%20Anthem%20Russian/aussie%20anthem%20but%20russian.mid"
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "The Australian National Anthem, but it sounds Russian"
+    ]
+  }
+}

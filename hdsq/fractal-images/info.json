@@ -1,0 +1,42 @@
+{
+  "name": "Fractal Images",
+  "shortName": null,
+  "author": null,
+  "description": "Arranged for solo piano",
+  "timeCreated": 1754133284,
+  "timeEdited": 1754133284,
+  "readme": "README.md",
+  "article": false,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#80ffe8",
+  "sections": [
+    {
+      "type": "site",
+      "icon": "las la-file-audio",
+      "label": "Download the sheet music",
+      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Fractal%20Images/fractal_images.pdf"
+    },
+    {
+      "type": "site",
+      "icon": "las la-file-audio",
+      "label": "Download the MuseScore file",
+      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Fractal%20Images/fractal_images.mscz"
+    },
+    {
+      "type": "site",
+      "icon": "las la-file-audio",
+      "label": "Download the MIDI file",
+      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Fractal%20Images/fractal%20images.mid"
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Fractal Images"
+    ]
+  }
+}
