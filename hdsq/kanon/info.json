@@ -1,6 +1,6 @@
 {
-  "name": "花音: The Sound of a Flower",
-  "shortName": null,
+  "name": "The Sound of a Flower",
+  "shortName": "花音",
   "author": null,
   "description": "An original composition for solo piano",
   "timeCreated": 1753805207,
@@ -8,7 +8,7 @@
   "readme": "README.md",
   "article": false,
   "feed": null,
-  "icon": null,
+  "icon": "kanon.png",
   "banner": null,
   "color": "#e633ca",
   "sections": [
