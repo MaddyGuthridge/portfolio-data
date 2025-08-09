@@ -1,22 +1,22 @@
 {
-  "name": "Avicii: Wake Me Up",
+  "name": "Final Destiny",
   "shortName": null,
   "author": null,
-  "description": "In memory of Tim Bergling",
-  "timeCreated": 1754132232,
-  "timeEdited": 1754132232,
+  "description": "A collaboration with MusiMasta",
+  "timeCreated": 1754748405,
+  "timeEdited": 1754748405,
   "readme": "README.md",
   "article": false,
   "feed": null,
   "icon": null,
   "banner": null,
-  "color": "#ffc149",
+  "color": "#45fff0",
   "sections": [
     {
       "type": "site",
       "icon": "las la-file-audio",
       "label": "Download the MIDI file",
-      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Wake%20Me%20Up/Wake%20Me%20Up.zip"
+      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Final%20Destiny/Final%20Destiny%20-%20Final.7z"
     }
   ],
   "children": [],
@@ -24,7 +24,7 @@
   "seo": {
     "description": null,
     "keywords": [
-      "Avicii: Wake Me Up"
+      "Final Destiny"
     ]
   }
 }

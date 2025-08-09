@@ -1,0 +1,30 @@
+{
+  "name": "Tartarus",
+  "shortName": null,
+  "author": null,
+  "description": "Greek god of the deepest darkest pit of the underworld",
+  "timeCreated": 1754749396,
+  "timeEdited": 1754749396,
+  "readme": "README.md",
+  "article": false,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#f66151",
+  "sections": [
+    {
+      "type": "site",
+      "icon": "las la-file-audio",
+      "label": "Download the MIDI file and \"destroy your PC\"",
+      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Tartarus/tartarus2.6.1.7z"
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Tartarus"
+    ]
+  }
+}

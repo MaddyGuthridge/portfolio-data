@@ -1,22 +1,22 @@
 {
-  "name": "Avicii: Wake Me Up",
+  "name": "Despacito",
   "shortName": null,
   "author": null,
-  "description": "In memory of Tim Bergling",
-  "timeCreated": 1754132232,
-  "timeEdited": 1754132232,
+  "description": "This is so sad. Alexa, you know what to do",
+  "timeCreated": 1754747994,
+  "timeEdited": 1754747994,
   "readme": "README.md",
   "article": false,
   "feed": null,
   "icon": null,
   "banner": null,
-  "color": "#ffc149",
+  "color": "#ff47e4",
   "sections": [
     {
       "type": "site",
       "icon": "las la-file-audio",
       "label": "Download the MIDI file",
-      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Wake%20Me%20Up/Wake%20Me%20Up.zip"
+      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Despacito/despacito.mid"
     }
   ],
   "children": [],
@@ -24,7 +24,7 @@
   "seo": {
     "description": null,
     "keywords": [
-      "Avicii: Wake Me Up"
+      "Despacito"
     ]
   }
 }

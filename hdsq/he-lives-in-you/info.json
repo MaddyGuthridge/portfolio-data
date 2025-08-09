@@ -1,22 +1,22 @@
 {
-  "name": "Avicii: Wake Me Up",
+  "name": "The Lion King: He Lives in You",
   "shortName": null,
   "author": null,
-  "description": "In memory of Tim Bergling",
-  "timeCreated": 1754132232,
-  "timeEdited": 1754132232,
+  "description": "From the Broadway musical",
+  "timeCreated": 1754747336,
+  "timeEdited": 1754747336,
   "readme": "README.md",
   "article": false,
   "feed": null,
   "icon": null,
   "banner": null,
-  "color": "#ffc149",
+  "color": "#f6d32d",
   "sections": [
     {
       "type": "site",
       "icon": "las la-file-audio",
       "label": "Download the MIDI file",
-      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Wake%20Me%20Up/Wake%20Me%20Up.zip"
+      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/He%20Lives%20in%20You/He%20Lives%20In%20You.zip"
     }
   ],
   "children": [],
@@ -24,7 +24,7 @@
   "seo": {
     "description": null,
     "keywords": [
-      "Avicii: Wake Me Up"
+      "The Lion King: He Lives in You"
     ]
   }
 }
