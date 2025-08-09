@@ -2,7 +2,7 @@
   "name": "The 12 Days of Christmas",
   "shortName": null,
   "author": null,
-  "description": "2017 Christmas Celebration",
+  "description": "2017 Christmas Celebration, in collaboration with MBMS",
   "timeCreated": 1754746173,
   "timeEdited": 1754746173,
   "readme": "README.md",
@@ -24,7 +24,9 @@
   "seo": {
     "description": null,
     "keywords": [
-      "The 12 Days of Christmas"
+      "The 12 Days of Christmas",
+      "MBMS",
+      "My Black MIDI Score"
     ]
   }
 }
