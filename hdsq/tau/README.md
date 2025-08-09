@@ -50,3 +50,8 @@ Embedded within the project are over 50 references to my favourite Black MIDIs. 
 | [Pi by TSMB2](https://youtu.be/ZQ7ipUQoik8) (note count reference, song duration) | 6:28 |
 
 I'll add more references to this table as I remember more.
+
+## Downloads
+
+Note that the downloads are in 7Zip format in order to improve compression ratios. If your system doesn't support this format out-of-the-box (cough, cough, Windows), you may need to install a tool such as [7-Zip](https://www.7-zip.org/).
+

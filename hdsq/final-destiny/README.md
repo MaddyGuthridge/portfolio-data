@@ -19,3 +19,8 @@ Even still, it has some fun elements -- I especially like the B section melody a
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EQ_lEfirLK4?si=5WVifX2rHS7FilVK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Downloads
+
+Note that the downloads are in 7Zip format in order to improve compression ratios. If your system doesn't support this format out-of-the-box (cough, cough, Windows), you may need to install a tool such as [7-Zip](https://www.7-zip.org/).
+
+
