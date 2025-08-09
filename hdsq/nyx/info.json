@@ -1,0 +1,30 @@
+{
+  "name": "Nyx",
+  "shortName": null,
+  "author": null,
+  "description": "The Greek goddess of night, born of Chaos (the void), mother to darkness, death and sleep.",
+  "timeCreated": 1754755370,
+  "timeEdited": 1754755370,
+  "readme": "README.md",
+  "article": false,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#813d9c",
+  "sections": [
+    {
+      "type": "site",
+      "icon": "las la-file-audio",
+      "label": "Download the MIDI file",
+      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Nyx/Nyx.zip"
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Nyx"
+    ]
+  }
+}

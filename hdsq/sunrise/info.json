@@ -1,0 +1,30 @@
+{
+  "name": "Sunrise",
+  "shortName": null,
+  "author": null,
+  "description": "An original composition",
+  "timeCreated": 1754754833,
+  "timeEdited": 1754754833,
+  "readme": "README.md",
+  "article": false,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#ffa348",
+  "sections": [
+    {
+      "type": "site",
+      "icon": "las la-file-audio",
+      "label": "Download the MIDI file",
+      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Sunrise/sunrise.zip"
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Sunrise"
+    ]
+  }
+}

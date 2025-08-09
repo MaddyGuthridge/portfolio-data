@@ -1,0 +1,30 @@
+{
+  "name": "When Donald Isn't Home",
+  "shortName": null,
+  "author": null,
+  "description": "This has aged like fine wine",
+  "timeCreated": 1754752476,
+  "timeEdited": 1754752476,
+  "readme": "README.md",
+  "article": false,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#ffe380",
+  "sections": [
+    {
+      "type": "site",
+      "icon": "las la-file-audio",
+      "label": "Download the MIDI file",
+      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/When%20Donald%20Isnt%20Home/when_donald_isnt_home.mid"
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "When Donald Isn't Home"
+    ]
+  }
+}

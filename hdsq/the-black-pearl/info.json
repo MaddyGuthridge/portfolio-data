@@ -1,0 +1,30 @@
+{
+  "name": "Pirates of the Caribbean: The Black Pearl",
+  "shortName": null,
+  "author": null,
+  "description": "Exactly 10 million notes",
+  "timeCreated": 1754754196,
+  "timeEdited": 1754754196,
+  "readme": "README.md",
+  "article": false,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#000000",
+  "sections": [
+    {
+      "type": "site",
+      "icon": "las la-file-audio",
+      "label": "Download the MIDI file",
+      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/The%20Black%20Pearl/the_black_pearl.zip"
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Pirates of the Caribbean: The Black Pearl"
+    ]
+  }
+}
