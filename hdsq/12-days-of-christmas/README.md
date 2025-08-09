@@ -11,3 +11,7 @@ A fun piece of trivia is that the video thumbnail, where the background appears 
 ## My video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L2bfSw05IWk?si=su0_yOQ1m5Ho9AHV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Download
+
+Please ensure you respect the [HDSQ MIDI License](https://maddyguthridge.com/hdsq/license) if you intend to make use of my work.

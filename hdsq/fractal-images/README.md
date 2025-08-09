@@ -6,3 +6,6 @@
 
 Note that the sheet music lists the arranger as "Miguel Guthridge". My new name is Maddy Guthridge. Please use my new name to refer to me.
 
+## Download
+
+Please ensure you respect the [HDSQ MIDI License](https://maddyguthridge.com/hdsq/license) if you intend to make use of my work.

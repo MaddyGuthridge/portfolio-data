@@ -12,3 +12,7 @@ The note art I used was from:
 * Shanghai Teahouse by ThinkerAI
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PKfbBVGb_3U?si=KV60V1CnUNZjuKyV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Download
+
+Please ensure you respect the [HDSQ MIDI License](https://maddyguthridge.com/hdsq/license) if you intend to make use of my work.

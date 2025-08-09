@@ -8,3 +8,6 @@ Note that the MuseScore file has been updated to reflect the way that I play it,
 
 The MIDI file is the original version, which is presented in the video.
 
+## Copyright info
+
+All rights reserved. If you wish to perform this piece, or make an arrangement, please contact me for permission.

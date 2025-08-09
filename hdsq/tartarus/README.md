@@ -8,6 +8,8 @@ This was a resounding success, with the piece attracting many legit run attempts
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u3QCN1qqfIo?si=isG3DJvM8PfKJeIk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Downloads
+## Download
 
-Note that the downloads are in 7Zip format in order to improve compression ratios. If your system doesn't support this format out-of-the-box (cough, cough, Windows), you may need to install a tool such as [7-Zip](https://www.7-zip.org/).
+Please ensure you respect the [HDSQ MIDI License](https://maddyguthridge.com/hdsq/license) if you intend to make use of my work.
+
+Note that the download is in 7Zip format in order to improve compression ratios. If your system doesn't support this format out-of-the-box (cough, cough, Windows), you may need to install a tool such as [7-Zip](https://www.7-zip.org/).

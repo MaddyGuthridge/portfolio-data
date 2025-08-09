@@ -7,3 +7,7 @@ Ok, now that I've gotten the shitposting out of my system, I'm unironically prou
 I specifically arranged the version of the song which featured Justin Beiber, as I feel it is far more melodically interesting than the original.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jkpwTc7JcA4?si=XRKJcKK7Lj4Iym40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Download
+
+Please ensure you respect the [HDSQ MIDI License](https://maddyguthridge.com/hdsq/license) if you intend to make use of my work.

@@ -9,3 +9,7 @@ I made this arrangement very quickly, both for Halloween, and as a gift for my s
 Unfortunately, I made the mistake of using a compilation clip from the movie in the background, and so the video was immediately demonetized. Oops!
 
 Note that it is near impossible to sync the MIDI with the music video for some reason, so don't attempt it unless you want to die of frustration.
+
+## Download
+
+Please ensure you respect the [HDSQ MIDI License](https://maddyguthridge.com/hdsq/license) if you intend to make use of my work.

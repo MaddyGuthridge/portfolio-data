@@ -7,3 +7,7 @@ Growing up in an uncertain world, and feeling powerless to change it was the sou
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GwkIZWwgKsA?si=gQSYGKomr_C19UP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I am still very proud of this composition, and especially the key change near the end. Perhaps this black MIDI won't be the last you hear of these musical ideas.
+
+## Download
+
+Please ensure you respect the [HDSQ MIDI License](https://maddyguthridge.com/hdsq/license) if you intend to make use of my work.

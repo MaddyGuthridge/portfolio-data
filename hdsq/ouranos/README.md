@@ -22,3 +22,7 @@ You can watch [TheRomanticist's recording here](https://youtu.be/ruJJxgB3qI8).
 | MIDI editing software | Domino 1.43 |
 | Soundfont | Foehn Concert Grand (No Pan), Version 2019 |
 | MIDI synthesizer | [Keppy's MIDI Converter](https://github.com/KeppySoftware/KMC) |
+
+## Download
+
+Please ensure you respect the [HDSQ MIDI License](https://maddyguthridge.com/hdsq/license) if you intend to make use of my work.

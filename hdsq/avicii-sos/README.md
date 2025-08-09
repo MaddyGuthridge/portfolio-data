@@ -6,3 +6,7 @@ Upon the release of Avicii's final album, **Tim**, I was inspired to arrange one
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LSqZQ7ebuKM?si=90LvemYw00VlKfCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Download
+
+Please ensure you respect the [HDSQ MIDI License](https://maddyguthridge.com/hdsq/license) if you intend to make use of my work.
+
