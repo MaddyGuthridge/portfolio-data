@@ -49,7 +49,7 @@
     "sunrise",
     "nyx"
   ],
-  "filters": [],
+  "filters": ["/hdsq/tags"],
   "seo": {
     "description": "HDSQ is a music project by Maddy Guthridge, where she makes Black MIDI, a micro-genre of impossible piano music.",
     "keywords": [
