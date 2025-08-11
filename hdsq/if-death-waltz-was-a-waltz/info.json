@@ -17,6 +17,17 @@
       "icon": "las la-file-audio",
       "label": "Download the MuseScore file",
       "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/If%20Death%20Waltz%20was%20a%20Waltz/If_death_waltz_was_a_waltz.mscz"
+    },
+    {
+      "type": "links",
+      "label": "Tags",
+      "style": "chip",
+      "items": [
+        "/hdsq/tags/large-ensemble",
+        "/hdsq/tags/joke",
+        "/hdsq/tags/black-midi",
+        "/hdsq/tags/arrangement"
+      ]
     }
   ],
   "children": [],

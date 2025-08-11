@@ -17,6 +17,17 @@
       "icon": "las la-file-audio",
       "label": "Download the MIDI file",
       "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Worlds%20Happiest%20Jingle/Happy_Jingle.mid"
+    },
+    {
+      "type": "links",
+      "label": "Tags",
+      "style": "chip",
+      "items": [
+        "/hdsq/tags/original-composition",
+        "/hdsq/tags/joke",
+        "/hdsq/tags/black-midi",
+        "/hdsq/tags/piano-solo"
+      ]
     }
   ],
   "children": [],

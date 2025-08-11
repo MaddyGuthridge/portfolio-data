@@ -17,6 +17,16 @@
       "icon": "las la-file-audio",
       "label": "Download the MIDI file",
       "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Ouranos/HDSQ%20&%20The%20Romanticist%20-%20Ouranos.zip"
+    },
+    {
+      "type": "links",
+      "label": "Tags",
+      "style": "chip",
+      "items": [
+        "/hdsq/tags/collaboration",
+        "/hdsq/tags/original-composition",
+        "/hdsq/tags/black-midi"
+      ]
     }
   ],
   "children": [],

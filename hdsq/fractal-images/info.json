@@ -29,6 +29,15 @@
       "icon": "las la-file-audio",
       "label": "Download the MIDI file",
       "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Fractal%20Images/fractal%20images.mid"
+    },
+    {
+      "type": "links",
+      "label": "Tags",
+      "style": "chip",
+      "items": [
+        "/hdsq/tags/piano-solo",
+        "/hdsq/tags/arrangement"
+      ]
     }
   ],
   "children": [],

@@ -1,0 +1,35 @@
+{
+  "name": "Joke",
+  "shortName": null,
+  "author": null,
+  "description": "Pieces that I arranged as a joke",
+  "timeCreated": 1754901512,
+  "timeEdited": 1754901512,
+  "readme": "README.md",
+  "article": false,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#3584e4",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Joke pieces",
+      "style": "chip",
+      "items": [
+        "/hdsq/ghostbusters",
+        "/hdsq/worlds-happiest-jingle",
+        "/hdsq/if-death-waltz-was-a-waltz",
+        "/hdsq/when-donald-isnt-home"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Joke"
+    ]
+  }
+}

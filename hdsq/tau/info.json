@@ -29,6 +29,15 @@
       "icon": "las la-file-audio",
       "label": "Download Beta v1.7.3",
       "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Tau/tau1.7.3.mid.7z"
+    },
+    {
+      "type": "links",
+      "label": "Tags",
+      "style": "chip",
+      "items": [
+        "/hdsq/tags/original-composition",
+        "/hdsq/tags/black-midi"
+      ]
     }
   ],
   "children": [],

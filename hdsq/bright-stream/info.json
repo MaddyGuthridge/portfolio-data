@@ -17,6 +17,15 @@
       "icon": "las la-file-audio",
       "label": "Download the MIDI file",
       "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Bright%20Stream/Bright%20Stream.zip"
+    },
+    {
+      "type": "links",
+      "label": "See also",
+      "style": "chip",
+      "items": [
+        "/hdsq/tags/black-midi",
+        "/hdsq/tags/arrangement"
+      ]
     }
   ],
   "children": [],

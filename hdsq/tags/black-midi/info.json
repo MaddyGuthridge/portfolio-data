@@ -1,0 +1,55 @@
+{
+  "name": "Black MIDI",
+  "shortName": null,
+  "author": null,
+  "description": "A Black MIDI (impossible piano) piece",
+  "timeCreated": 1754901916,
+  "timeEdited": 1754901916,
+  "readme": "README.md",
+  "article": false,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#3584e4",
+  "sections": [
+    {
+      "type": "links",
+      "label": "See also",
+      "style": "card",
+      "items": [
+        "/hdsq/avicii-sos",
+        "/hdsq/ghostbusters",
+        "/hdsq/one-republic-counting-stars",
+        "/hdsq/ouranos",
+        "/hdsq/queen-bohemian-rhapsody",
+        "/hdsq/tau",
+        "/hdsq/unify",
+        "/hdsq/advance-australia-fair-russian",
+        "/hdsq/avicii-wake-me-up",
+        "/hdsq/bright-stream",
+        "/hdsq/nightfall-black-midi",
+        "/hdsq/two-minutes-to-midnight",
+        "/hdsq/worlds-happiest-jingle",
+        "/hdsq/12-days-of-christmas",
+        "/hdsq/despacito",
+        "/hdsq/final-destiny",
+        "/hdsq/greensleeves",
+        "/hdsq/he-lives-in-you",
+        "/hdsq/if-death-waltz-was-a-waltz",
+        "/hdsq/nyx",
+        "/hdsq/regina-spektor-the-call",
+        "/hdsq/sunrise",
+        "/hdsq/the-black-pearl",
+        "/hdsq/when-donald-isnt-home"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Black MIDI"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Large ensemble",
+  "shortName": null,
+  "author": null,
+  "description": "A piece for a large musical ensemble",
+  "timeCreated": 1754901375,
+  "timeEdited": 1754901375,
+  "readme": "README.md",
+  "article": false,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#3584e4",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Large ensemble pieces",
+      "style": "card",
+      "items": [
+        "/hdsq/nightfall",
+        "/hdsq/if-death-waltz-was-a-waltz"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Large ensemble"
+    ]
+  }
+}

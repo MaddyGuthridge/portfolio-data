@@ -1,0 +1,33 @@
+{
+  "name": "Piano solo",
+  "shortName": null,
+  "author": null,
+  "description": "A piece for solo piano",
+  "timeCreated": 1754901265,
+  "timeEdited": 1754901265,
+  "readme": "README.md",
+  "article": false,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#3584e4",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Piano pieces",
+      "style": "card",
+      "items": [
+        "/hdsq/kanon",
+        "/hdsq/fractal-images"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Piano solo"
+    ]
+  }
+}

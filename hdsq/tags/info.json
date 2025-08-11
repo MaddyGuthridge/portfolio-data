@@ -1,0 +1,31 @@
+{
+  "name": "Tags",
+  "shortName": null,
+  "author": null,
+  "description": "Tags applied to my musical projects",
+  "timeCreated": 1754900788,
+  "timeEdited": 1754900788,
+  "readme": "README.md",
+  "article": false,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#3584e4",
+  "sections": [],
+  "children": [
+    "collaboration",
+    "original-composition",
+    "piano-solo",
+    "large-ensemble",
+    "joke",
+    "black-midi",
+    "arrangement"
+  ],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Tags"
+    ]
+  }
+}

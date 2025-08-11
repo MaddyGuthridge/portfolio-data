@@ -17,6 +17,16 @@
       "icon": "las la-file-audio",
       "label": "Download the MIDI file",
       "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Autralian%20Anthem%20Russian/aussie%20anthem%20but%20russian.mid"
+    },
+    {
+      "type": "links",
+      "label": "Tags",
+      "style": "chip",
+      "items": [
+        "/hdsq/tags/joke",
+        "/hdsq/tags/black-midi",
+        "/hdsq/tags/arrangement"
+      ]
     }
   ],
   "children": [],

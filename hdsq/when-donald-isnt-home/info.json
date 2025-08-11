@@ -17,6 +17,16 @@
       "icon": "las la-file-audio",
       "label": "Download the MIDI file",
       "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/When%20Donald%20Isnt%20Home/when_donald_isnt_home.mid"
+    },
+    {
+      "type": "links",
+      "label": "Tags",
+      "style": "chip",
+      "items": [
+        "/hdsq/tags/joke",
+        "/hdsq/tags/black-midi",
+        "/hdsq/tags/arrangement"
+      ]
     }
   ],
   "children": [],

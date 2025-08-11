@@ -17,6 +17,16 @@
       "icon": "las la-file-audio",
       "label": "Download the MIDI file",
       "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Twelve%20Days%20of%20Christmas/12days_of_christmas.zip"
+    },
+    {
+      "type": "links",
+      "label": "Tags",
+      "style": "chip",
+      "items": [
+        "/hdsq/tags/collaboration",
+        "/hdsq/tags/black-midi",
+        "/hdsq/tags/arrangement"
+      ]
     }
   ],
   "children": [],

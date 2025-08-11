@@ -1,0 +1,41 @@
+{
+  "name": "Original Composition",
+  "shortName": null,
+  "author": null,
+  "description": "A composition written by me",
+  "timeCreated": 1754900996,
+  "timeEdited": 1754900996,
+  "readme": "README.md",
+  "article": false,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#3584e4",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Original compositions",
+      "style": "card",
+      "items": [
+        "/hdsq/kanon",
+        "/hdsq/nightfall",
+        "/hdsq/ouranos",
+        "/hdsq/tau",
+        "/hdsq/nightfall-black-midi",
+        "/hdsq/two-minutes-to-midnight",
+        "/hdsq/final-destiny",
+        "/hdsq/nyx",
+        "/hdsq/sunrise",
+        "/hdsq/tartarus"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Original Composition"
+    ]
+  }
+}

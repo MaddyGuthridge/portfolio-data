@@ -1,0 +1,35 @@
+{
+  "name": "Collaboration",
+  "shortName": null,
+  "author": null,
+  "description": "A collaboration with other musicians",
+  "timeCreated": 1754900868,
+  "timeEdited": 1754900868,
+  "readme": "README.md",
+  "article": false,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#3584e4",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Collaborative projects",
+      "style": "card",
+      "items": [
+        "/hdsq/ouranos",
+        "/hdsq/unify",
+        "/hdsq/12-days-of-christmas",
+        "/hdsq/final-destiny"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Collaboration"
+    ]
+  }
+}

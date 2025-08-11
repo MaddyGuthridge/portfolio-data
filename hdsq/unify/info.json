@@ -11,7 +11,17 @@
   "icon": "Convergence.png",
   "banner": null,
   "color": "#613583",
-  "sections": [],
+  "sections": [
+    {
+      "type": "links",
+      "label": "Tags",
+      "style": "chip",
+      "items": [
+        "/hdsq/tags/collaboration",
+        "/hdsq/tags/black-midi"
+      ]
+    }
+  ],
   "children": [],
   "filters": [],
   "seo": {
