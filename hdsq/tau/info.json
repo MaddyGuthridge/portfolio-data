@@ -8,7 +8,7 @@
   "readme": "README.md",
   "article": false,
   "feed": null,
-  "icon": null,
+  "icon": "tau.png",
   "banner": null,
   "color": "#b551d5",
   "sections": [
