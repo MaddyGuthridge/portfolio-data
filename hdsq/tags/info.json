@@ -13,13 +13,13 @@
   "color": "#3584e4",
   "sections": [],
   "children": [
-    "collaboration",
-    "original-composition",
+    "black-midi",
     "piano-solo",
     "large-ensemble",
-    "joke",
-    "black-midi",
-    "arrangement"
+    "original-composition",
+    "arrangement",
+    "collaboration",
+    "joke"
   ],
   "filters": [],
   "seo": {
