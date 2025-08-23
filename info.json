@@ -17,6 +17,12 @@
       "icon": "lab la-linkedin",
       "label": "Follow me on LinkedIn",
       "url": "https://linkedin.com/in/maddyguthridge"
+    },
+    {
+      "type": "site",
+      "icon": "las la-utensils",
+      "label": "Buy me a pasta bowl",
+      "url": "https://buymeacoffee.com/maddyguthridge"
     }
   ],
   "children": [

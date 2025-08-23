@@ -12,6 +12,12 @@
       "icon": "las la-rss",
       "label": "Subscribe with RSS",
       "url": "https://maddyguthridge.com/blog/feed.atom"
+    },
+    {
+      "type": "site",
+      "icon": "las la-utensils",
+      "label": "Buy me a pasta bowl",
+      "url": "https://buymeacoffee.com/maddyguthridge"
     }
   ],
   "children": [
@@ -24,7 +30,7 @@
   ],
   "filters": [],
   "seo": {
-    "description": "Maddy Guthridge's personal blog, where you'll find her musings on software engineering, accessibility, Linux and LGBTQIA+ topics",
+    "description": "Maddy Guthridge's personal blog, where you'll find her musings on software engineering, education, accessibility, Linux and LGBTQIA+ topics",
     "keywords": [
       "Blog",
       "Accessibility",
@@ -33,7 +39,8 @@
       "LGBTQ",
       "LGBTQIA+",
       "Queer",
-      "Essay"
+      "Essay",
+      "Education"
     ]
   },
   "author": null,
