@@ -1,0 +1,60 @@
+{
+  "name": "Downtimer",
+  "shortName": null,
+  "author": null,
+  "description": "A education-friendly wrapper around JavaScript timeouts",
+  "timeCreated": 1756655692,
+  "timeEdited": 1756655692,
+  "readme": "README.md",
+  "article": false,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#49fbff",
+  "sections": [
+    {
+      "type": "repo",
+      "label": null,
+      "info": {
+        "provider": "github",
+        "path": "MaddyGuthridge/Downtimer"
+      }
+    },
+    {
+      "type": "package",
+      "label": null,
+      "info": {
+        "provider": "npm",
+        "id": "downtimer"
+      }
+    },
+    {
+      "type": "links",
+      "label": "Related experience",
+      "style": "chip",
+      "items": [
+        "/portfolio/experience/unsw-tutoring"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Programmed using",
+      "style": "chip",
+      "items": [
+        "/portfolio/languages/typescript",
+        "/portfolio/languages/javascript"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Downtimer",
+      "setTimeout",
+      "Timers",
+      "JavaScript"
+    ]
+  }
+}
