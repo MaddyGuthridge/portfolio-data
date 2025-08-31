@@ -46,6 +46,14 @@
       ]
     },
     {
+      "type": "links",
+      "label": "Created as a part of",
+      "style": "chip",
+      "items": [
+        "/portfolio/experience/bsc-cs"
+      ]
+    },
+    {
       "type": "repo",
       "label": null,
       "info": {

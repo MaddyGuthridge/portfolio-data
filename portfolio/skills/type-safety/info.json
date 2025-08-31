@@ -8,19 +8,6 @@
   "sections": [
     {
       "type": "links",
-      "label": "Projects demonstrating this skill",
-      "style": "card",
-      "items": [
-        "/portfolio/projects/chess-ai",
-        "/portfolio/projects/enigma-breaker",
-        "/portfolio/projects/ensemble-forum",
-        "/portfolio/projects/portfolio",
-        "/portfolio/projects/pyhtml",
-        "/portfolio/projects/universal-controller-script"
-      ]
-    },
-    {
-      "type": "links",
       "label": "Related frameworks",
       "style": "chip",
       "items": [
@@ -38,12 +25,16 @@
       ]
     },
     {
-      "type": "links",
+      "type": "backlinks",
       "label": "Blog posts about type safety",
       "style": "card",
-      "items": [
-        "/blog/type-safety-accessibility"
-      ]
+      "parentItem": "/blog"
+    },
+    {
+      "type": "backlinks",
+      "label": "My type-safe projects",
+      "style": "card",
+      "parentItem": "/portfolio/projects"
     }
   ],
   "children": [],

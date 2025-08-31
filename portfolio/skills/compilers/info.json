@@ -7,21 +7,10 @@
   "color": "#27C400",
   "sections": [
     {
-      "type": "links",
+      "type": "backlinks",
       "label": "Projects demonstrating this skill",
       "style": "card",
-      "items": [
-        "/portfolio/projects/equator",
-        "/portfolio/projects/vc-compiler"
-      ]
-    },
-    {
-      "type": "links",
-      "label": "Related languages",
-      "style": "chip",
-      "items": [
-        "/portfolio/languages/jasmin"
-      ]
+      "parentItem": "/portfolio/projects"
     }
   ],
   "children": [],

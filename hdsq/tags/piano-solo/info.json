@@ -13,13 +13,10 @@
   "color": "#ed333b",
   "sections": [
     {
-      "type": "links",
+      "type": "backlinks",
       "label": "Piano pieces",
       "style": "card",
-      "items": [
-        "/hdsq/kanon",
-        "/hdsq/fractal-images"
-      ]
+      "parentItem": "/hdsq"
     }
   ],
   "children": [],

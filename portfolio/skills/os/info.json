@@ -7,20 +7,16 @@
   "color": "#8D3F00",
   "sections": [
     {
-      "type": "links",
-      "label": "Projects demonstrating this skill",
-      "style": "card",
-      "items": [
-        "/portfolio/projects/os-161"
-      ]
-    },
-    {
-      "type": "links",
+      "type": "backlinks",
       "label": "Related languages",
       "style": "chip",
-      "items": [
-        "/portfolio/languages/c"
-      ]
+      "parentItem": "/portfolio/languages"
+    },
+    {
+      "type": "backlinks",
+      "label": "Related projects",
+      "style": "card",
+      "parentItem": "/portfolio/projects"
     }
   ],
   "children": [],

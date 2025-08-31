@@ -8,31 +8,23 @@
   "sections": [
     {
       "type": "links",
-      "label": "Skills",
+      "label": "Related skills",
       "style": "chip",
       "items": [
         "/portfolio/skills/oop"
       ]
     },
     {
-      "type": "links",
-      "label": "Projects demonstrating this skill",
-      "style": "card",
-      "items": [
-        "/portfolio/projects/dungeon-mania",
-        "/portfolio/projects/universal-controller-script",
-        "/portfolio/projects/vc-compiler",
-        "/portfolio/projects/markten"
-      ]
-    },
-    {
-      "type": "links",
+      "type": "backlinks",
       "label": "Related languages",
       "style": "chip",
-      "items": [
-        "/portfolio/languages/java",
-        "/portfolio/languages/python"
-      ]
+      "parentItem": "/portfolio/languages"
+    },
+    {
+      "type": "backlinks",
+      "label": "Projects which use design patterns",
+      "style": "card",
+      "parentItem": "/portfolio/projects"
     }
   ],
   "children": [],

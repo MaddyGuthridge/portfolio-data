@@ -7,26 +7,19 @@
   "color": "#17E238",
   "sections": [
     {
-      "type": "links",
-      "label": "Projects demonstrating this skill",
+      "type": "backlinks",
+      "label": "Projects which are installable packages",
       "style": "card",
-      "items": [
-        "/portfolio/projects/equator",
-        "/portfolio/projects/fl-studio-api-stubs",
-        "/portfolio/projects/flapi",
-        "/portfolio/projects/jestspectation",
-        "/portfolio/projects/pyhtml",
-        "/portfolio/projects/concussion",
-        "/portfolio/projects/markten",
-        "/portfolio/projects/transdoc"
-      ]
+      "parentItem": "/portfolio/projects"
     },
     {
       "type": "links",
-      "label": "Related languages",
+      "label": "Languages I have packaging experience with",
       "style": "chip",
       "items": [
-        "/portfolio/languages/python"
+        "/portfolio/languages/python",
+        "/portfolio/languages/typescript",
+        "/portfolio/languages/javascript"
       ]
     }
   ],

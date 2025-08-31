@@ -7,22 +7,16 @@
   "color": "#D26B60",
   "sections": [
     {
-      "type": "links",
-      "label": "Projects demonstrating this skill",
-      "style": "card",
-      "items": [
-        "/portfolio/projects/fl-studio-api-stubs",
-        "/portfolio/projects/flapi",
-        "/portfolio/projects/universal-controller-script"
-      ]
-    },
-    {
-      "type": "links",
+      "type": "backlinks",
       "label": "Related frameworks",
       "style": "chip",
-      "items": [
-        "/portfolio/frameworks/midi-controller-scripting"
-      ]
+      "parentItem": "/portfolio/frameworks"
+    },
+    {
+      "type": "backlinks",
+      "label": "Projects which utilise MIDI",
+      "style": "card",
+      "parentItem": "/portfolio/projects"
     }
   ],
   "children": [],

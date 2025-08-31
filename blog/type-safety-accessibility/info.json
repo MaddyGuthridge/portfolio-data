@@ -6,7 +6,16 @@
   "icon": null,
   "banner": null,
   "color": "#ffbdf0",
-  "sections": [],
+  "sections": [
+    {
+      "type": "links",
+      "label": "Tags",
+      "style": "chip",
+      "items": [
+        "/portfolio/skills/type-safety"
+      ]
+    }
+  ],
   "children": [],
   "filters": [],
   "seo": {

@@ -16,13 +16,10 @@
       ]
     },
     {
-      "type": "links",
-      "label": "Projects written in this language",
+      "type": "backlinks",
+      "label": "Projects written in C",
       "style": "card",
-      "items": [
-        "/portfolio/projects/os-161",
-        "/portfolio/projects/shuck"
-      ]
+      "parentItem": "/portfolio/projects"
     }
   ],
   "children": [],

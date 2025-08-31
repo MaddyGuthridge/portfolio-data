@@ -16,33 +16,22 @@
       ]
     },
     {
-      "type": "links",
-      "label": "Projects demonstrating this skill",
-      "style": "card",
-      "items": [
-        "/portfolio/projects/portfolio",
-        "/portfolio/projects/waydriver"
-      ]
-    },
-    {
-      "type": "links",
+      "type": "backlinks",
       "label": "Related frameworks",
       "style": "chip",
-      "items": [
-        "/portfolio/frameworks/flask",
-        "/portfolio/frameworks/next",
-        "/portfolio/frameworks/sveltekit"
-      ]
+      "parentItem": "/portfolio/frameworks"
     },
     {
-      "type": "links",
+      "type": "backlinks",
       "label": "Related languages",
       "style": "chip",
-      "items": [
-        "/portfolio/languages/typescript",
-        "/portfolio/languages/javascript",
-        "/portfolio/languages/python"
-      ]
+      "parentItem": "/portfolio/languages"
+    },
+    {
+      "type": "backlinks",
+      "label": "Projects demonstrating this skill",
+      "style": "card",
+      "parentItem": "/portfolio/projects"
     }
   ],
   "children": [],

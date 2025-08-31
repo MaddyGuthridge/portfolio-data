@@ -13,15 +13,10 @@
   "color": "#ff7800",
   "sections": [
     {
-      "type": "links",
+      "type": "backlinks",
       "label": "Collaborative projects",
       "style": "card",
-      "items": [
-        "/hdsq/ouranos",
-        "/hdsq/unify",
-        "/hdsq/12-days-of-christmas",
-        "/hdsq/final-destiny"
-      ]
+      "parentItem": "/hdsq"
     }
   ],
   "children": [],

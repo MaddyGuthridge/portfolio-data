@@ -7,14 +7,10 @@
   "color": "#FFE100",
   "sections": [
     {
-      "type": "links",
+      "type": "backlinks",
       "label": "Projects I created in this role",
       "style": "card",
-      "items": [
-        "/portfolio/projects/jestspectation",
-        "/portfolio/projects/markten",
-        "/portfolio/projects/pyhtml"
-      ]
+      "parentItem": "/portfolio/projects"
     }
   ],
   "children": [],

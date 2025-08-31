@@ -33,6 +33,14 @@
       "items": [
         "/portfolio/status/complete"
       ]
+    },
+    {
+      "type": "links",
+      "label": "Completed as part of",
+      "style": "chip",
+      "items": [
+        "/portfolio/experience/bsc-cs"
+      ]
     }
   ],
   "children": [],

@@ -44,6 +44,16 @@
         "/portfolio/experience/unsw-course-admin",
         "/portfolio/experience/image-line-developer-support"
       ]
+    },
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/portfolio/skills/documentation",
+        "/portfolio/skills/packages",
+        "/portfolio/skills/test-driven-development"
+      ]
     }
   ],
   "children": [],

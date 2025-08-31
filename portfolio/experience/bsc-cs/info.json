@@ -8,25 +8,16 @@
   "color": "#ffbe6f",
   "sections": [
     {
-      "type": "links",
-      "label": "Projects I completed as part of my degree",
+      "type": "backlinks",
+      "label": "Essays I wrote as a part of my degree",
       "style": "card",
-      "items": [
-        "/portfolio/projects/dungeon-mania",
-        "/portfolio/projects/enigma-breaker",
-        "/portfolio/projects/ensemble-forum",
-        "/portfolio/projects/os-161",
-        "/portfolio/projects/shuck",
-        "/portfolio/projects/vc-compiler"
-      ]
+      "parentItem": "/blog"
     },
     {
-      "type": "links",
-      "label": "Essays I wrote as part of my degree",
+      "type": "backlinks",
+      "label": "Projects I completed as a part of my degree",
       "style": "card",
-      "items": [
-        "/blog/ai-can-be-ethical"
-      ]
+      "parentItem": "/portfolio/projects"
     }
   ],
   "children": [],

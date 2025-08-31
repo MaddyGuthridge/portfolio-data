@@ -12,23 +12,16 @@
       "style": "chip",
       "items": [
         "/portfolio/skills/backend",
-        "/portfolio/skills/type-safety"
+        "/portfolio/skills/type-safety",
+        "/portfolio/skills/design-patterns",
+        "/portfolio/skills/oop"
       ]
     },
     {
-      "type": "links",
-      "label": "Projects written in this language",
+      "type": "backlinks",
+      "label": "Projects written in Python",
       "style": "card",
-      "items": [
-        "/portfolio/projects/concussion",
-        "/portfolio/projects/ensemble-forum",
-        "/portfolio/projects/equator",
-        "/portfolio/projects/flapi",
-        "/portfolio/projects/jestspectation",
-        "/portfolio/projects/pyhtml",
-        "/portfolio/projects/universal-controller-script",
-        "/portfolio/projects/fl-studio-api-stubs"
-      ]
+      "parentItem": "/portfolio/projects"
     }
   ],
   "children": [],

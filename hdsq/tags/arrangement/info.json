@@ -13,27 +13,10 @@
   "color": "#3584e4",
   "sections": [
     {
-      "type": "links",
-      "label": "Arrangements",
+      "type": "backlinks",
+      "label": "My arrangements",
       "style": "card",
-      "items": [
-        "/hdsq/avicii-sos",
-        "/hdsq/ghostbusters",
-        "/hdsq/one-republic-counting-stars",
-        "/hdsq/queen-bohemian-rhapsody",
-        "/hdsq/advance-australia-fair-russian",
-        "/hdsq/avicii-wake-me-up",
-        "/hdsq/bright-stream",
-        "/hdsq/fractal-images",
-        "/hdsq/12-days-of-christmas",
-        "/hdsq/despacito",
-        "/hdsq/greensleeves",
-        "/hdsq/he-lives-in-you",
-        "/hdsq/if-death-waltz-was-a-waltz",
-        "/hdsq/regina-spektor-the-call",
-        "/hdsq/the-black-pearl",
-        "/hdsq/when-donald-isnt-home"
-      ]
+      "parentItem": "/hdsq"
     }
   ],
   "children": [],

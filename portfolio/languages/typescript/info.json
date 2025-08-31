@@ -27,13 +27,10 @@
       ]
     },
     {
-      "type": "links",
-      "label": "Projects written in this language",
+      "type": "backlinks",
+      "label": "Projects written using TypeScript",
       "style": "card",
-      "items": [
-        "/portfolio/projects/portfolio",
-        "/portfolio/projects/waydriver"
-      ]
+      "parentItem": "/portfolio/projects"
     }
   ],
   "children": [],

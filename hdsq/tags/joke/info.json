@@ -13,15 +13,10 @@
   "color": "#f6d32d",
   "sections": [
     {
-      "type": "links",
+      "type": "backlinks",
       "label": "Joke pieces",
-      "style": "chip",
-      "items": [
-        "/hdsq/ghostbusters",
-        "/hdsq/worlds-happiest-jingle",
-        "/hdsq/if-death-waltz-was-a-waltz",
-        "/hdsq/when-donald-isnt-home"
-      ]
+      "style": "card",
+      "parentItem": "/hdsq"
     }
   ],
   "children": [],

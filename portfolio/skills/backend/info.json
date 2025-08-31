@@ -8,7 +8,7 @@
   "sections": [
     {
       "type": "links",
-      "label": "Related skills",
+      "label": "See also",
       "style": "chip",
       "items": [
         "/portfolio/skills/frontend",
@@ -17,33 +17,22 @@
       ]
     },
     {
-      "type": "links",
-      "label": "Projects demonstrating this skill",
-      "style": "card",
-      "items": [
-        "/portfolio/projects/ensemble-forum",
-        "/portfolio/projects/waydriver"
-      ]
-    },
-    {
-      "type": "links",
+      "type": "backlinks",
       "label": "Related frameworks",
       "style": "chip",
-      "items": [
-        "/portfolio/frameworks/express",
-        "/portfolio/frameworks/flask",
-        "/portfolio/frameworks/sveltekit"
-      ]
+      "parentItem": "/portfolio/frameworks"
     },
     {
-      "type": "links",
+      "type": "backlinks",
       "label": "Related languages",
       "style": "chip",
-      "items": [
-        "/portfolio/languages/python",
-        "/portfolio/languages/typescript",
-        "/portfolio/languages/javascript"
-      ]
+      "parentItem": "/portfolio/languages"
+    },
+    {
+      "type": "backlinks",
+      "label": "See also",
+      "style": "card",
+      "parentItem": "/portfolio/projects"
     }
   ],
   "children": [],

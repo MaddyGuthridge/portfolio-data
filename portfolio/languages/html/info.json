@@ -16,21 +16,18 @@
     },
     {
       "type": "links",
-      "label": "Projects written in this language",
-      "style": "card",
+      "label": "See also",
+      "style": "chip",
       "items": [
-        "/portfolio/projects/portfolio",
-        "/portfolio/projects/pyhtml",
-        "/portfolio/projects/waydriver"
+        "/portfolio/languages/typescript",
+        "/portfolio/languages/javascript"
       ]
     },
     {
-      "type": "links",
-      "label": "Languages",
-      "style": "chip",
-      "items": [
-        "/portfolio/languages/typescript"
-      ]
+      "type": "backlinks",
+      "label": "Projects using HTML",
+      "style": "card",
+      "parentItem": "/portfolio/projects"
     }
   ],
   "children": [],

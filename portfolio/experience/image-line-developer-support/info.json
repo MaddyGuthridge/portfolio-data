@@ -7,12 +7,10 @@
   "color": "#aa00aa",
   "sections": [
     {
-      "type": "links",
+      "type": "backlinks",
       "label": "Projects I developed in this role",
       "style": "card",
-      "items": [
-        "/portfolio/projects/fl-studio-api-stubs"
-      ]
+      "parentItem": "/portfolio/projects"
     }
   ],
   "children": [],

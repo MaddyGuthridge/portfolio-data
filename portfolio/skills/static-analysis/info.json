@@ -7,13 +7,10 @@
   "color": "#F66D00",
   "sections": [
     {
-      "type": "links",
+      "type": "backlinks",
       "label": "Projects demonstrating this skill",
       "style": "card",
-      "items": [
-        "/portfolio/projects/equator",
-        "/portfolio/projects/vc-compiler"
-      ]
+      "parentItem": "/portfolio/projects"
     }
   ],
   "children": [],

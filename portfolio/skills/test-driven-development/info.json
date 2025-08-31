@@ -7,24 +7,16 @@
   "color": "#27609E",
   "sections": [
     {
-      "type": "links",
-      "label": "Projects demonstrating this skill",
-      "style": "card",
-      "items": [
-        "/portfolio/projects/ensemble-forum",
-        "/portfolio/projects/jestspectation",
-        "/portfolio/projects/pyhtml",
-        "/portfolio/projects/portfolio"
-      ]
-    },
-    {
-      "type": "links",
+      "type": "backlinks",
       "label": "Related frameworks",
       "style": "chip",
-      "items": [
-        "/portfolio/frameworks/jest",
-        "/portfolio/frameworks/pytest"
-      ]
+      "parentItem": "/portfolio/frameworks"
+    },
+    {
+      "type": "backlinks",
+      "label": "Projects demonstrating this skill",
+      "style": "card",
+      "parentItem": "/portfolio/projects"
     }
   ],
   "children": [],

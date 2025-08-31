@@ -17,14 +17,10 @@
       ]
     },
     {
-      "type": "links",
-      "label": "Projects written in this language",
+      "type": "backlinks",
+      "label": "Projects written in Rust",
       "style": "card",
-      "items": [
-        "/portfolio/projects/aoc",
-        "/portfolio/projects/chess-ai",
-        "/portfolio/projects/enigma-breaker"
-      ]
+      "parentItem": "/portfolio/projects"
     }
   ],
   "children": [],

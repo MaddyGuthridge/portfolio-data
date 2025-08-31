@@ -14,6 +14,34 @@
         "provider": "github",
         "path": "RaisingElephants/first-mate"
       }
+    },
+    {
+      "type": "links",
+      "label": "Languages",
+      "style": "chip",
+      "items": [
+        "/portfolio/languages/python",
+        "/portfolio/languages/html"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Frameworks",
+      "style": "chip",
+      "items": [
+        "/portfolio/frameworks/flask",
+        "/portfolio/frameworks/docker"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Skills demonstrated",
+      "style": "chip",
+      "items": [
+        "/portfolio/skills/backend",
+        "/portfolio/skills/full-stack",
+        "/portfolio/skills/agile"
+      ]
     }
   ],
   "children": [],

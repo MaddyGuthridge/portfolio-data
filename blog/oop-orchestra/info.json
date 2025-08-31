@@ -11,7 +11,18 @@
   "icon": null,
   "banner": null,
   "color": "#ed333b",
-  "sections": [],
+  "sections": [
+    {
+      "type": "links",
+      "label": "Tags",
+      "style": "chip",
+      "items": [
+        "/portfolio/experience/unsw-tutoring",
+        "/portfolio/skills/oop",
+        "/portfolio/skills/design-patterns"
+      ]
+    }
+  ],
   "children": [],
   "filters": [],
   "seo": {

@@ -13,35 +13,10 @@
   "color": "#000000",
   "sections": [
     {
-      "type": "links",
-      "label": "See also",
+      "type": "backlinks",
+      "label": "My Black MIDIs",
       "style": "card",
-      "items": [
-        "/hdsq/avicii-sos",
-        "/hdsq/ghostbusters",
-        "/hdsq/one-republic-counting-stars",
-        "/hdsq/ouranos",
-        "/hdsq/queen-bohemian-rhapsody",
-        "/hdsq/tau",
-        "/hdsq/unify",
-        "/hdsq/advance-australia-fair-russian",
-        "/hdsq/avicii-wake-me-up",
-        "/hdsq/bright-stream",
-        "/hdsq/nightfall-black-midi",
-        "/hdsq/two-minutes-to-midnight",
-        "/hdsq/worlds-happiest-jingle",
-        "/hdsq/12-days-of-christmas",
-        "/hdsq/despacito",
-        "/hdsq/final-destiny",
-        "/hdsq/greensleeves",
-        "/hdsq/he-lives-in-you",
-        "/hdsq/if-death-waltz-was-a-waltz",
-        "/hdsq/nyx",
-        "/hdsq/regina-spektor-the-call",
-        "/hdsq/sunrise",
-        "/hdsq/the-black-pearl",
-        "/hdsq/when-donald-isnt-home"
-      ]
+      "parentItem": "/hdsq"
     }
   ],
   "children": [],

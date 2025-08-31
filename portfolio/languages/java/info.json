@@ -16,13 +16,10 @@
       ]
     },
     {
-      "type": "links",
-      "label": "Projects written in this language",
+      "type": "backlinks",
+      "label": "Projects written in Java",
       "style": "card",
-      "items": [
-        "/portfolio/projects/dungeon-mania",
-        "/portfolio/projects/vc-compiler"
-      ]
+      "parentItem": "/portfolio/projects"
     }
   ],
   "children": [],

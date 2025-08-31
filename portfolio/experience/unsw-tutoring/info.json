@@ -7,20 +7,16 @@
   "color": "#FF9971",
   "sections": [
     {
-      "type": "links",
+      "type": "backlinks",
       "label": "Projects I created in this role",
       "style": "card",
-      "items": [
-        "/portfolio/projects/markten"
-      ]
+      "parentItem": "/portfolio/projects"
     },
     {
-      "type": "links",
+      "type": "backlinks",
       "label": "Related blog posts",
       "style": "card",
-      "items": [
-        "/blog/oop-orchestra"
-      ]
+      "parentItem": "/blog"
     }
   ],
   "children": [],

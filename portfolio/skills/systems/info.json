@@ -7,31 +7,16 @@
   "color": "#8C2100",
   "sections": [
     {
-      "type": "links",
-      "label": "Projects demonstrating this skill",
-      "style": "card",
-      "items": [
-        "/portfolio/projects/concussion",
-        "/portfolio/projects/flapi",
-        "/portfolio/projects/shuck"
-      ]
-    },
-    {
-      "type": "links",
-      "label": "Related frameworks",
-      "style": "chip",
-      "items": [
-        "/portfolio/frameworks/ncurses"
-      ]
-    },
-    {
-      "type": "links",
+      "type": "backlinks",
       "label": "Related languages",
       "style": "chip",
-      "items": [
-        "/portfolio/languages/c",
-        "/portfolio/languages/rust"
-      ]
+      "parentItem": "/portfolio/languages"
+    },
+    {
+      "type": "backlinks",
+      "label": "Projects demonstrating this skill",
+      "style": "card",
+      "parentItem": "/portfolio/projects"
     }
   ],
   "children": [],

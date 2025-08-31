@@ -13,13 +13,10 @@
   "color": "#18b400",
   "sections": [
     {
-      "type": "links",
+      "type": "backlinks",
       "label": "Large ensemble pieces",
       "style": "card",
-      "items": [
-        "/hdsq/nightfall",
-        "/hdsq/if-death-waltz-was-a-waltz"
-      ]
+      "parentItem": "/hdsq"
     }
   ],
   "children": [],

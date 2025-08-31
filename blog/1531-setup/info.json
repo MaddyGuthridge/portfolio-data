@@ -6,7 +6,16 @@
   "icon": null,
   "banner": null,
   "color": "#71eedf",
-  "sections": [],
+  "sections": [
+    {
+      "type": "links",
+      "label": "Related experience",
+      "style": "chip",
+      "items": [
+        "/portfolio/experience/unsw-tutoring"
+      ]
+    }
+  ],
   "children": [],
   "filters": [],
   "seo": {

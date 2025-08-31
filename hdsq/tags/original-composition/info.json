@@ -13,21 +13,10 @@
   "color": "#9141ac",
   "sections": [
     {
-      "type": "links",
-      "label": "Original compositions",
+      "type": "backlinks",
+      "label": "My original compositions",
       "style": "card",
-      "items": [
-        "/hdsq/kanon",
-        "/hdsq/nightfall",
-        "/hdsq/ouranos",
-        "/hdsq/tau",
-        "/hdsq/nightfall-black-midi",
-        "/hdsq/two-minutes-to-midnight",
-        "/hdsq/final-destiny",
-        "/hdsq/nyx",
-        "/hdsq/sunrise",
-        "/hdsq/tartarus"
-      ]
+      "parentItem": "/hdsq"
     }
   ],
   "children": [],

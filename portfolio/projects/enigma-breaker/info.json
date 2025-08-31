@@ -33,6 +33,14 @@
       ]
     },
     {
+      "type": "links",
+      "label": "Completed as a part of",
+      "style": "chip",
+      "items": [
+        "/portfolio/experience/bsc-cs"
+      ]
+    },
+    {
       "type": "repo",
       "label": null,
       "info": {
