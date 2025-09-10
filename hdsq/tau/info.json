@@ -21,6 +21,24 @@
     {
       "type": "site",
       "icon": "las la-file-audio",
+      "label": "Download the audio-only version",
+      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Tau/tau%20melody%20only.mid"
+    },
+    {
+      "type": "site",
+      "icon": "las la-file-audio",
+      "label": "Download Beta v2.3.0",
+      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Tau/tau2.3.zip"
+    },
+    {
+      "type": "site",
+      "icon": "las la-file-audio",
+      "label": "Download Beta v2.1.0",
+      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Tau/tau2.1.zip"
+    },
+    {
+      "type": "site",
+      "icon": "las la-file-audio",
       "label": "Download Beta v1.8.1",
       "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Tau/tau1.8.1.mid.7z"
     },
@@ -29,6 +47,12 @@
       "icon": "las la-file-audio",
       "label": "Download Beta v1.7.3",
       "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Tau/tau1.7.3.mid.7z"
+    },
+    {
+      "type": "site",
+      "icon": "las la-file-audio",
+      "label": "Download Beta v1.6.6",
+      "url": "https://raw.githubusercontent.com/MaddyGuthridge/HDSQ/refs/heads/main/Tau/tau1.6.6.zip"
     },
     {
       "type": "links",
