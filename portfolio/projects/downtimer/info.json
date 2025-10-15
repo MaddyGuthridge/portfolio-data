@@ -54,7 +54,8 @@
       "Downtimer",
       "setTimeout",
       "Timers",
-      "JavaScript"
+      "JavaScript",
+      "Timeout"
     ]
   }
 }
