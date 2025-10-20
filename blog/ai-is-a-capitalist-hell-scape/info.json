@@ -1,0 +1,33 @@
+{
+  "name": "AI is a capitalist hell-scape. What do we do now?",
+  "shortName": "AI is a capitalist hell-scape",
+  "author": null,
+  "description": "October 21st, 2025",
+  "timeCreated": 1760978310,
+  "timeEdited": 1760978310,
+  "readme": "README.md",
+  "article": true,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#ff8e32",
+  "sections": [],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": "Maddy Guthridge explores scientific and media perspectives on artificial intelligence, in order to develop her sense of ethics on AI.",
+    "keywords": [
+      "AI is a capitalist hell-scape. What do we do now?",
+      "Artificial Intelligence",
+      "Gen-AI",
+      "LLM",
+      "Kate Crawford",
+      "Achille Mbembé",
+      "Capitalism",
+      "Colonialism",
+      "Essay",
+      "Ethics",
+      "COMP4920"
+    ]
+  }
+}

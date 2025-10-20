@@ -1,0 +1,698 @@
+scramble:
+  type: article
+  title: An Economic Rationale for the West African Scramble? The Commercial Transition and the Commodity Price Boom of 1835-1885
+  author:
+    - Frankema, Ewout
+    - Williamson, Jeffrey
+    - Woltjer, Pieter
+  serial-number:
+    doi: "10.1017/S0022050718000128"
+  parent:
+    type: periodical
+    title: Journal of Economic History
+    publisher: Cambridge University Press
+    volume: 78
+    issue: 1
+    date: 2018-04-03
+
+berlin:
+  type: article
+  title: "The Centennial of the West African Conference of Berlin, 1884-1885"
+  author: Shepperson, George
+  date: 1985
+  serial-number:
+    doi: "10.2307/274944"
+  page-range: 37-48
+  parent:
+    type: periodical
+    publisher: Clark Atlanta University
+    title: Phylon
+    volume: 46
+    issue: 1
+
+suez:
+  type: web
+  title: "The Suez Crisis: Key maps"
+  url: "http://news.bbc.co.uk/2/hi/middle_east/5195068.stm"
+  publisher: BBC News
+  date: 2006-07-21
+
+rubber:
+  type: article
+  title: "History of the Congo Free State and its red rubber system"
+  url: "https://worldhistoryedu.com/history-of-the-congo-free-state-and-its-red-rubber-system/"
+  date: 2024-05-28
+  author:
+    - Afful, Maame Aba
+    - Osei, Enoch Kofi
+  publisher: World History Edu
+
+burden:
+  type: article
+  title: 'Kipling''s "The White Man''s Burden" and Its Afterlives'
+  date: 2007
+  page-range: 172-191
+  author: Brantlinger, Patrick
+  serial-number:
+    doi: 10.1353/elt.2007.0017
+  parent:
+    type: periodical
+    title: "English Literature in Transition, 1880-1920"
+    volume: 50
+    issue: 2
+    publisher: ELT Press
+
+postil:
+  type: article
+  title: "In Defense of German Colonialism"
+  author: Gilley, Bruce
+  publisher: The Postil Magazine
+  date: 2022-09-01
+  url: "https://www.thepostil.com/in-defense-of-german-colonialism/"
+
+planetary:
+  type: article
+  title: "Thoughts on the Planetary: An Interview with Achille Mbembé"
+  author:
+    - Mbembé, Achille
+    - Bangstad, Sindre
+    - Nilsen, Torbjørn Tumyr
+  organization: New Frame
+  location: Bergen, Norway
+  date: 2018-11-30
+  url: "https://web.archive.org/web/20230619153211/https://www.newframe.com/thoughts-on-the-planetary-an-interview-with-achille-mbembe/"
+
+atlas:
+  type: chapter
+  title: "Conclusion: Power"
+  author: Crawford, Kate
+  page-range: 211-227
+  parent:
+    type: book
+    title: "The Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence"
+    author: Crawford, Kate
+    date: 2021
+    publisher: Yale University Press
+    serial-number:
+      doi: 10.2307/j.ctv1ghv45t
+
+alphazero:
+  type: article
+  title: "How does AlphaZero Play Chess?"
+  date: 2017-12-21
+  author: O'Cinneide, Mel
+  url: https://www.chess.com/article/view/how-does-alphazero-play-chess
+  publisher: Chess.com
+
+gpt-params:
+  type: article
+  title: "Language Models are Few-Shot Learners"
+  date: 2020-07-22
+  page-range: 1877-1901
+  serial-number:
+    doi: 10.48550/arXiv.2005.14165
+  author:
+    - Brown, Tom B.
+    - Mann, Benjamin
+    - Ryder, Nick
+    - Subbiah, Melanie
+    - Kaplan, Jared
+    - Dhariwal, Prafulla
+    - Neelakantan, Arvind
+    - Shyam, Pranav
+    - Sastry, Girish
+    - Askell, Amanda
+    - Agarwal, Sandhini
+    - Herbert-Voss, Ariel
+    - Krueger, Gretchen
+    - Henighan, Tom
+    - Child, Rewon
+    - Ramesh, Aditya
+    - Ziegler, Daniel M.
+    - Wu, Jeffrey
+    - Winter, Clemens
+    - Hesse, Christopher
+    - Chen, Mark
+    - Sigler, Eric
+    - Litwin, Mateusz
+    - Gray, Scott
+    - Chess, Benjamin
+    - Clark, Jack
+    - Berner, Christopher
+    - McCandlish, Sam
+    - Radford, Alec
+    - Sutskever, Ilya
+    - Amodei, Dario
+  parent:
+    type: periodical
+    title: "Advances in Neural Information Processing Systems"
+    volume: 33
+
+scrape:
+  type: report
+  title: "Traversing the Ethical Landscape of Data Scraping for AI"
+  date: 2023-12-08
+  author:
+    - Jayachandran, Jayasankar
+    - Arni, Vijay
+  serial-number:
+    doi: 10.2139/ssrn.4666354
+
+newscorp:
+  type: article
+  title: OpenAI Strikes a Deal to License News Corp Content
+  date: 2024-05-22
+  author: Robertson, Katie
+  publisher: The New York Times
+  url: https://www.nytimes.com/2024/05/22/business/media/openai-news-corp-content-deal.html
+
+guardian-openai-deal:
+  type: report
+  title: "Guardian Media Group announces strategic partnership with OpenAI"
+  date: 2025-02-15
+  author: "Guardian Media Group"
+  url: "https://www.theguardian.com/gnm-press-office/2025/feb/14/guardian-media-group-announces-strategic-partnership-with-openai"
+
+copyright:
+  type: article
+  title: "How copyright law could threaten the AI industry in 2024"
+  date: 2024-01-03
+  author: Brittain, Blake
+  publisher: Reuters
+  url: "https://www.reuters.com/legal/litigation/how-copyright-law-could-threaten-ai-industry-2024-2024-01-02/"
+
+rsl:
+  type: article
+  title: "New RSL Web Standard and Collective Rights Organization Automate Content Licensing for the AI-First Internet and enable Fair Compensation for Millions of Publishers and Creators"
+  date: 2025-09-10
+  author: RSL Internet Collective
+  url: "https://rslstandard.org/press/rsl-standard"
+
+rsl-verge:
+  type: article
+  title: "The web has a new system for making AI companies pay up"
+  date: 2025-09-10
+  author: Roth, Emma
+  publisher: The Verge
+  url: "https://www.theverge.com/news/775072/rsl-standard-licensing-ai-publishing-reddit-yahoo-medium"
+
+implausible:
+  type: article
+  title: "Legendary Facebook Exec Scoffs, Says AI Could Never Be Profitable If Tech Companies Had to Ask for Artists’ Consent to Ingest Their Work"
+  date: 2025-05-27
+  author: Al-Sibai, Noor
+  publisher: Futurism
+  url: "https://futurism.com/nick-clegg-scoffs-ai-copyright"
+
+vermillio:
+  type: article
+  title: "The platform exposing exactly how much copyrighted art is used by AI tools"
+  date: 2025-10-18
+  author: Dan Milmo
+  publisher: The Guardian
+  url: "https://www.theguardian.com/technology/2025/oct/18/the-platform-exposing-exactly-how-much-copyrighted-art-is-used-by-ai-tools"
+
+opt-out:
+  type: post
+  title: "Thread on Meta's AI notification"
+  author: Tantacrul
+  date: 2024-05-27
+  url: https://www.threads.net/@tantacrul/post/C7eEavsNoVj
+
+supply:
+  type: article
+  title: "The supply chain capitalism of AI: a call to (re)think algorithmic harms and resistance through environmental lens"
+  author: Valdivia, Ana
+  date: 2024-10-30
+  page-range: 2118-2134
+  serial-number:
+    doi: "10.1080/1369118X.2024.2420021"
+  parent:
+    type: periodical
+    title: "Information, Communication & Society"
+    volume: 28
+    issue: 12
+
+cobalt:
+  type: article
+  title: Blood cobalt
+  author: Michael Davie
+  date: 2022-02-24
+  publisher: ABC News Australia
+  url: "https://www.abc.net.au/news/2022-02-24/cobalt-mining-in-the-congo-green-energy/100802588"
+
+data-center-energy:
+  type: report
+  title: "How data centers and the energy sector can sate AI's hunger for power"
+  author:
+    - Green, Alastair
+    - Tai, Humayun
+    - Noffsinger, Jesse
+    - Sachdeva, Pankaj
+  date: 2024-09-17
+  publisher: McKinsey
+  url: "https://www.mckinsey.com/industries/private-capital/our-insights/how-data-centers-and-the-energy-sector-can-sate-ais-hunger-for-power"
+
+sustainable:
+  type: article
+  title: "Sustainable AI: Environmental Implications, Challenges and Opportunities"
+  date: 2022
+  url: "https://proceedings.mlsys.org/paper_files/paper/2022/hash/462211f67c7d858f663355eff93b745e-Abstract.html"
+  author:
+    - Wu, Carole-Jean
+    - Raghavendra, Ramya
+    - Gupta, Udit
+    - Acun, Bilge
+    - Ardalani, Newsha
+    - Maeng, Kiwan
+    - Chang, Gloria
+    - Aga, Fiona
+    - Huang, Jinshi
+    - Bai, Charles
+    - Gschwind, Michael
+    - Gupta, Anurag
+    - Ott, Myle
+    - Melnikov, Anastasia
+    - Candido, Salvatore
+    - Brooks, David
+    - Chauhan, Geeta
+    - Lee, Benjamin
+    - Lee, Hsien-Hsin
+    - Akyildiz, Bugra
+    - Balandat, Maximilian
+    - Spisak, Joe
+    - Jain, Ravi
+    - Rabbat, Mike
+    - Hazelwood, Kim
+  parent:
+    type: proceedings
+    title: "Proceedings of Machine Learning and Systems 4 (MLSys 2022)"
+
+turk-wage:
+  type: article
+  title: "A Data-Driven Analysis of Workers' Earnings on Amazon Mechanical Turk"
+  date: 2018
+  publisher: Association for Computing Machinery
+  serial-number:
+    doi: "10.1145/3173574.3174023"
+  author:
+    - Hara, Kotaro
+    - Adams, Abigail
+    - Milland, Kristy
+    - Savage, Saiph
+    - Callison-Burch, Chris
+    - Bigham, Jeffrey P.
+  parent:
+    type: proceedings
+    title: "CHI '18: Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems"
+    serial-number:
+      isbn: 978-1-4503-5620-6
+
+turk-broken:
+  type: article
+  author: Semuels, Alana
+  title: "The Internet Is Enabling a New Kind of Poorly Paid Hell"
+  url: "https://www.theatlantic.com/business/archive/2018/01/amazon-mechanical-turk/551192/"
+  date: 2018-01-23
+  publisher: "The Atlantic"
+
+turk-analytica:
+  type: article
+  author: Herrman, John
+  title: "Cambridge Analytica and the Coming Data Bust"
+  date: 2018-04-10
+  publisher: "New York Times Magazine"
+  url: "https://www.nytimes.com/2018/04/10/magazine/cambridge-analytica-and-the-coming-data-bust.html"
+
+turk-sweatshop:
+  type: article
+  title: "Amazon's Mechanical Turk a Digital Sweatshop? Transparency and Accountability in Crowdsourced Online Research"
+  page-range: 260-262
+  date: 2016-10-14
+  author:
+    - Pittman, Matthew
+    - Sheehan, Kim
+  serial-number:
+    doi: 10.1080/23736992.2016.1228811
+  parent:
+    type: periodical
+    title: "Journal of Media Ethics"
+    volume: 31
+    issue: 4
+
+turk-flexible:
+  type: article
+  title: "Is it ethical to use Mechanical Turk for behavioral research? Relevant data from a representative survey of MTurk participants and wages"
+  page-range: 4048-4067
+  date: 2023-05-22
+  serial-number:
+    doi: 10.3758/s13428-022-02005-0
+  author:
+    - Moss, Aaron J.
+    - Rosenzweig, Cheskie
+    - Robinson, Jonathan
+    - Jaffe, Shalom N.
+    - Litman, Leib
+  parent:
+    type: periodical
+    title: Behaviour Research Methods
+    volume: 55
+
+turk-demographics:
+  type: article
+  title: Demographics of Mechanical Turk
+  date: 2010-10-03
+  author: Ipeirotis, Panos
+  url: "https://crowdsourcing-class.org/readings/downloads/platform/demographics-of-mturk.pdf"
+
+operational-emissions:
+  type: article
+  title: AI popularity leading to surge in emissions
+  date: 2025-06-10
+  author: Denham Sadler
+  publisher: Information Age
+  url: "https://ia.acs.org.au/article/2025/ai-popularity-leading-to-surge-in-emissions.html"
+
+ms-emissions:
+  type: article
+  title: "Microsoft’s 2030 Plan Revealed as Emissions Rise by 23.4%"
+  date: 2025-05-30
+  author: Darley, James
+  publisher: Sustainability Magazine
+  url: "https://sustainabilitymag.com/articles/microsofts-2030-plan-revealed-as-emissions-rise-by-23-4"
+
+three-mile-island:
+  type: article
+  title: "Why Microsoft made a deal to help restart Three Mile Island"
+  date: 2024-09-26
+  author: Crownhart, Casey
+  publisher: Technology Review
+  url: https://www.technologyreview.com/2024/09/26/1104516/three-mile-island-microsoft/
+
+mining-archaeology:
+  type: report
+  title: "Rio Tinto’s destruction of Juukan Gorge"
+  date: 2025-05-22
+  author: ANTAR
+  publisher: ANTAR
+  url: "https://www.antar.org.au/issues/cultural-heritage/the-destruction-of-juukan-gorge/"
+
+big-other:
+  type: article
+  title: "Big Other: Surveillance Capitalism and the Prospects of an Information Civilization"
+  date: 2015-03-01
+  author: Zuboff, Shoshana
+  page-range: 75-89
+  serial-number:
+    doi: 10.1057/jit.2015.5
+  parent:
+    type: periodical
+    title: Journal of Information Technology
+    volume: 30
+    issue: 1
+
+analytica-influence:
+  type: article
+  title: "Leaked: Cambridge Analytica's blueprint for Trump victory"
+  date: 2018-03-23
+  author:
+    - Lewis, Paul
+    - Hilder, Paul
+  url: "https://www.theguardian.com/uk-news/2018/mar/23/leaked-cambridge-analyticas-blueprint-for-trump-victory"
+  publisher: The Guardian UK
+
+ppa-dss:
+  type: article
+  title: A Decision Support System for predictive police patrolling
+  page-range: 25-37
+  date: 2015
+  author:
+    - M. Camacho-Collados
+    - F. Liberatore
+  serial-number:
+    doi: 10.1016/j.dss.2015.04.012
+  parent:
+    type: periodical
+    title: Decision Support Systems
+    volume: 75
+
+ppa-bias:
+  type: article
+  title: "Racism Repeats Itself: AI Racial Bias in Predictive Policing Algorithms"
+  author: Gallon, Alexia
+  date: 2023-11-01
+  url: "https://thinkyou.bayhonors.org/wp-content/uploads/BHS_Papers/2023_Symposium/AlexiaGallon_RacismRepeatsItself.pdf"
+  parent:
+    type: proceedings
+    title: Honors Research Symposium
+    publisher: Bay Honors Consortium
+
+recidivism:
+  type: article
+  title: "The accuracy, fairness, and limits of predicting recidivism"
+  date: 2017-01-17
+  serial-number:
+    doi: 10.1126/sciadv.aao5580
+  author:
+    - Dressel, Julia
+    - Farid, Hany
+  parent:
+    type: periodical
+    title: Science Advances
+    publisher: "American Association for the Advancement of Science"
+    volume: 4
+    issue: 1
+
+deepfakes:
+  type: article
+  title: "Limits and Possibilities for “Ethical AI” in Open Source: A Study of Deepfakes"
+  date: 2022-06-20
+  page-range: 2035-2046
+  serial-number:
+    doi: 10.1145/3531146.3533779
+  author:
+    - Widder, David Gray
+    - Nafus, Dawn
+    - Dabbish, Laura
+    - Herbsleb, James
+  parent:
+    type: proceedings
+    title: "FAccT: Fairness, Accountability, and Transparency"
+
+sora-2-release:
+  type: report
+  title: "Sora 2 is here"
+  date: 2025-09-30
+  publisher: OpenAI
+  url: "https://openai.com/index/sora-2/"
+
+mlk-deepfake:
+  type: article
+  title: "'Legacies condensed to AI slop': OpenAI Sora videos of the dead raise alarm with legal experts"
+  date: 2025-10-17
+  author: "Niamh Rowe"
+  publisher: The Guardian
+  url: https://www.theguardian.com/technology/2025/oct/17/openai-sora-ai-videos-deepfake
+
+carlin-deepfake:
+  type: post
+  author: "Kelly Carlin-McCall"
+  date: 2025-10-06
+  url: https://bsky.app/profile/kellycarlin.bsky.social/post/3m2impb6sos2n
+
+ishowspeed-deepfake:
+  type: article
+  title: "IShowSpeed Slams Sora 2 Deepfakes That Feature the Streamer Kissing Fans, Racing Animals, and Declare He Is Gay"
+  author: Yin-Poole, Wesley
+  date: 2025-10-20
+  publisher: IGN
+  url: "https://www.ign.com/articles/ishowspeed-slams-sora-2-deepfakes-that-feature-the-streamer-kissing-fans-racing-animals-and-declare-he-is-gay"
+
+sora-manipulate:
+  type: blog
+  title: "OpenAI’s New Sora 2 is Insanely Good at Manipulating People"
+  date: 2025-10-15
+  author: Thomas Smith
+  url: "https://medium.com/the-generator/openais-new-sora-2-is-insanely-good-at-manipulating-people-9d56d3114289"
+
+scanners:
+  type: article
+  title: "Body scanners versus privacy and data protection"
+  date: 2011
+  page-range: 232-244
+  author: "Mironenko, Olga"
+  serial-number:
+    doi: 10.1016/j.clsr.2011.03.006
+  parent:
+    type: periodical
+    title: "Computer Law & Security Review"
+    volume: 27
+    issue: 3
+
+thorn:
+  type: video
+  title: "AI is an Ethical Nightmare"
+  date: 2023-10-14
+  time-range: 11:38-14:20
+  author: Abigail Thorn
+  url: https://youtu.be/AaU6tI2pb3M?t=698
+
+scanners-violated:
+  type: article
+  title: "Jade felt 'extremely violated' after passing through a new body scanner at airport security. This is why"
+  date: 2022-06-19
+  author:
+    - Tamer, Rayane
+    - Bahr, Jessica
+  publisher: SBS News
+  url: "https://www.sbs.com.au/news/article/jade-felt-extremely-violated-after-passing-through-a-new-body-scanner-at-airport-security-this-is-why/9zzky0gth"
+
+creative:
+  type: article
+  title: "Generative AI and Creative Work: Narratives, Values, and Impacts"
+  date: 2025-02-06
+  author:
+    - Caramiaux, Baptiste
+    - Crawford, Kate
+    - Liao, Q. Vera
+    - Ramos, Gonzalo
+    - Williams, Jenny
+  serial-number:
+    doi: 10.48550/arXiv.2502.03940
+
+eagle-eye:
+  type: article
+  title: "Palmer Luckey and Mark Zuckerberg Are Putting Cat Ears on the US Military"
+  author: "AJ Dellinger"
+  date: 2025-10-14
+  publisher: Gizmodo
+  url: "https://gizmodo.com/palmer-luckey-and-mark-zuckerberg-are-putting-cat-ears-on-the-us-military-2000672116"
+
+hype:
+  type: article
+  title: "The consequences of AI hype"
+  date: 2023-10-04
+  author: LaGrandeur, Kevin
+  page-range: 653-656
+  serial-number:
+    doi: 10.1007/s43681-023-00352-y
+  parent:
+    type: periodical
+    title: AI Ethics
+    date: 2024
+    volume: 4
+
+musk-destruction:
+  type: article
+  title: "Elon Musk's appetite for destruction"
+  date: 2023-01-17
+  author: Cox, Christopher
+  publisher: New York Times Magazine
+  url: "https://www.nytimes.com/2023/01/17/magazine/tesla-autopilot-self-driving-elon-musk.html"
+
+self-driving-safety:
+  type: article
+  title: "Self-driving cars 'generally' safer but more at risk of accidents at dusk and dawn, US researchers find"
+  author: Morris-Grant, Brianna
+  date: 2024-06-19
+  publisher: "ABC News Australia"
+  url: "https://www.abc.net.au/news/2024-06-19/self-driving-cars-report/103992024"
+
+accelerate:
+  type: article
+  title: "'Accelerate or die,' the controversial ideology that proposes the unlimited advance of artificial intelligence"
+  date: 2024-01-06
+  author: Soufi, Daniel
+  url: "https://english.elpais.com/technology/2024-01-06/accelerate-or-die-the-controversial-ideology-that-proposes-the-unlimited-advance-of-artificial-intelligence.html"
+  publisher: El País
+
+microsoft-ai:
+  type: reference
+  title: "Microsoft Responsible AI Standard, v2"
+  date: 2022
+  publisher: Microsoft
+  url: "https://www.microsoft.com/en-us/ai/principles-and-approach/"
+
+me:
+  type: blog
+  title: "AI decision-making can be ethical, but is that enough?"
+  date: 2025-04-18
+  author: Guthridge, Maddy
+  url: "https://maddyguthridge.com/blog/ai-can-be-ethical"
+
+most-of-us:
+  type: article
+  title: "A world without most of us: Achille Mbembe's Critique of Black Reason and the politics of postcolonial critique"
+  date: 2025-08-01
+  author: Wright, Michelle M
+  serial-number:
+    doi: 10.1177/09213740251363760
+
+perplexity:
+  type: blog
+  title: "Perplexity is using stealth, undeclared crawlers to evade website no-crawl directives"
+  date: 2025-08-04
+  author:
+    - Corral, Gabrel
+    - Singhal, Vaibhav
+    - Mitchell, Brian
+    - Tatoris, Reid
+  publisher: Cloudflare
+  url: "https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/"
+
+iliad:
+  type: article
+  title: Amazon named its “labyrinthine” Prime cancellation process after Homer’s Iliad
+  date: 2023-06-22
+  author: Brodkin, Jon
+  publisher: Ars Technica
+  url: "https://arstechnica.com/tech-policy/2023/06/ftc-sues-amazon-over-4-page-6-click-15-option-prime-cancellation-process/"
+
+glaze-gpt:
+  type: article
+  title: "New ChatGPT 'glazes too much,' says Sam Altman"
+  date: 2025-04-29
+  author: Gaby Del Valle
+  publisher: The Verge
+  url: "https://www.theverge.com/tech/657409/chat-gpt-sycophantic-responses-gpt-4o-sam-altman"
+
+ai-psychosis:
+  type: video
+  title: "What OpenAI Doesn't Want You To Know About AI Psychosis"
+  date: 2025-10-15
+  author: Hao, Karen
+  publisher: "More Perfect Union"
+  url: "https://youtu.be/zkGk_A4noxI"
+
+4o-re-released:
+  type: article
+  title: "So many ChatGPT users have said they're missing the older GPT-4o model, OpenAI is going to bring it back"
+  date: 2025-08-09
+  author: Nield, David
+  publisher: Tech Radar
+  url: "https://www.techradar.com/ai-platforms-assistants/chatgpt/so-many-chatgpt-users-have-said-theyre-missing-the-older-gpt-4o-model-openai-is-going-to-bring-it-back"
+
+receptivity:
+  type: article
+  title: "Lower Artificial Intelligence Literacy Predicts Greater AI Receptivity"
+  date: 2025-01-13
+  author:
+    - Tully, Stephanie M.
+    - Longoni, Chiara
+    - Appel, Gil
+  page-range: 1-20
+  serial-number:
+    doi: 10.1177/00222429251314491
+  parent:
+    type: periodical
+    title: Journal of Marketing
+    date: 2025
+    volume: 89
+    issue: 5
+
+brainmade:
+  type: web
+  title: "The Brainmade Mark"
+  author: Tristam Oaten
+  date: 2024-07-13
+  url: "https://brainmade.org/"
