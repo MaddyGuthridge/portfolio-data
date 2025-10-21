@@ -199,7 +199,7 @@ Because of the enormous compute capacity required by AI data centres,
 the resource consumption of AI models is immense, with data centres
 requiring both electricity and enormous amounts of water to cool the
 systems. In the rural and indigenous community of Maconí, Mexico, water
-has become scarce due to 50 million m^3^ of water from their natural
+has become scarce due to 50 million m<sup>3</sup> of water from their natural
 springs being redirected to data centres in Querétaro annually
  ([Valdivia, 2024](#supply)). Additionally, in the USA, the electrical demands of AI
 data-centres are projected to increase far beyond the current production
@@ -468,7 +468,7 @@ OpenAI's GPT-4o as "Glaze GPT" ([Gaby Del Valle, 2025](#glaze-gpt)). This manipu
 obsequious behaviour has reportedly led many users towards psychotic
 episodes, self harm, and has even pushed some users towards taking their
 own life ([Hao, 2025](#ai-psychosis)). When OpenAI released the
-less-extravagantly-minded GPT-5 model and disabled the GPT-40, there was
+less-extravagantly-minded GPT-5 model and disabled the GPT-4o, there was
 significant outcry from users who had become attached to the older
 model's personality, leading to OpenAI re-releasing it ([Nield, 2025](#4o-re-released))
 despite their knowledge of its sycophantic tendencies, for a small
@@ -587,7 +587,7 @@ AJ Dellinger (2025) "Palmer Luckey and Mark Zuckerberg Are Putting Cat Ears on t
 Al-Sibai, N. (2025) "Legendary Facebook Exec Scoffs, Says AI Could Never Be Profitable If Tech
 Companies Had to Ask for Artists’ Consent to Ingest Their Work." Futurism. Available at: <https://futurism.com/nick-clegg-scoffs-ai-copyright>.
 
-### {#mining-achaeology}
+### {#mining-archaeology}
 
 ANTAR (2025) *Rio Tinto’s destruction of Juukan Gorge*. ANTAR. Available at: <https://www.antar.org.au/issues/cultural-heritage/the-destruction-of-juukan-gorge/>.
 
