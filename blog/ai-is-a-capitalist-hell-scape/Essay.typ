@@ -475,7 +475,7 @@ where they become sycophantic, with some memes referring to OpenAI's GPT-4o as
 "Glaze GPT" @glaze-gpt. This manipulative, obsequious behaviour has reportedly
 led many users towards psychotic episodes, self harm, and has even pushed some
 users towards taking their own life @ai-psychosis. When OpenAI released the
-less-extravagantly-minded GPT-5 model and disabled the GPT-40, there was
+less-extravagantly-minded GPT-5 model and disabled the GPT-4o, there was
 significant outcry from users who had become attached to the older model's
 personality, leading to OpenAI re-releasing it @4o-re-released despite their
 knowledge of its sycophantic tendencies, for a small subscription fee, of
