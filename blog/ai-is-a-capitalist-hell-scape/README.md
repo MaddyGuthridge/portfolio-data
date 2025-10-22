@@ -57,13 +57,13 @@ parallels he identifies are clear: data is harvested from our
 interactions like crops from a plantation, sent across the world like
 goods through canals, then aggregated and processed by data brokers, so
 as to be sold to anyone who desires it. "This", he claims, "is what
-colonisation in the 21^st^ century is all about. It is about extraction,
+colonisation in the 21<sup>st</sup> century is all about. It is about extraction,
 capture, the cult of data".
 
 Through Mbembé's work, we can identify three salient features of
 colonialism which we can use to identify its modern-day reincarnations.
 
-1.  Colonialism is inherently capitalistic in its nature, with colonies
+1.  Colonialism is often capitalistic in its nature, with colonies
     established to efficiently siphon the natural resources of conquered
     land for economic gain.
 

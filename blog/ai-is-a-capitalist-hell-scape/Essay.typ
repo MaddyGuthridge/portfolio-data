@@ -88,7 +88,7 @@ extraction, capture, the cult of data".
 Through Mbembé's work, we can identify three salient features of colonialism
 which we can use to identify its modern-day reincarnations.
 
-+ Colonialism is inherently capitalistic in its nature, with colonies
++ Colonialism is often capitalistic in its nature, with colonies
   established to efficiently siphon the natural resources of conquered land for
   economic gain.
 + The processes of extracting these resources and exporting them often involves
