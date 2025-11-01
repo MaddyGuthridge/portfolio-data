@@ -57,13 +57,13 @@ parallels he identifies are clear: data is harvested from our
 interactions like crops from a plantation, sent across the world like
 goods through canals, then aggregated and processed by data brokers, so
 as to be sold to anyone who desires it. "This", he claims, "is what
-colonisation in the 21<sup>st</sup> century is all about. It is about extraction,
+colonisation in the 21^st^ century is all about. It is about extraction,
 capture, the cult of data".
 
 Through Mbembé's work, we can identify three salient features of
 colonialism which we can use to identify its modern-day reincarnations.
 
-1.  Colonialism is often capitalistic in its nature, with colonies
+1.  Colonialism is inherently capitalistic in its nature, with colonies
     established to efficiently siphon the natural resources of conquered
     land for economic gain.
 
@@ -199,7 +199,7 @@ Because of the enormous compute capacity required by AI data centres,
 the resource consumption of AI models is immense, with data centres
 requiring both electricity and enormous amounts of water to cool the
 systems. In the rural and indigenous community of Maconí, Mexico, water
-has become scarce due to 50 million m<sup>3</sup> of water from their natural
+has become scarce due to 50 million m^3^ of water from their natural
 springs being redirected to data centres in Querétaro annually
  ([Valdivia, 2024](#supply)). Additionally, in the USA, the electrical demands of AI
 data-centres are projected to increase far beyond the current production
@@ -468,9 +468,9 @@ OpenAI's GPT-4o as "Glaze GPT" ([Gaby Del Valle, 2025](#glaze-gpt)). This manipu
 obsequious behaviour has reportedly led many users towards psychotic
 episodes, self harm, and has even pushed some users towards taking their
 own life ([Hao, 2025](#ai-psychosis)). When OpenAI released the
-less-extravagantly-minded GPT-5 model and disabled the GPT-4o, there was
+less-extravagantly-minded GPT-5 model and disabled the GPT-40, there was
 significant outcry from users who had become attached to the older
-model's personality, leading to OpenAI re-releasing it ([Nield, 2025](#4o-re-released))
+model's personality, leading to OpenAI re-releasing it ([Nield, 2025](#gpt-4o-re-released))
 despite their knowledge of its sycophantic tendencies, for a small
 subscription fee, of course. As [Hao](#ai-psychosis) puts it, while efforts
 to reduce the psychological impact of AIs on their users "are sincere,
@@ -503,7 +503,7 @@ where it may actually be helpful leaves a bad taste in my mouth.
 
 There are many people who have more reasonable opinions than me. Creator
 of The Brainmade Mark and self-described "professional amateur
-developer", [Tristam Oaten](#brainmade) stated eloquently "I don't hate AIs, I love
+developer", [Tristram Oaten](#brainmade) stated eloquently "I don't hate AIs, I love
 Humans". I admire his ability to see the utility of these tools when
 used sparingly. Not me. I have become a hater. The more I learn about
 AI, the more I loathe it. I'd like to think that I was always a socially
@@ -754,7 +754,7 @@ a representative survey of MTurk participants and wages,” *Behaviour Research 
 Niamh Rowe (2025) “'Legacies condensed to AI slop': OpenAI Sora videos of the dead raise alarm
 with legal experts.” The Guardian. Available at: <https://www.theguardian.com/technology/2025/oct/17/openai-sora-ai-videos-deepfake>.
 
-### {#4o-re-released}
+### {#gpt-4o-re-released}
 
 Nield, D. (2025) “So many ChatGPT users have said they're missing the older GPT-4o model,
 OpenAI is going to bring it back.” Tech Radar. Available at: <https://www.techradar.com/ai-platforms-assistants/chatgpt/so-many-chatgpt-users-have-said-theyre-missing-the-older-gpt-4o-model-openai-is-going-to-bring-it-back>.
@@ -824,7 +824,7 @@ at: <https://medium.com/the-generator/openais-new-sora-2-is-insanely-good-at-man
 
 ### {#brainmade}
 
-Tristam Oaten (2024) *The Brainmade Mark*. Available at: <https://brainmade.org/>.
+Trisrtam Oaten (2024) *The Brainmade Mark*. Available at: <https://brainmade.org/>.
 
 ### {#receptivity}
 

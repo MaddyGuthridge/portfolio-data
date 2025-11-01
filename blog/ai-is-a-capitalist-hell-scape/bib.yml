@@ -664,7 +664,7 @@ ai-psychosis:
   publisher: "More Perfect Union"
   url: "https://youtu.be/zkGk_A4noxI"
 
-4o-re-released:
+gpt-4o-re-released:
   type: article
   title: "So many ChatGPT users have said they're missing the older GPT-4o model, OpenAI is going to bring it back"
   date: 2025-08-09
@@ -693,6 +693,6 @@ receptivity:
 brainmade:
   type: web
   title: "The Brainmade Mark"
-  author: Tristam Oaten
+  author: Tristram Oaten
   date: 2024-07-13
   url: "https://brainmade.org/"
