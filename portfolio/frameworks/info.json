@@ -9,6 +9,8 @@
   "children": [
     "sveltekit",
     "pytest",
+    "bun",
+    "docker",
     "midi-controller-scripting",
     "mypy",
     "react",
@@ -16,8 +18,7 @@
     "next",
     "jest",
     "flask",
-    "express",
-    "docker"
+    "express"
   ],
   "filters": [
     "/portfolio/languages"

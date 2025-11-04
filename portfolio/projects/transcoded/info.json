@@ -17,8 +17,52 @@
       "label": "Languages",
       "style": "chip",
       "items": [
-        "/portfolio/languages/typescript"
+        "/portfolio/languages/typescript",
+        "/portfolio/languages/html",
+        "/portfolio/languages/javascript"
       ]
+    },
+    {
+      "type": "links",
+      "label": "Frameworks",
+      "style": "chip",
+      "items": [
+        "/portfolio/frameworks/sveltekit",
+        "/portfolio/frameworks/docker",
+        "/portfolio/frameworks/bun"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/portfolio/skills/full-stack"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Development status",
+      "style": "chip",
+      "items": [
+        "/portfolio/status/in-progress"
+      ]
+    },
+    {
+      "type": "repo",
+      "label": null,
+      "info": {
+        "provider": "github",
+        "path": "MaddyGuthridge/transcoded"
+      }
+    },
+    {
+      "type": "package",
+      "label": null,
+      "info": {
+        "provider": "docker",
+        "id": "maddyguthridge/transcoded"
+      }
     }
   ],
   "children": [],

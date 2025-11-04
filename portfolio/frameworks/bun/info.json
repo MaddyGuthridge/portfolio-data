@@ -1,0 +1,30 @@
+{
+  "name": "Bun",
+  "shortName": null,
+  "author": null,
+  "description": "Bun is a fast runtime for JavaScript",
+  "timeCreated": 1762250683,
+  "timeEdited": 1762250683,
+  "readme": "README.md",
+  "article": false,
+  "feed": null,
+  "icon": "Bun Logo.svg",
+  "banner": null,
+  "color": "#fbf0df",
+  "sections": [
+    {
+      "type": "backlinks",
+      "label": "Projects that use Bun",
+      "style": "card",
+      "parentItem": "/portfolio/projects"
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Bun"
+    ]
+  }
+}

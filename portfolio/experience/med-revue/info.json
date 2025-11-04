@@ -5,7 +5,14 @@
   "icon": "med-revue.jpg",
   "banner": "banner.png",
   "color": "#ed333b",
-  "sections": [],
+  "sections": [
+    {
+      "type": "site",
+      "icon": "lab la-youtube",
+      "label": "Watch the performance",
+      "url": "https://youtu.be/_fT3BnuhQW8?t=5510"
+    }
+  ],
   "children": [],
   "filters": [],
   "seo": {
