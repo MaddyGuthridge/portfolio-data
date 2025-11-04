@@ -1,0 +1,32 @@
+{
+  "name": "Transcoded",
+  "shortName": null,
+  "author": null,
+  "description": "A Handbrake queue server for encoding digital media libraries",
+  "timeCreated": 1762226193,
+  "timeEdited": 1762226193,
+  "readme": "README.md",
+  "article": false,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#0099ff",
+  "sections": [
+    {
+      "type": "links",
+      "label": "Languages",
+      "style": "chip",
+      "items": [
+        "/portfolio/languages/typescript"
+      ]
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Transcoded"
+    ]
+  }
+}
