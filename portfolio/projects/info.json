@@ -16,6 +16,7 @@
     "ensemble-forum",
     "downtimer",
     "universal-controller-script",
+    "transcoded",
     "enigma-breaker",
     "jestspectation",
     "fl-studio-api-stubs",
@@ -27,8 +28,7 @@
     "concussion",
     "aoc",
     "waydriver",
-    "chess-ai",
-    "transcoded"
+    "chess-ai"
   ],
   "filters": [
     "/portfolio/languages",
