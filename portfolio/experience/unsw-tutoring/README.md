@@ -23,3 +23,9 @@ Here are some of the comments I have received in UNSW's MyExperience feedback su
 
 > Very enthusiastic tutor who could communicate ideas without just giving answers.
 
+> Genuinely the most passionate and caring tutor I've ever had
+. [Maddy] goes above and beyond in their teaching and is easy to follow.
+
+> Whereas sometimes tutors aren't that useful or can't articulate the skills and knowledge they have,
+Maddy was great at explaining issues or benefits of our implementations or examples.
+
