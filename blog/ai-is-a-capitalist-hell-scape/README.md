@@ -468,7 +468,7 @@ OpenAI's GPT-4o as "Glaze GPT" ([Gaby Del Valle, 2025](#glaze-gpt)). This manipu
 obsequious behaviour has reportedly led many users towards psychotic
 episodes, self harm, and has even pushed some users towards taking their
 own life ([Hao, 2025](#ai-psychosis)). When OpenAI released the
-less-extravagantly-minded GPT-5 model and disabled the GPT-40, there was
+less-extravagantly-minded GPT-5 model and disabled GPT-4o, there was
 significant outcry from users who had become attached to the older
 model's personality, leading to OpenAI re-releasing it ([Nield, 2025](#gpt-4o-re-released))
 despite their knowledge of its sycophantic tendencies, for a small

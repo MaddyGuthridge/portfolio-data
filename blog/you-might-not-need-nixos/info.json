@@ -1,0 +1,38 @@
+{
+  "name": "You Might Not Need NixOS",
+  "shortName": null,
+  "author": null,
+  "description": "December 20th, 2025",
+  "timeCreated": 1766153938,
+  "timeEdited": 1766153938,
+  "readme": "README.md",
+  "article": false,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#2f5dff",
+  "sections": [
+    {
+      "type": "repo",
+      "label": "View the code and slides",
+      "info": {
+        "provider": "github",
+        "path": "MaddyGuthridge/you-might-not-need-nixos"
+      }
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": "NixOS is an extremely-hyped Linux distribution. As with most extremely-hyped things, you probably don't need it. Or do you? In this talk, Maddy Guthridge explores her experience with NixOS and its alternatives to determine whether you actually need it.",
+    "keywords": [
+      "You Might Not Need NixOS",
+      "NixOS",
+      "UNSW Linux Society",
+      "LNSC",
+      "Live at Linsoc",
+      "LIVE@LNSC",
+      "Linux"
+    ]
+  }
+}
