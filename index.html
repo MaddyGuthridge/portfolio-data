@@ -102,6 +102,15 @@
         -webkit-background-clip: text;
         font-weight: bolder;
       }
+      /* Hide link underline */
+      @media not (prefers-contrast) {
+        & a {
+          text-decoration: none;
+        }
+        & a:hover {
+          text-decoration: underline;
+        }
+      }
     }
   </style>
 
