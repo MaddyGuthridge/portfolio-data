@@ -2,13 +2,15 @@
 
 ***September 2021 - Present***
 
-I have tutored a wide variety of software engineering courses at UNSW.
+As a tutor at UNSW, I have taught almost 1000 students across 46 classes; helping thousands more through class forum work and one-on-one help sessions.
+
+<!-- As of 26T1 -->
 
 | Course | Description | Experience |
 | ------ | ----------- | ---------- |
-| [COMP1531](https://handbook.unsw.edu.au/undergraduate/courses/current/comp1531) | Software Engineering Fundamentals | 13 terms |
-| [COMP1010](https://handbook.unsw.edu.au/undergraduate/courses/current/comp1010) | The Art of Computing | 5 terms |
-| [COMP2511](https://handbook.unsw.edu.au/undergraduate/courses/current/comp2511) | Software Design and Architecture | 4 terms |
+| [COMP1531](https://handbook.unsw.edu.au/undergraduate/courses/current/comp1531) | Software Engineering Fundamentals | 14 terms |
+| [COMP1010](https://handbook.unsw.edu.au/undergraduate/courses/current/comp1010) | The Art of Computing | 6 terms |
+| [COMP2511](https://handbook.unsw.edu.au/undergraduate/courses/current/comp2511) | Software Design and Architecture | 5 terms |
 | [COMP2521](https://handbook.unsw.edu.au/undergraduate/courses/current/comp2521) | Data Structures and Algorithms | 2 terms |
 
 In all of the courses I teach, I have established a stellar reputation as someone who demonstrates great care and enthusiasm, both for the courses, and for my students. I am the kind of tutor who is willing to go above and beyond for my students. For example, I maintain a [personal project template](https://github.com/MaddyGuthridge/1531-template) for students to use after completing COMP1531. 
