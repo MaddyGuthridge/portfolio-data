@@ -11,7 +11,18 @@
   "icon": null,
   "banner": null,
   "color": "#f6d32d",
-  "sections": [],
+  "sections": [
+    {
+      "type": "links",
+      "label": "Tags",
+      "style": "chip",
+      "items": [
+        "/portfolio/experience/unsw-tutoring",
+        "/portfolio/languages/javascript",
+        "/portfolio/skills/full-stack"
+      ]
+    }
+  ],
   "children": [],
   "filters": [],
   "seo": {
