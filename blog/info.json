@@ -21,6 +21,7 @@
     }
   ],
   "children": [
+    "js-ecosystem-from-the-ground-up",
     "you-might-not-need-nixos",
     "ai-is-a-capitalist-hell-scape",
     "oop-orchestra",
