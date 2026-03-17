@@ -44,6 +44,14 @@
         "/portfolio/languages/typescript",
         "/portfolio/languages/javascript"
       ]
+    },
+    {
+      "type": "links",
+      "label": "Skills",
+      "style": "chip",
+      "items": [
+        "/portfolio/skills/packages"
+      ]
     }
   ],
   "children": [],
