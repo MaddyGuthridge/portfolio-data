@@ -861,3 +861,7 @@ Zuboff, S. (2015) “Big Other: Surveillance Capitalism and the Prospects of an 
 ### {#microsoft-ai}
 
 “Microsoft Responsible AI Standard, v2” (2022). Microsoft. Available at: <https://www.microsoft.com/en-us/ai/principles-and-approach/>.
+
+---
+
+Copyright 2025 Maddy Guthridge. All rights reserved.

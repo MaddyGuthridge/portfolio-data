@@ -195,3 +195,7 @@ Happy hacking!
 <br>
 Maddy
 
+---
+
+Copyright 2023 Maddy Guthridge. All rights reserved.
+

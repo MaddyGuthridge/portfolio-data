@@ -61,3 +61,7 @@ Wow! That's a lot to wrap your head around. From engines to meta-frameworks, Jav
 
 See you next time!
 Maddy
+
+---
+
+Copyright 2026 Maddy Guthridge. All rights reserved.

@@ -10,3 +10,7 @@ What did I discover? How does NixOS compare? Did it turn out that I was wrong an
 
 This is a re-recording of a talk I gave for the UNSW Linux society I gave on November 23rd. Unfortunately, the original recording had poor audio quality, and so I re-recorded it myself. Sorry about the audio desync issues.
 
+---
+
+Copyright 2025 Maddy Guthridge. All rights reserved.
+

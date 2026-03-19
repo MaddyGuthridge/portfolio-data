@@ -131,3 +131,6 @@ Thanks for reading!
 <br>
 Maddy
 
+---
+
+Copyright 2025 Maddy Guthridge. All rights reserved.

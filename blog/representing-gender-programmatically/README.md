@@ -142,3 +142,7 @@ Until next time,
 <br>
 Miguel (they/them?)
 
+---
+
+Copyright 2023 Maddy Guthridge. All rights reserved.
+

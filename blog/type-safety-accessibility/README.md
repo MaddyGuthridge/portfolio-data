@@ -62,3 +62,6 @@ See you next time!
 <br>
 Maddy
 
+---
+
+Copyright 2025 Maddy Guthridge. All rights reserved.
