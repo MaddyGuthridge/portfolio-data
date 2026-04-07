@@ -13,7 +13,9 @@ As a tutor at UNSW, I have taught almost 1000 students across 46 classes; helpin
 | [COMP2511](https://handbook.unsw.edu.au/undergraduate/courses/current/comp2511) | Software Design and Architecture | 5 terms |
 | [COMP2521](https://handbook.unsw.edu.au/undergraduate/courses/current/comp2521) | Data Structures and Algorithms | 2 terms |
 
-In all of the courses I teach, I have established a stellar reputation as someone who demonstrates great care and enthusiasm, both for the courses, and for my students. I am the kind of tutor who is willing to go above and beyond for my students. For example, I maintain a [personal project template](https://github.com/MaddyGuthridge/1531-template) for students to use after completing COMP1531. 
+In all of the courses I teach, I have established a stellar reputation as someone who demonstrates great care and enthusiasm, both for the courses, and for my students. I am the kind of tutor who is willing to go above and beyond for my students. For example, I maintain a [personal project template](https://github.com/MaddyGuthridge/1531-template) for students to use after completing COMP1531.
+
+As well as showing great care for students' learning, I have also demonstrated dedication to course and student safety, pioneering improved security practices to reduce the risks of students and staff falling victim to supply-chain attacks.
 
 I pride myself on my ability to explain complex topics in an approachable manner, with engaging examples and a clear passion for the content I teach. I have consistently achieved a student satisfaction rate exceeding 90% for every term of every course I’ve taught.
 
