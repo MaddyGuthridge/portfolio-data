@@ -43,7 +43,7 @@
       "label": "Status",
       "style": "chip",
       "items": [
-        "/portfolio/status/in-progress"
+        "/portfolio/status/incomplete"
       ]
     },
     {
