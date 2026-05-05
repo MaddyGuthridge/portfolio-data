@@ -7,10 +7,10 @@
   "color": "#47F584",
   "sections": [],
   "children": [
-    "incomplete",
-    "in-progress",
     "complete",
-    "active"
+    "active",
+    "in-progress",
+    "incomplete"
   ],
   "filters": [
     "/portfolio/frameworks",
