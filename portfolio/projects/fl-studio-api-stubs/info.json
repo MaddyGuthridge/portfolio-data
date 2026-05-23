@@ -55,14 +55,14 @@
       "label": null,
       "info": {
         "provider": "github",
-        "path": "IL-Group/FL-Studio-API-Stubs"
+        "path": "MaddyGuthridge/FL-Studio-API-Stubs"
       }
     },
     {
       "type": "site",
       "icon": "lab la-readme",
       "label": "View the documentation",
-      "url": "https://il-group.github.io/FL-Studio-API-Stubs/"
+      "url": "https://maddyguthridge.github.io/FL-Studio-API-Stubs/"
     },
     {
       "type": "package",
