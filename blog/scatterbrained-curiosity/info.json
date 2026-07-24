@@ -1,0 +1,28 @@
+{
+  "name": "Scatterbrained curiosity killed the RCE",
+  "shortName": null,
+  "author": null,
+  "description": "July 6th, 2026",
+  "timeCreated": 1783262705,
+  "timeEdited": 1783262705,
+  "readme": "README.md",
+  "article": true,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#cc3755",
+  "sections": [],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": "Just over a week ago, I stumbled across a remote code execution vulnerability. This happened because I got sidetracked, and then sidetracked again. I've often considered my distractability to be a major flaw, but with this discovery, my perception of this has changed dramatically.",
+    "keywords": [
+      "Scatterbrained curiosity killed the RCE",
+      "sync-rpc",
+      "sync-request",
+      "sync-rce",
+      "GHSA-2x86-cf3f-86gw",
+      "CVE-2026-65843"
+    ]
+  }
+}
