@@ -1,5 +1,5 @@
 # MarkTen
 
-MarkTen is automation tool, which I created to mark students' work with ease.
+MarkTen is automation scripting framework, aimed to improve efficiency while marking assignments. It automates the tedious aspects of marking software projects, including `git clone`ing work, running code compilation, and configuring feedback snippets in text editors.
 
-I developed this as a part of my work for UNSW's COMP1010 course. It is used by tutors of that course, as well as in other courses to automate the tedious parts of marking students' work, such as `git clone`ing it, compiling it, or executing a web server.
+I use it across all courses I tutor in order to give large quantities high-quality feedback on assignments, especially when marking time is limited.

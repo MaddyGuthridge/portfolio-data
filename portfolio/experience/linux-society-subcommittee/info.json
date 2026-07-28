@@ -1,0 +1,23 @@
+{
+  "name": "Linux Society Subcommittee",
+  "shortName": null,
+  "author": null,
+  "description": "June 2026 - Present",
+  "timeCreated": 1784905326,
+  "timeEdited": 1784905326,
+  "readme": "README.md",
+  "article": false,
+  "feed": null,
+  "icon": "linuxunsw-pride-dark.png",
+  "banner": null,
+  "color": "#ffe700",
+  "sections": [],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Linux Society Subcommittee"
+    ]
+  }
+}

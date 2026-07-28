@@ -12,6 +12,10 @@ musicians and artists, as well as (at the time) over 400 supporters in the
 You can download all of the releases of this project from its GitHub
 [releases page](https://github.com/TheConvergenceProject/Unify/releases).
 
+## License
+
+The project uses [a custom license](https://github.com/TheConvergenceProject/Unify/blob/main/LICENSE.md). Please read it for details.
+
 ## Statistics
 
 The final update, released on February 19th 2021, has the following statistics:
