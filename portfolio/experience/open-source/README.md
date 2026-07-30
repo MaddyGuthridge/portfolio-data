@@ -2,6 +2,10 @@
 
 I am a firm believer in the benefits of open-source software, and am proud to be a member of the open-source community. While I mostly develop my own projects, I have made numerous contributions to other open-source projects, from improving documentation, fixing bugs and adding features.
 
+## [CVE-2026-65843](https://github.com/ForbesLindesay/sync-rpc/security/advisories/GHSA-2x86-cf3f-86gw)
+
+I discovered and responsibly disclosed a critical-severity remote code execution vulnerability in the `sync-rpc` JavaScript library. A proof-of-concept exploit can be found [on GitHub](https://github.com/MaddyGuthridge/sync-rce), and a blog post I wrote on the discovery process can be found [here](/blog/scatterbrained-curiosity).
+
 ## NixOS Hardware ([CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/))
 
 [NixOS hardware](https://github.com/NixOS/nixos-hardware) is a collection of hardware configurations for various devices. Applying these kinds of patches on other Linux systems requires lots of niche knowledge of device-specific software and driver requirements. I [contributed](https://github.com/NixOS/nixos-hardware/pull/1761) settings to configure and enable the fingerprint sensor for the Dell XPS 15 9500, meaning all users of this device will gain the ability to use the device's fingerprint sensor with no additional configuration required.
