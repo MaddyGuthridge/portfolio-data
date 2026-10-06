@@ -1,5 +1,7 @@
 # I Am Two Halves of a Person
 
+October 7th, 2026
+
 I don't think it is controversial to say that people change over time. If I compare myself against myself from a decade ago, I consider myself to be a different person almost entirely. In fact, this is perhaps even truer for me than for most. I have a different name, a different appearance, different knowledge, and different values. This ability to change is something I consider central to living. Anyone who stops learning and stops growing also stops living. Change is a process of addition and subtraction. One adds on new parts, and drops old parts. We must curate our fractions such that our summation reflects our values and ideals for ourselves.
 
 That change, however, is not always easy. The coupling between parts can lead us to take on aspects we don't like, or let go of parts we wish we could keep. I have been many things in the past, but most notably, I was Miguel. That is a part of me I don't wish to be anymore. It's not that I hate him. He is just a part of me that I have needed to say farewell to in order to embrace new parts. The Maddy part feels truer; more comfortable. But not necessarily happier. Until I say farewell to Miguel entirely though, I am still two halves of a person.
