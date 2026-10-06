@@ -17,6 +17,12 @@ I discovered and responsibly disclosed a critical-severity remote code execution
 * I contributed design advice for a [scripting system](https://github.com/Slackadays/Clipboard/issues/171#issuecomment-2430947544) to improve integration in systems like Linux Wayland.
 * I helped to [improve the installation script](https://github.com/Slackadays/Clipboard/pull/124) so that installing the application no-longer requires `sudo` privileges to install on most Linux systems.
 
+## Sendou.ink ([AGPL3](https://opensource.org/license/agpl-3-0))
+
+[Sendou.ink](https://sendou.ink/) is an open-source community platform for the competitive multiplayer game Splatoon.
+
+* I [found](https://github.com/sendou-ink/sendou.ink/issues/3432) and [fixed](https://github.com/sendou-ink/sendou.ink/pull/3433) a bug where updating certain profile information caused errors.
+
 ## Piccolo ORM ([MIT](https://opensource.org/license/MIT))
 
 [Piccolo](https://piccolo-orm.com/) is a fast, asynchronous and type-safe ORM for Python. I [discovered](https://github.com/piccolo-orm/piccolo/issues/672) and [fixed](https://github.com/piccolo-orm/piccolo/pull/673) untested edge case where a confusing internal error was produced, helping to improve the user-experience of the library.

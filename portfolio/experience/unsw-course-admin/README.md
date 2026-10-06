@@ -1,6 +1,6 @@
 # Course Administrator at UNSW
 
-***January 2023 - Present***
+***January 2023 - May 2026***
 
 I have administrated UNSW's COMP1010 course since the start of 2023, where I have worked to rewrite its tutorial and lab content to increase student engagement.
 

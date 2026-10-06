@@ -14,6 +14,7 @@ As well as [presenting](/blog/you-might-not-need-nixos), I helped to plan audio-
 * Running screen and audio capture.
 * Briefing all presenters on hand-held and lavelier microphone technique to ensure their presentations were audible for audience members and the recording.
 * Managing all AV equipment setup and tear-down with a very short timeline.
+* Creating a bespoke promotional website for the event.
 
 ## Small promotional projects
 
