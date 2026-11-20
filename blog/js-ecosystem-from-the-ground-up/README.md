@@ -1,7 +1,5 @@
 # The JavaScript Ecosystem, from the Ground Up
 
-March 8th, 2026
-
 One of the most frightening things about learning JavaScript is the massive scope of the ecosystem that surrounds it. There is so much going on compared to many other languages, which can make it really difficult to feel confident as a developer who is new to JS. In this blog post, we'll look at the JS ecosystem, starting from the lowest-level and working our way up.
 
 ## Who is this for?

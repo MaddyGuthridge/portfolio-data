@@ -1,6 +1,6 @@
 # AI is a capitalist hell-scape. What do we do now?
 
-An essay by Maddy Guthridge --- October 21st, 2025
+An essay by Maddy Guthridge.
 
 * [Read as a PDF](/data/blog/ai-is-a-capitalist-hell-scape/Essay.pdf)
 * [Download the source file (Typst)](/data/blog/ai-is-a-capitalist-hell-scape/Essay.typ)

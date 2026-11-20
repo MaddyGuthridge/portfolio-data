@@ -1,7 +1,5 @@
 # Scatterbrained curiosity killed the RCE
 
-July 6th, 2026
-
 Just over a week ago, I stumbled across a remote code execution vulnerability that had somehow survived 9 years without being patched. This happened because I got sidetracked, and then sidetracked again. I've often considered my frequent side-questing and distractability to be my biggest flaw when it comes to being a productive member of society, but with this discovery, my perception of this aspect of myself has changed dramatically.
 
 Note: this blog post doesn't focus on the technical details of the vulnerability. For that, you can check out my [proof-of-concept repository](https://github.com/MaddyGuthridge/sync-rce), which has a full breakdown.

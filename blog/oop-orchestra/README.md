@@ -1,7 +1,5 @@
 # Object-oriented programming is like an orchestra
 
-<small>Maddy Guthridge --- July 3rd, 2025</small>
-
 What is the first thing you think of when you think of object-oriented programming? For most, the key features are classes, inheritance and polymorphism. However, when you ask "object-oriented nerds" (said with love), such as "Father of OOP" Alan Kay, [they will often say](https://www.purl.org/stefan_ram/pub/doc_kay_oop_en) that the core principle is instead *message passing*. In this blog post, I'll throw my hat into the ring in agreement.
 
 When designing object-oriented systems, huge amounts of consideration are given to the design and maintainability of the code-base, perhaps more-so than in any other programming paradigm. This design obsession manifests itself both through excellent resources such as [Alexander Shvets' refactoring.guru](https://refactoring.guru), as well as in [incredible parody](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) of the often-over-designed nature of object-oriented code-bases.

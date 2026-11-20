@@ -1,23 +1,32 @@
 {
   "name": "Blog",
-  "description": "My personal blog",
-  "readme": "README.md",
   "shortName": null,
+  "description": "My personal blog",
+  "timeCreated": 1747668178,
+  "timeEdited": 1747668178,
+  "readme": "README.md",
+  "article": false,
+  "author": null,
+  "feed": {
+    "title": "Maddy Guthridge's Blog",
+    "providers": {
+      "atom": true
+    }
+  },
   "icon": null,
   "banner": null,
   "color": "#e633ca",
   "sections": [
     {
       "type": "site",
-      "icon": "las la-rss",
-      "label": "Subscribe with RSS",
-      "url": "https://maddyguthridge.com/blog/feed.atom"
-    },
-    {
-      "type": "site",
       "icon": "las la-utensils",
       "label": "Support my work by buying me a pasta bowl",
       "url": "https://buymeacoffee.com/maddyguthridge"
+    },
+    {
+      "type": "feed",
+      "icon": null,
+      "label": null
     }
   ],
   "children": [
@@ -47,15 +56,5 @@
       "Essay",
       "Education"
     ]
-  },
-  "author": null,
-  "timeCreated": 1747668178,
-  "timeEdited": 1747668178,
-  "article": false,
-  "feed": {
-    "title": "Maddy Guthridge's Blog",
-    "providers": {
-      "atom": true
-    }
   }
 }
