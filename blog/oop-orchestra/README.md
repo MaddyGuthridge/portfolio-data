@@ -18,7 +18,7 @@ Fortunately, musicians almost never work alone. Creating many forms of music req
 
 In an orchestra, the role of a conductor is to direct and synchronise a large ensemble such that the musicians (hopefully) produce a coordinated and beautiful piece of music. This is done through the movement of a baton (as well as the use of other hand gestures) to indicate meter, tempo and style. In my small amount of experience conducting (the Sesame Street theme played by the Manning Valley Youth Concert Band), I learnt that the messages conductors convey to players are both simple and clear. Consider dynamics (loud vs soft music), and guess which dynamic is indicated by each movement below.
 
-![A simple diagram comparing two movement patterns of a conductor's baton. While both movement patterns have the same overall shape, the left one is much larger than the right.](/data/blog/oop-orchestra/baton-movement.png)
+![A simple diagram comparing two movement patterns of a conductor's baton. While both movement patterns have the same overall shape, the left one is much larger than the right.](/-/data/blog/oop-orchestra/baton-movement.png)
 
 Of course, the answer is that the left option is louder. Just by changing to a larger hand movement, I can indicate an increased volume. These simple gestures are used to convey all kinds of musical instructions, from articulation and tempo adjustments to cuing soloists.
 
