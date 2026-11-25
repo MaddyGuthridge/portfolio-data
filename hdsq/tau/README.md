@@ -1,5 +1,13 @@
 # Tau, The Song with 6.28318 Million Notes
 
+<score lang="ABC">
+X: 1
+M: 4/4
+L: 1/8
+K: Bmin
+Bfef afef | B8 |]
+</score>
+
 Tau is my greatest Black MIDI, and is regarded by some to be the best Black MIDI ever. It was composed over the course of an entire year, with over 250 hours spent working on it.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b0gyQMJHQ78?si=2YABVzLupWzVPWKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -11,6 +19,14 @@ It was created in reference to [TSMB2's Pi (The Song with 3.1415 million notes)]
 This composition originally started as a collaboration with the notorious blacker Emex (creator of the Nuker series, YouTube channel now deleted). They created the original opening motif (`B F# E F# A F# E F# B`) ascending motif (`B C# D F# B^ C# D F#`) and chord progression, which I expanded from there. After my contributions, they lost interest in the project, and so I continued working on it by myself. Over the next few hundred hours, I ended up changing almost the entire project.
 
 I think I realised I had created something truly special when I composed the 6/8 section of the piece. I remember doing this without any audio, since I had forgotten my headphones that day. I spent so much time trying to create a 6/8 adaptation of the main melody, but ended up getting the chords wrong due to the lack of audio. I then developed that section into what is now my favourite part of the composition.
+
+<score lang="ABC">
+X: 1
+M: 6/8
+L: 1/8
+K: Bmin
+z3 z Bc | d6 | f6- | f6 | e6  | B6 | d6- | d6 |]
+</score>
 
 I'm sure you can tell from the final version number (2.5.9) that a huge amount of time was spent revising the composition. I tried to use semantic versioning for the version numbers, and so the major version bump happened when I made major tweaks to the ending of the piece (completely redoing the key change). The minor version bumps happened when I made significant changes to melodic elements, and the patch version bumps happened whenever I made small adjustments for audio balancing or art improvements.
 

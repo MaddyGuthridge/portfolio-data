@@ -1,5 +1,13 @@
 # Unify
 
+<score lang="ABC">
+X: 1
+M: 4/4
+L: 1/16
+K: Fmin
+f2c2f2a2 z g- g z e2e2 :|]
+</score>
+
 Unify is a [black MIDI](https://en.wikipedia.org/wiki/Black_MIDI) medley which
 was created as a 3-year-long collaboration between 15 talented composers,
 musicians and artists, as well as (at the time) over 400 supporters in the

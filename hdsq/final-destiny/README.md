@@ -3,6 +3,15 @@
 > We all dream of the next world awaiting us. It's time to board the spaceship and travel across the galaxy, where you will meet your final destiny...
 > -- MusiMasta
 
+<score lang="ABC">
+X: 1
+M: 4/4
+L: 1/8
+K: Eb
+C8 | D6 E2 | E2 F2 E2 DC- | C8 | G6 A2 | G3 F- F2 E2 | C8- | C8 |]
+</score>
+
+
 Final Destiny was an original composition, created in collaboration with fellow blacker and friend [MusiMasta](https://www.youtube.com/@MusiMasta).
 
 Overall, I feel like our work was a little rushed, with the different sections not really integrating all that nicely together. I think this could have been a far better composition if we spent a little more time trying to fit things together a little better, and spent more time balancing the melody against the (overly-loud) backing parts. 

@@ -1,5 +1,13 @@
 # Ouranos
 
+<score lang="ABC">
+X: 1
+M: 2/2
+L: 1/8
+K: Fmin
+(ag f6- | f2) b2a2g2 | (ag f6- | f2) |]
+</score>
+
 Ouranos is a Black MIDI which I composed in collaboration with [The Romanticist](https://www.youtube.com/@theromanticist8023) in 2019. The dissonant and demanding melody in the A-sections is inspired by the (as described by 2019 me) *"probably unsafe levels of stress"* I experienced in my final year of high school.
 
 ## Watch on YouTube

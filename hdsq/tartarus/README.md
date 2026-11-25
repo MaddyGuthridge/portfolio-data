@@ -1,5 +1,13 @@
 # Tartarus
 
+<score lang="ABC">
+X: 1
+M: 4/4
+L: 1/8
+K: Dmin
+FEDC- C E3 | EDC=B,- B, G,3 | EFED- D ^C3 | D8 |]
+</score>
+
 Tartarus is the Greek god of the deepest darkest pit of the underworld. I composed this piece in celebration of reaching 100 subscribers to my YouTube channel. Melodically, it doesn't feel nearly as menacing as its name implies (turns out you need a little more than a minor key and a fast tempo to make something scary), but it more than makes up for it with its massive note count and heavy "crash points".
 
 When composing this Black MIDI, I distinctly remember testing it across all the computers I had access to to make sure that the levels of lag it caused when it was played as a "legit run" were perfectly optimised to make it impossible to "pass" before the song completed (but only barely so). So many sections received repeated adjustments to make them lag "just the right amount", especially in the final A and B sections after the key change.

@@ -1,5 +1,13 @@
 # The 12 Days of Christmas
 
+<score lang="ABC">
+X: 1
+M: 3/4
+L: 1/8
+K: Eb
+b2 fgaf | b2 fgaf | b2 fgaf | b2 fgaf | b2 fgaf | b2 fgaf |b2 fgaf |]
+</score>
+
 I arranged this classic Christmas song in collaboration with [MBMS](https://www.youtube.com/@MBMS) at the end of 2017. Ordinarily, I find this piece to be incredibly repetitive, but thanks to the subtle art of spamming millions of notes, I think we were able to liven it up quite a bit, even through 12 entire verses.
 
 A fun piece of trivia is that the video thumbnail, where the background appears to be corrupted, is actually a screenshot from a test render of the video where I accidentally set the bit-rate incorrectly, causing the video to fail to encode the huge number of notes towards the end of the piece.

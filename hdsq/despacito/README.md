@@ -1,5 +1,13 @@
 # Despacito
 
+<score lang="ABC">
+X: 1
+M: 2/2
+L: 1/8
+K: Bmin
+d4 c4 | B2 !style=x!D2 BBBB | BBBB B2 AB- | B G3 |]
+</score>
+
 I made this arrangement of Despacito back in 2017 when the song wasn't cringe yet. My mum then prevented me from publishing it for months (she wanted me to focus on school), and it was cringe by the time I published it. This was so sad, Alexa play Despacito.
 
 Ok, now that I've gotten the shitposting out of my system, I'm unironically proud of my arrangement of this -- it slaps pretty hard, especially in the second verse, where I added a little syncopation to the bass line, which I feel gives a much stronger clave-esque feel to the rhythm.

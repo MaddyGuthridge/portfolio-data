@@ -1,5 +1,13 @@
 # When Donald Isn't Home
 
+<score lang="ABC">
+X: 1
+M: 4/4
+L: 1/16
+K: Amin
+A,3EA2A2 A2A2A2E2 | F2A2A2F2 E8 |]
+</score>
+
 A remix of the (popular at the time) meme ["When mom isn't home"](https://youtu.be/51beOlNC0qo), using a [Donald Trump sound font](https://youtu.be/AOEdaNayYaU). This shitpost has aged like fine wine.
 
 ## Trivia

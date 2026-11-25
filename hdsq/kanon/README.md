@@ -1,5 +1,13 @@
 # 花音: The Sound of a Flower
 
+<score lang="ABC">
+X: 1
+M: 3/4
+L: 1/8
+K: F#
+ab | c'3b a2 | g2 f2 g2 | f6- | f6 |]
+</score>
+
 The Sound of a Flower was composed as a gift for my host sister Kanon, who lived with my family for two weeks as part of [my high school's exchange program](https://www.tareesc.catholic.edu.au/learning/curriculum/subjects-courses/languages/) with sister school [Kobe Kaisei Girls High School](https://www.kobekaisei.ed.jp/english/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C4YaffMF1IA?si=wyec7Q-Yr7ffwPX6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

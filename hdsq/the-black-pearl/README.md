@@ -1,5 +1,14 @@
 # Pirates of the Caribbean: The Black Pearl
 
+
+<score lang="ABC">
+X: 1
+M: 3/4
+L: 1/8
+K: Dmin
+d2 defd | e2 d2 c2 | d2 z2 z2 |]
+</score>
+
 This one was a little excessive... I think I focussed a little too hard on adding ten million notes, rather than making the arrangement musically good.
 
 I'm also not especially proud of how I made use of other people's note art. Of course, their art is incredible, but it would have been cooler if I made all of the art myself.

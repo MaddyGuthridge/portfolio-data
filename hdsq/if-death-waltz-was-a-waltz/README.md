@@ -1,5 +1,13 @@
 # If Death Waltz Was a Waltz
 
+<score lang="ABC">
+X: 1
+M: 3/4
+L: 1/8
+K: Dmin
+D4 A2 | E4 A2 | F2 FG- GA | G4 =B2 | d2 Ae- ef | e2 fed^c | d6- | d6 |]
+</score>
+
 "Last Brutal Sister Flandre S", also referred to as "U.N. Owen was Her?" is a song from *Touhou 6: The Embodiment of Scarlet Devil*, which was arranged into a Black MIDI, and is recognised one of the first Black MIDI compositions. Due to reasons unbeknownst to me, the piece is often mislabelled as "Death Waltz", despite neither being a waltz, nor having any deaths associated with it.
 
 To correct this, I created my magnum opus: ***If Death Waltz was a Waltz***, a rearrangement of the piece into 3/4 time, with such awful instrumentation that it is likely to cause at least one death at some point in the future.
