@@ -1,17 +1,26 @@
 {
   "name": "I Am Two Halves of a Person",
   "shortName": null,
-  "author": null,
   "description": "October 7th, 2026",
   "timeCreated": 1791293844,
   "timeEdited": 1791293844,
   "readme": "README.md",
   "article": true,
+  "author": null,
   "feed": null,
   "icon": null,
   "banner": null,
   "color": "#8647dd",
-  "sections": [],
+  "sections": [
+    {
+      "type": "links",
+      "label": "Tags",
+      "style": "chip",
+      "items": [
+        "/blog/tags/queerness"
+      ]
+    }
+  ],
   "children": [],
   "filters": [],
   "seo": {

@@ -1,12 +1,25 @@
 {
   "name": "AI decision-making can be ethical, but is that enough?",
-  "description": "April 18th, 2025",
-  "readme": "README.md",
   "shortName": null,
+  "description": "April 18th, 2025",
+  "timeCreated": 1744898400,
+  "timeEdited": 1744898400,
+  "readme": "README.md",
+  "article": true,
+  "author": null,
+  "feed": null,
   "icon": null,
   "banner": null,
   "color": "#ffbe6f",
   "sections": [
+    {
+      "type": "links",
+      "label": "Tags",
+      "style": "chip",
+      "items": [
+        "/blog/tags/seng"
+      ]
+    },
     {
       "type": "links",
       "label": "Related experience",
@@ -29,10 +42,5 @@
       "Automation",
       ""
     ]
-  },
-  "author": null,
-  "timeCreated": 1744898400,
-  "timeEdited": 1744898400,
-  "article": true,
-  "feed": null
+  }
 }

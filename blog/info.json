@@ -42,7 +42,9 @@
     "distro-hoppers-checklist",
     "1531-setup"
   ],
-  "filters": [],
+  "filters": [
+    "/blog/tags"
+  ],
   "seo": {
     "description": "Maddy Guthridge's personal blog, where you'll find her musings on software engineering, education, accessibility, Linux and LGBTQIA+ topics",
     "keywords": [

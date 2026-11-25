@@ -1,8 +1,13 @@
 {
   "name": "Type safety is an accessibility feature",
-  "description": "March 16th, 2025",
-  "readme": "README.md",
   "shortName": null,
+  "description": "March 16th, 2025",
+  "timeCreated": 1742043600,
+  "timeEdited": 1742043600,
+  "readme": "README.md",
+  "article": true,
+  "author": null,
+  "feed": null,
   "icon": null,
   "banner": null,
   "color": "#ffbdf0",
@@ -12,7 +17,9 @@
       "label": "Tags",
       "style": "chip",
       "items": [
-        "/portfolio/skills/type-safety"
+        "/portfolio/skills/type-safety",
+        "/blog/tags/seng",
+        "/blog/tags/accessibility"
       ]
     }
   ],
@@ -23,10 +30,5 @@
     "keywords": [
       "Type safety is an accessibility feature"
     ]
-  },
-  "author": null,
-  "timeCreated": 1742043600,
-  "timeEdited": 1742043600,
-  "article": true,
-  "feed": null
+  }
 }

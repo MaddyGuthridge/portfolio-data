@@ -1,12 +1,26 @@
 {
   "name": "Distro Hopper's Checklist",
-  "description": "July 12th, 2023",
-  "readme": "README.md",
   "shortName": null,
+  "description": "July 12th, 2023",
+  "timeCreated": 1689084000,
+  "timeEdited": 1689084000,
+  "readme": "README.md",
+  "article": true,
+  "author": null,
+  "feed": null,
   "icon": null,
   "banner": null,
   "color": "#f6d32d",
-  "sections": [],
+  "sections": [
+    {
+      "type": "links",
+      "label": "Tags",
+      "style": "chip",
+      "items": [
+        "/blog/tags/seng"
+      ]
+    }
+  ],
   "children": [],
   "filters": [],
   "seo": {
@@ -18,10 +32,5 @@
       "Distro-hopping",
       "Installing"
     ]
-  },
-  "author": null,
-  "timeCreated": 1689084000,
-  "timeEdited": 1689084000,
-  "article": true,
-  "feed": null
+  }
 }

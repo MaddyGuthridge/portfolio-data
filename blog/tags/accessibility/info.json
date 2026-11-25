@@ -1,0 +1,30 @@
+{
+  "name": "Accessibility",
+  "shortName": null,
+  "description": "Posts about accissibility, neurodiversity, and disability",
+  "timeCreated": 1795622870,
+  "timeEdited": 1795622870,
+  "readme": "README.md",
+  "article": false,
+  "author": null,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#3584e4",
+  "sections": [
+    {
+      "type": "backlinks",
+      "label": "Posts with this tag",
+      "style": "card",
+      "parentItem": "/blog"
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Accessibility"
+    ]
+  }
+}

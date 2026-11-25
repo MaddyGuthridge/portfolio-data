@@ -1,12 +1,12 @@
 {
   "name": "Object-oriented programming is like an orchestra",
   "shortName": null,
-  "author": null,
   "description": "July 3rd, 2025",
   "timeCreated": 1751551104,
   "timeEdited": 1751551104,
   "readme": "README.md",
   "article": true,
+  "author": null,
   "feed": null,
   "icon": null,
   "banner": null,
@@ -19,7 +19,8 @@
       "items": [
         "/portfolio/experience/unsw-tutoring",
         "/portfolio/skills/oop",
-        "/portfolio/skills/design-patterns"
+        "/portfolio/skills/design-patterns",
+        "/blog/tags/seng"
       ]
     }
   ],

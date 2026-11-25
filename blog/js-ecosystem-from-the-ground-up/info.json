@@ -1,12 +1,12 @@
 {
   "name": "The JavaScript Ecosystem, from the Ground Up",
   "shortName": null,
-  "author": null,
   "description": "March 8th, 2026",
   "timeCreated": 1772972613,
   "timeEdited": 1772972613,
   "readme": "README.md",
   "article": true,
+  "author": null,
   "feed": null,
   "icon": null,
   "banner": null,
@@ -19,7 +19,8 @@
       "items": [
         "/portfolio/experience/unsw-tutoring",
         "/portfolio/languages/javascript",
-        "/portfolio/skills/full-stack"
+        "/portfolio/skills/full-stack",
+        "/blog/tags/seng"
       ]
     }
   ],

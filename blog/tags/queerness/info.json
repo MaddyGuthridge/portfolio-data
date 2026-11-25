@@ -1,0 +1,30 @@
+{
+  "name": "Queerness",
+  "shortName": null,
+  "description": "Posts about my identity as an LGBTQIA+ person",
+  "timeCreated": 1795622788,
+  "timeEdited": 1795622788,
+  "readme": "README.md",
+  "article": false,
+  "author": null,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#e633ca",
+  "sections": [
+    {
+      "type": "backlinks",
+      "label": "Posts with this tag",
+      "style": "card",
+      "parentItem": "/blog"
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Queerness"
+    ]
+  }
+}

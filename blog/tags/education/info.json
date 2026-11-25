@@ -1,0 +1,30 @@
+{
+  "name": "Education",
+  "shortName": null,
+  "description": "Posts about teaching and learning",
+  "timeCreated": 1795623409,
+  "timeEdited": 1795623409,
+  "readme": "README.md",
+  "article": false,
+  "author": null,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#9141ac",
+  "sections": [
+    {
+      "type": "backlinks",
+      "label": "Posts with this tag",
+      "style": "card",
+      "parentItem": "/blog"
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Education"
+    ]
+  }
+}

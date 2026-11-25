@@ -1,12 +1,12 @@
 {
   "name": "AI is a capitalist hell-scape. What do we do now?",
   "shortName": "AI is a capitalist hell-scape",
-  "author": null,
   "description": "October 21st, 2025",
   "timeCreated": 1760978310,
   "timeEdited": 1760978310,
   "readme": "README.md",
   "article": true,
+  "author": null,
   "feed": null,
   "icon": null,
   "banner": null,
@@ -18,6 +18,14 @@
       "style": "chip",
       "items": [
         "/portfolio/experience/bsc-cs"
+      ]
+    },
+    {
+      "type": "links",
+      "label": "Tags",
+      "style": "chip",
+      "items": [
+        "/blog/tags/seng"
       ]
     }
   ],

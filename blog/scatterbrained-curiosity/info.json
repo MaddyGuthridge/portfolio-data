@@ -1,17 +1,27 @@
 {
   "name": "Scatterbrained curiosity killed the RCE",
   "shortName": null,
-  "author": null,
   "description": "July 6th, 2026",
   "timeCreated": 1783262705,
   "timeEdited": 1783262705,
   "readme": "README.md",
   "article": true,
+  "author": null,
   "feed": null,
   "icon": null,
   "banner": null,
   "color": "#cc3755",
-  "sections": [],
+  "sections": [
+    {
+      "type": "links",
+      "label": "Tags",
+      "style": "chip",
+      "items": [
+        "/blog/tags/seng",
+        "/blog/tags/accessibility"
+      ]
+    }
+  ],
   "children": [],
   "filters": [],
   "seo": {

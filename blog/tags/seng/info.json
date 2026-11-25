@@ -1,0 +1,30 @@
+{
+  "name": "Software Engineering",
+  "shortName": null,
+  "description": "Blog posts about software engineering",
+  "timeCreated": 1795622684,
+  "timeEdited": 1795622684,
+  "readme": "README.md",
+  "article": false,
+  "author": null,
+  "feed": null,
+  "icon": null,
+  "banner": null,
+  "color": "#ff7800",
+  "sections": [
+    {
+      "type": "backlinks",
+      "label": "Posts with this tag",
+      "style": "card",
+      "parentItem": "/blog"
+    }
+  ],
+  "children": [],
+  "filters": [],
+  "seo": {
+    "description": null,
+    "keywords": [
+      "Software Engineering"
+    ]
+  }
+}
